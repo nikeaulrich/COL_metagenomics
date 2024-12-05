@@ -1,0 +1,3 @@
+[2024-11-26 15:10:50,877] multiqc.core.file_search                           [INFO   ]  Search path: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/trimmed
+[2024-11-26 15:10:54,245] multiqc.modules.cutadapt.cutadapt                  [INFO   ]  Found 54 reports
+[2024-11-26 15:10:55,133] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 54 reports
