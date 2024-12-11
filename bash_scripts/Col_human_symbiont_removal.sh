@@ -4,14 +4,14 @@
 #SBATCH -p cpu  # Partition
 #SBATCH -t 24:00:00  # Job time limit
 #SBATCH --mail-type=ALL
-#SBATCH -o /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/slurm-HSremoval-%j.out  # %j = job ID
+#SBATCH -o /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/slurm-HSremoval-%j.out  # %j = job ID
 
 module load conda/latest
 conda activate assembly
 
 # 2)remove symbiont and human seqs using fastq screen 
-SAMPLENAME="mcav"
-SAMPLELIST="032024_mcav_sampleids.txt" 
+SAMPLENAME="pstr"
+SAMPLELIST="032024_pstr_sampleids.txt" 
 READSPATH="/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/${SAMPLENAME}/host_removed"
 LISTPATH="/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/"
 
@@ -39,4 +39,4 @@ conda deactivate
 echo "Symbiont, host removal: All samples processed successfully."
 
 # JOB-ID:
-# bash script file name: nikea/COL/Col_human_symiont_removal.sh
+# bash script file name: nikea/COL/bash_scripts/Col_human_symiont_removal.sh
