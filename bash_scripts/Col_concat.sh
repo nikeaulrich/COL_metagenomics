@@ -34,7 +34,7 @@ while IFS= read -r SAMPLEID; do
     else
         echo "Reverse read file not found for sample $SAMPLEID"
     fi
-done < "$LISTPATH/032024_pstr_sampleids"
+done < "$LISTPATH/${SAMPLELIST}"
 
 conda deactivate
 echo "Concatenation completed!"
