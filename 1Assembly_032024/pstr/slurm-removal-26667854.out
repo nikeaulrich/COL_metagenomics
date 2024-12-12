@@ -1,0 +1,21 @@
+Loading conda
+84712016 reads; of these:
+  84712016 (100.00%) were paired; of these:
+    58644690 (69.23%) aligned concordantly 0 times
+    14573438 (17.20%) aligned concordantly exactly 1 time
+    11493888 (13.57%) aligned concordantly >1 times
+    ----
+    58644690 pairs aligned concordantly 0 times; of these:
+      108688 (0.19%) aligned discordantly 1 time
+    ----
+    58536002 pairs aligned 0 times concordantly or discordantly; of these:
+      117072004 mates make up the pairs; of these:
+        112575463 (96.16%) aligned 0 times
+        2881848 (2.46%) aligned exactly 1 time
+        1614693 (1.38%) aligned >1 times
+33.55% overall alignment rate
+[bam_sort_core] merging from 3 files and 2 in-memory blocks...
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 108368892 reads
+host removal completed successfully for sample: 032024_COL_SAN_T5_167_OFAV_S21
+Host removal: All samples processed successfully.
