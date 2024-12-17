@@ -2,15 +2,15 @@
 #SBATCH -c 24  # Number of Cores per Task
 #SBATCH --mem=180G  # Requested Memory
 #SBATCH -p cpu  # Partition
-#SBATCH -t 24:00:00  # Job time limit
+#SBATCH -t 48:00:00  # Job time limit
 #SBATCH --mail-type=ALL
-#SBATCH -o /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/slurm-assembly-%j.out  # %j = job ID
+#SBATCH -o /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/mcav/slurm-assembly-%j.out  # %j = job ID
 
 module load conda/latest
 conda activate assembly
 
-SAMPLENAME="pstr"
-SAMPLELIST="032024_pstr_sampleids.txt" 
+SAMPLENAME="mcav"
+SAMPLELIST="032024_mcav_sampleids.txt" 
 LISTPATH="/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/"
 WORKDIR="/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/${SAMPLENAME}"
 
