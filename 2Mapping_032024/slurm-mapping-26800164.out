@@ -1,0 +1,87 @@
+Loading conda
+20756877 reads; of these:
+  20756877 (100.00%) were paired; of these:
+    5673323 (27.33%) aligned concordantly 0 times
+    11324808 (54.56%) aligned concordantly exactly 1 time
+    3758746 (18.11%) aligned concordantly >1 times
+    ----
+    5673323 pairs aligned concordantly 0 times; of these:
+      401579 (7.08%) aligned discordantly 1 time
+    ----
+    5271744 pairs aligned 0 times concordantly or discordantly; of these:
+      10543488 mates make up the pairs; of these:
+        8264377 (78.38%) aligned 0 times
+        1336784 (12.68%) aligned exactly 1 time
+        942327 (8.94%) aligned >1 times
+80.09% overall alignment rate
+Sorted BAM File ..............................: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/mapping/pstr/032024_COL_SAN_T5_144_PSTR_S9.bam
+BAM File Index ...............................: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/mapping/pstr/032024_COL_SAN_T5_144_PSTR_S9.bam.bai
+22168874 reads; of these:
+  22168874 (100.00%) were paired; of these:
+    6510406 (29.37%) aligned concordantly 0 times
+    11389487 (51.38%) aligned concordantly exactly 1 time
+    4268981 (19.26%) aligned concordantly >1 times
+    ----
+    6510406 pairs aligned concordantly 0 times; of these:
+      151395 (2.33%) aligned discordantly 1 time
+    ----
+    6359011 pairs aligned 0 times concordantly or discordantly; of these:
+      12718022 mates make up the pairs; of these:
+        11805811 (92.83%) aligned 0 times
+        613243 (4.82%) aligned exactly 1 time
+        298968 (2.35%) aligned >1 times
+73.37% overall alignment rate
+Sorted BAM File ..............................: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/mapping/pstr/032024_COL_SAN_T5_147_PSTR_S10.bam
+BAM File Index ...............................: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/mapping/pstr/032024_COL_SAN_T5_147_PSTR_S10.bam.bai
+17553342 reads; of these:
+  17553342 (100.00%) were paired; of these:
+    4793215 (27.31%) aligned concordantly 0 times
+    9448383 (53.83%) aligned concordantly exactly 1 time
+    3311744 (18.87%) aligned concordantly >1 times
+    ----
+    4793215 pairs aligned concordantly 0 times; of these:
+      298841 (6.23%) aligned discordantly 1 time
+    ----
+    4494374 pairs aligned 0 times concordantly or discordantly; of these:
+      8988748 mates make up the pairs; of these:
+        7094292 (78.92%) aligned 0 times
+        1125908 (12.53%) aligned exactly 1 time
+        768548 (8.55%) aligned >1 times
+79.79% overall alignment rate
+Sorted BAM File ..............................: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/mapping/pstr/032024_COL_SAN_T5_163_PSTR_S11.bam
+BAM File Index ...............................: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/mapping/pstr/032024_COL_SAN_T5_163_PSTR_S11.bam.bai
+18135328 reads; of these:
+  18135328 (100.00%) were paired; of these:
+    5635692 (31.08%) aligned concordantly 0 times
+    8917657 (49.17%) aligned concordantly exactly 1 time
+    3581979 (19.75%) aligned concordantly >1 times
+    ----
+    5635692 pairs aligned concordantly 0 times; of these:
+      85417 (1.52%) aligned discordantly 1 time
+    ----
+    5550275 pairs aligned 0 times concordantly or discordantly; of these:
+      11100550 mates make up the pairs; of these:
+        10811103 (97.39%) aligned 0 times
+        198696 (1.79%) aligned exactly 1 time
+        90751 (0.82%) aligned >1 times
+70.19% overall alignment rate
+Sorted BAM File ..............................: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/mapping/pstr/032024_COL_SAN_T5_154_PSTR_S38.bam
+BAM File Index ...............................: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/mapping/pstr/032024_COL_SAN_T5_154_PSTR_S38.bam.bai
+25912631 reads; of these:
+  25912631 (100.00%) were paired; of these:
+    8264213 (31.89%) aligned concordantly 0 times
+    13560590 (52.33%) aligned concordantly exactly 1 time
+    4087828 (15.78%) aligned concordantly >1 times
+    ----
+    8264213 pairs aligned concordantly 0 times; of these:
+      135552 (1.64%) aligned discordantly 1 time
+    ----
+    8128661 pairs aligned 0 times concordantly or discordantly; of these:
+      16257322 mates make up the pairs; of these:
+        15358874 (94.47%) aligned 0 times
+        627598 (3.86%) aligned exactly 1 time
+        270850 (1.67%) aligned >1 times
+70.36% overall alignment rate
+Sorted BAM File ..............................: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/mapping/pstr/032024_COL_SAN_T5_162_PSTR_S39.bam
+BAM File Index ...............................: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/mapping/pstr/032024_COL_SAN_T5_162_PSTR_S39.bam.bai
+Mapping success!
