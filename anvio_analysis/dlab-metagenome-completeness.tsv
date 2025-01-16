@@ -1,0 +1,8 @@
+bin name	domain	confidence	% completion	% redundancy	num_splits	total length
+metabat2_1	BACTERIA	1.0	94.37	1.41	117	1960072
+concoct_29	BACTERIA	1.0	98.59	0.00	177	1952525
+concoct_158	BACTERIA	0.9	84.51	0.00	228	1182956
+concoct_97	BACTERIA	1.0	92.96	4.23	352	2188967
+metabat2_8	BACTERIA	0.8	81.69	9.86	406	1146282
+concoct_66	BACTERIA	0.7	74.65	5.63	631	1897344
+concoct_78	BACTERIA	0.7	59.15	8.45	21	278479
