@@ -1,4 +1,0 @@
-scg_name	percent_identity	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species	dlab_032024_COL_SAN_T5_143_DLAB_S40	dlab_032024_COL_SAN_T5_146_DLAB_S12	dlab_032024_COL_SAN_T5_148_DLAB_S13	dlab_032024_COL_SAN_T5_149_DLAB_S14	dlab_032024_COL_SAN_T5_158_DLAB_S15	dlab_032024_COL_SAN_T5_159_DLAB_S16	dlab_032024_COL_SAN_T5_160_DLAB_S41	dlab_032024_COL_SAN_T5_161_DLAB_S42
-dlab_Ribosomal_L16_195555	95.2	Bacteria	Pseudomonadota	Gammaproteobacteria	UBA4486	UBA4486	UBA11869	UBA11869 sp002721165	2.183574879	1.937198068	0.480676329	5.077294686	6.078947368	0	0	1.023809524
-dlab_Ribosomal_L16_201867	90.4	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	UBA1172	UBA12202	UBA12202 sp016778985	0	0	0	0	0	0	0	68.0990099
-dlab_Ribosomal_L16_175077	93.5	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	Aridibacter	None	0	0	0	0.86827957	0	0	1.755376344	2.526315789
