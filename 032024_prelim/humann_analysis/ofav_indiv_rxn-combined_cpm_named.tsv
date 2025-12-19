@@ -1,0 +1,1032 @@
+# Gene Family	032024_COL_SAN_T5_139_OFAV_S17_filter_ready_all_Abundance-CPM	032024_COL_SAN_T5_140_OFAV_S18_filter_ready_all_Abundance-CPM	032024_COL_SAN_T5_141_OFAV_S19_filter_ready_all_Abundance-CPM	032024_COL_SAN_T5_166_OFAV_S20_filter_ready_all_Abundance-CPM	032024_COL_SAN_T5_167_OFAV_S21_filter_ready_all_Abundance-CPM
+UNMAPPED	979024	979472	978662	978702	979137
+UNGROUPED	20933.57683	20490.19002	21295.86242	21195.33653	20800.87676
+UNGROUPED|unclassified	20933.57683	20490.19002	21295.86242	21195.33653	20800.87676
+RXN-15559: (expasy) HECT-type E3 ubiquitin transferase [2.3.2.26]	10.0982	18.7298	17.1909	21.0158	14.9101
+RXN-15559: (expasy) HECT-type E3 ubiquitin transferase [2.3.2.26]|unclassified	10.0982	18.7298	17.1909	21.0158	14.9101
+RXN-15560: (expasy) HECT-type E3 ubiquitin transferase [2.3.2.26]	10.0982	18.7298	17.1909	21.0158	14.9101
+RXN-15560: (expasy) HECT-type E3 ubiquitin transferase [2.3.2.26]|unclassified	10.0982	18.7298	17.1909	21.0158	14.9101
+F16ALDOLASE-RXN: (expasy) Fructose-bisphosphate aldolase [4.1.2.13]	4.8123	4.99838	5.629731	5.542026	4.691435
+F16ALDOLASE-RXN: (expasy) Fructose-bisphosphate aldolase [4.1.2.13]|unclassified	4.8123	4.99838	5.629731	5.542026	4.691435
+RXN-19916: (expasy) Fructose-bisphosphate aldolase [4.1.2.13]	4.8123	4.99838	5.629731	5.542026	4.691435
+RXN-19916: (expasy) Fructose-bisphosphate aldolase [4.1.2.13]|unclassified	4.8123	4.99838	5.629731	5.542026	4.691435
+RXN-8631: (expasy) Fructose-bisphosphate aldolase [4.1.2.13]	4.8123	4.99838	5.629731	5.542026	4.691435
+RXN-8631: (expasy) Fructose-bisphosphate aldolase [4.1.2.13]|unclassified	4.8123	4.99838	5.629731	5.542026	4.691435
+SEDOBISALDOL-RXN: (expasy) Fructose-bisphosphate aldolase [4.1.2.13]	4.8123	4.99838	5.629731	5.542026	4.691435
+SEDOBISALDOL-RXN: (expasy) Fructose-bisphosphate aldolase [4.1.2.13]|unclassified	4.8123	4.99838	5.629731	5.542026	4.691435
+PSII-RXN: (expasy) Photosystem II [1.10.3.9]	3.018714	1.2792432	2.399925	2.2023709	2.4743467
+PSII-RXN: (expasy) Photosystem II [1.10.3.9]|unclassified	3.018714	1.2792432	2.399925	2.2023709	2.4743467
+ATPSYN-RXN: (expasy) H(+)-transporting two-sector ATPase [7.1.2.2]	3.35025	0	2.20766	3.053538	1.731704
+ATPSYN-RXN: (expasy) H(+)-transporting two-sector ATPase [7.1.2.2]|unclassified	3.35025	0	2.20766	3.053538	1.731704
+RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN: (expasy) Ribulose-bisphosphate carboxylase [4.1.1.39]	1.577402	1.197891	1.468842	2.487201	2.284972
+RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN: (expasy) Ribulose-bisphosphate carboxylase [4.1.1.39]|unclassified	1.577402	1.197891	1.468842	2.487201	2.284972
+NADH-DEHYDROG-A-RXN: (expasy) NADH:ubiquinone reductase (H(+)-translocating) [7.1.1.2]	1.319394	1.354689	1.104566	2.347422	1.700173
+NADH-DEHYDROG-A-RXN: (expasy) NADH:ubiquinone reductase (H(+)-translocating) [7.1.1.2]|unclassified	1.319394	1.354689	1.104566	2.347422	1.700173
+NADH-PQ-DEHYDROG-RXN: (expasy) NADH:ubiquinone reductase (H(+)-translocating) [7.1.1.2]	1.319394	1.354689	1.104566	2.347422	1.700173
+NADH-PQ-DEHYDROG-RXN: (expasy) NADH:ubiquinone reductase (H(+)-translocating) [7.1.1.2]|unclassified	1.319394	1.354689	1.104566	2.347422	1.700173
+RXN-21274: (expasy) NADH:ubiquinone reductase (H(+)-translocating) [7.1.1.2]	1.319394	1.354689	1.104566	2.347422	1.700173
+RXN-21274: (expasy) NADH:ubiquinone reductase (H(+)-translocating) [7.1.1.2]|unclassified	1.319394	1.354689	1.104566	2.347422	1.700173
+RXN-21415: (expasy) NADH:ubiquinone reductase (H(+)-translocating) [7.1.1.2]	1.319394	1.354689	1.104566	2.347422	1.700173
+RXN-21415: (expasy) NADH:ubiquinone reductase (H(+)-translocating) [7.1.1.2]|unclassified	1.319394	1.354689	1.104566	2.347422	1.700173
+SUCCCOASYN-RXN: (expasy) Succinate--CoA ligase (ADP-forming) [6.2.1.5]	0	0	0.796729	1.405212	0
+SUCCCOASYN-RXN: (expasy) Succinate--CoA ligase (ADP-forming) [6.2.1.5]|unclassified	0	0	0.796729	1.405212	0
+QUINOLINATE-SYNTHA-RXN: (expasy) Quinolinate synthase [2.5.1.72]	0	0	0.771663	0	0
+QUINOLINATE-SYNTHA-RXN: (expasy) Quinolinate synthase [2.5.1.72]|unclassified	0	0	0.771663	0	0
+CARBPSYN-RXN: (expasy) Carbamoyl-phosphate synthase (glutamine-hydrolyzing) [6.3.5.5]	0	0	0.651869	0	0.326166
+CARBPSYN-RXN: (expasy) Carbamoyl-phosphate synthase (glutamine-hydrolyzing) [6.3.5.5]|unclassified	0	0	0.651869	0	0.326166
+PROLINE--TRNA-LIGASE-RXN: (expasy) Proline--tRNA ligase [6.1.1.15]	0	0.513066	0.583034	0.445249	0
+PROLINE--TRNA-LIGASE-RXN: (expasy) Proline--tRNA ligase [6.1.1.15]|unclassified	0	0.513066	0.583034	0.445249	0
+FUMHYDR-RXN: (expasy) Fumarate hydratase [4.2.1.2]	0	0	0.555271	0	0.189886
+FUMHYDR-RXN: (expasy) Fumarate hydratase [4.2.1.2]|unclassified	0	0	0.555271	0	0.189886
+THIAZOLSYN2-RXN: (expasy) Thiazole synthase [2.8.1.10]	0	0	0.545208	0.3438	0
+THIAZOLSYN2-RXN: (expasy) Thiazole synthase [2.8.1.10]|unclassified	0	0	0.545208	0.3438	0
+RXN-13908: (expasy) 4a-hydroxytetrahydrobiopterin dehydratase [4.2.1.96]	0	0	0.538186	2.217909	0
+RXN-13908: (expasy) 4a-hydroxytetrahydrobiopterin dehydratase [4.2.1.96]|unclassified	0	0	0.538186	2.217909	0
+RXN-14206: (expasy) 4a-hydroxytetrahydrobiopterin dehydratase [4.2.1.96]	0	0	0.538186	2.217909	0
+RXN-14206: (expasy) 4a-hydroxytetrahydrobiopterin dehydratase [4.2.1.96]|unclassified	0	0	0.538186	2.217909	0
+DNA-DIRECTED-DNA-POLYMERASE-RXN: (expasy) DNA-directed DNA polymerase [2.7.7.7]	0	0	0.526707	0.612636	0
+DNA-DIRECTED-DNA-POLYMERASE-RXN: (expasy) DNA-directed DNA polymerase [2.7.7.7]|unclassified	0	0	0.526707	0.612636	0
+RXN-20927: (expasy) DNA-directed DNA polymerase [2.7.7.7]	0	0	0.526707	0.612636	0
+RXN-20927: (expasy) DNA-directed DNA polymerase [2.7.7.7]|unclassified	0	0	0.526707	0.612636	0
+THYMIDYLATESYN-RXN: (expasy) Thymidylate synthase [2.1.1.45]	0.361249	0	0.522771	0.702769	0
+THYMIDYLATESYN-RXN: (expasy) Thymidylate synthase [2.1.1.45]|unclassified	0.361249	0	0.522771	0.702769	0
+DIHYDROXYISOVALDEHYDRAT-RXN: (expasy) Dihydroxy-acid dehydratase [4.2.1.9]	0.417194	0.467486	0.52212	0.508938	0
+DIHYDROXYISOVALDEHYDRAT-RXN: (expasy) Dihydroxy-acid dehydratase [4.2.1.9]|unclassified	0.417194	0.467486	0.52212	0.508938	0
+"DIHYDROXYMETVALDEHYDRAT-RXN: (metacyc) 2,3-Dihydroxy-3-methylvalerate dehydratase [4.2.1.9]"	0.417194	0.467486	0.52212	0.508938	0
+"DIHYDROXYMETVALDEHYDRAT-RXN: (metacyc) 2,3-Dihydroxy-3-methylvalerate dehydratase [4.2.1.9]|unclassified"	0.417194	0.467486	0.52212	0.508938	0
+FGAMSYN-RXN: (expasy) Phosphoribosylformylglycinamidine synthase [6.3.5.3]	0	0.822275	0.491056	0	0
+FGAMSYN-RXN: (expasy) Phosphoribosylformylglycinamidine synthase [6.3.5.3]|unclassified	0	0.822275	0.491056	0	0
+RXN-11592: (expasy) 23S rRNA (pseudouridine(1915)-N(3))-methyltransferase [2.1.1.177]	0	0	0.485588	0	0
+RXN-11592: (expasy) 23S rRNA (pseudouridine(1915)-N(3))-methyltransferase [2.1.1.177]|unclassified	0	0	0.485588	0	0
+ACETYL-COA-ACETYLTRANSFER-RXN: (expasy) AMBIGUOUS [2.3.1.16; 2.3.1.9]	0	0	0.47487	1.36942	0
+ACETYL-COA-ACETYLTRANSFER-RXN: (expasy) AMBIGUOUS [2.3.1.16; 2.3.1.9]|unclassified	0	0	0.47487	1.36942	0
+RXN-12565: (expasy) AMBIGUOUS [2.3.1.16; 2.3.1.9]	0	0	0.47487	1.36942	0
+RXN-12565: (expasy) AMBIGUOUS [2.3.1.16; 2.3.1.9]|unclassified	0	0	0.47487	1.36942	0
+MUCONOLACTONE-DELTA-ISOMERASE-RXN: (expasy) Muconolactone Delta-isomerase [5.3.3.4]	0	0	0.437277	0	0
+MUCONOLACTONE-DELTA-ISOMERASE-RXN: (expasy) Muconolactone Delta-isomerase [5.3.3.4]|unclassified	0	0	0.437277	0	0
+RXN-10082: (expasy) Muconolactone Delta-isomerase [5.3.3.4]	0	0	0.437277	0	0
+RXN-10082: (expasy) Muconolactone Delta-isomerase [5.3.3.4]|unclassified	0	0	0.437277	0	0
+RIBULP3EPIM-RXN: (expasy) Ribulose-phosphate 3-epimerase [5.1.3.1]	0	0	0.433662	0	0
+RIBULP3EPIM-RXN: (expasy) Ribulose-phosphate 3-epimerase [5.1.3.1]|unclassified	0	0	0.433662	0	0
+PYRIDOXAL-4-DEHYDROGENASE-RXN: (expasy) Pyridoxal 4-dehydrogenase [1.1.1.107]	0	0	0.389363	0	0
+PYRIDOXAL-4-DEHYDROGENASE-RXN: (expasy) Pyridoxal 4-dehydrogenase [1.1.1.107]|unclassified	0	0	0.389363	0	0
+ISPH2-RXN: (expasy) 4-hydroxy-3-methylbut-2-enyl diphosphate reductase [1.17.7.4]	0	0	0.381622	0	0
+ISPH2-RXN: (expasy) 4-hydroxy-3-methylbut-2-enyl diphosphate reductase [1.17.7.4]|unclassified	0	0	0.381622	0	0
+RXN0-884: (expasy) 4-hydroxy-3-methylbut-2-enyl diphosphate reductase [1.17.7.4]	0	0	0.381622	0	0
+RXN0-884: (expasy) 4-hydroxy-3-methylbut-2-enyl diphosphate reductase [1.17.7.4]|unclassified	0	0	0.381622	0	0
+TRANS-RXN-214: (expasy) NADH:ubiquinone reductase (Na(+)-transporting) [7.2.1.1]	0	0.330216	0.37248	0	0
+TRANS-RXN-214: (expasy) NADH:ubiquinone reductase (Na(+)-transporting) [7.2.1.1]|unclassified	0	0.330216	0.37248	0	0
+PEPTIDYLPROLYL-ISOMERASE-RXN: (expasy) Peptidylprolyl isomerase [5.2.1.8]	0	0	0.358394	0	0
+PEPTIDYLPROLYL-ISOMERASE-RXN: (expasy) Peptidylprolyl isomerase [5.2.1.8]|unclassified	0	0	0.358394	0	0
+IPPISOM-RXN: (expasy) Isopentenyl-diphosphate Delta-isomerase [5.3.3.2]	0	0	0.31717	0	0
+IPPISOM-RXN: (expasy) Isopentenyl-diphosphate Delta-isomerase [5.3.3.2]|unclassified	0	0	0.31717	0	0
+ENTDB-RXN: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	0	0	0.285769	0	0
+ENTDB-RXN: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]|unclassified	0	0	0.285769	0	0
+HOLO-ACP-SYNTH-RXN: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	0	0	0.285769	0	0
+HOLO-ACP-SYNTH-RXN: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]|unclassified	0	0	0.285769	0	0
+RXN-10674: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	0	0	0.285769	0	0
+RXN-10674: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]|unclassified	0	0	0.285769	0	0
+RXN-10994: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	0	0	0.285769	0	0
+RXN-10994: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]|unclassified	0	0	0.285769	0	0
+RXN-15889: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	0	0	0.285769	0	0
+RXN-15889: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]|unclassified	0	0	0.285769	0	0
+RXN-16759: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	0	0	0.285769	0	0
+RXN-16759: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]|unclassified	0	0	0.285769	0	0
+RXN-19477: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	0	0	0.285769	0	0
+RXN-19477: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]|unclassified	0	0	0.285769	0	0
+RXN-19493: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	0	0	0.285769	0	0
+RXN-19493: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]|unclassified	0	0	0.285769	0	0
+RXN-14267: (expasy) N-acetylmuramoyl-L-alanine amidase [3.5.1.28]	0	0	0.280254	0	0
+RXN-14267: (expasy) N-acetylmuramoyl-L-alanine amidase [3.5.1.28]|unclassified	0	0	0.280254	0	0
+RXN-16938: (expasy) N-acetylmuramoyl-L-alanine amidase [3.5.1.28]	0	0	0.280254	0	0
+RXN-16938: (expasy) N-acetylmuramoyl-L-alanine amidase [3.5.1.28]|unclassified	0	0	0.280254	0	0
+RXN0-5225: (expasy) N-acetylmuramoyl-L-alanine amidase [3.5.1.28]	0	0	0.280254	0	0
+RXN0-5225: (expasy) N-acetylmuramoyl-L-alanine amidase [3.5.1.28]|unclassified	0	0	0.280254	0	0
+DNA-DIRECTED-RNA-POLYMERASE-RXN: (expasy) DNA-directed RNA polymerase [2.7.7.6]	1.183332	0	0.278372	1.274727	0.390002
+DNA-DIRECTED-RNA-POLYMERASE-RXN: (expasy) DNA-directed RNA polymerase [2.7.7.6]|unclassified	1.183332	0	0.278372	1.274727	0.390002
+BETA-GLUCOSIDE-KINASE-RXN: (expasy) Beta-glucoside kinase [2.7.1.85]	0	0	0.2637142	0	0
+BETA-GLUCOSIDE-KINASE-RXN: (expasy) Beta-glucoside kinase [2.7.1.85]|unclassified	0	0	0.2637142	0	0
+PANTEPADENYLYLTRAN-RXN: (expasy) Pantetheine-phosphate adenylyltransferase [2.7.7.3]	0	0	0.242931	0.379865	0
+PANTEPADENYLYLTRAN-RXN: (expasy) Pantetheine-phosphate adenylyltransferase [2.7.7.3]|unclassified	0	0	0.242931	0.379865	0
+UROCANATE-HYDRATASE-RXN: (expasy) Urocanate hydratase [4.2.1.49]	0.378015	0	0.238231	1.58939	0
+UROCANATE-HYDRATASE-RXN: (expasy) Urocanate hydratase [4.2.1.49]|unclassified	0.378015	0	0.238231	1.58939	0
+SHIKIMATE-KINASE-RXN: (expasy) Shikimate kinase [2.7.1.71]	0	0	0.224505	0	0
+SHIKIMATE-KINASE-RXN: (expasy) Shikimate kinase [2.7.1.71]|unclassified	0	0	0.224505	0	0
+ACETOLACTSYN-RXN: (expasy) Acetolactate synthase [2.2.1.6]	0	0	0.210943	0.67884	0
+ACETOLACTSYN-RXN: (expasy) Acetolactate synthase [2.2.1.6]|unclassified	0	0	0.210943	0.67884	0
+ACETOOHBUTSYN-RXN: (metacyc) 2-aceto-2-hydroxy-butyrate synthase [2.2.1.6]	0	0	0.210943	0.67884	0
+ACETOOHBUTSYN-RXN: (metacyc) 2-aceto-2-hydroxy-butyrate synthase [2.2.1.6]|unclassified	0	0	0.210943	0.67884	0
+UREASE-RXN: (expasy) Urease [3.5.1.5]	0	0	0.154105	0	0
+UREASE-RXN: (expasy) Urease [3.5.1.5]|unclassified	0	0	0.154105	0	0
+1.5.1.20-RXN: (expasy) Methylenetetrahydrofolate reductase (NAD(P)H) [1.5.1.20]	0	0	0	0.744966	0
+1.5.1.20-RXN: (expasy) Methylenetetrahydrofolate reductase (NAD(P)H) [1.5.1.20]|unclassified	0	0	0	0.744966	0
+1.7.2.2-RXN: (expasy) Nitrite reductase (cytochrome; ammonia-forming) [1.7.2.2]	0	0	0	0	1.17
+1.7.2.2-RXN: (expasy) Nitrite reductase (cytochrome; ammonia-forming) [1.7.2.2]|unclassified	0	0	0	0	1.17
+1TRANSKETO-RXN: (expasy) Transketolase [2.2.1.1]	0	0	0	0	0.228001
+1TRANSKETO-RXN: (expasy) Transketolase [2.2.1.1]|unclassified	0	0	0	0	0.228001
+2-HALOACID-DEHALOGENASE-RXN: (expasy) AMBIGUOUS [3.8.1.10; 3.8.1.2]	0	0	0	0	0.270274
+2-HALOACID-DEHALOGENASE-RXN: (expasy) AMBIGUOUS [3.8.1.10; 3.8.1.2]|unclassified	0	0	0	0	0.270274
+2-METHYLCITRATE-SYNTHASE-RXN: (expasy) 2-methylcitrate synthase [2.3.3.5]	0	0	0	0.220218	0
+2-METHYLCITRATE-SYNTHASE-RXN: (expasy) 2-methylcitrate synthase [2.3.3.5]|unclassified	0	0	0	0.220218	0
+2.1.1.72-RXN: (expasy) Site-specific DNA-methyltransferase (adenine-specific) [2.1.1.72]	0	0	0	0.262183	0.285973
+2.1.1.72-RXN: (expasy) Site-specific DNA-methyltransferase (adenine-specific) [2.1.1.72]|unclassified	0	0	0	0.262183	0.285973
+2.1.3.1-RXN: (expasy) Methylmalonyl-CoA carboxytransferase [2.1.3.1]	0	0	0	1.377343	0
+2.1.3.1-RXN: (expasy) Methylmalonyl-CoA carboxytransferase [2.1.3.1]|unclassified	0	0	0	1.377343	0
+2.3.1.101-RXN: (expasy) Formylmethanofuran--tetrahydromethanopterin N-formyltransferase [2.3.1.101]	0	0	0	0.621989	0
+2.3.1.101-RXN: (expasy) Formylmethanofuran--tetrahydromethanopterin N-formyltransferase [2.3.1.101]|unclassified	0	0	0	0.621989	0
+2.3.1.179-RXN: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+2.3.1.179-RXN: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+2.3.1.41-RXN: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]	0	0.414841	0	0.36869	0
+2.3.1.41-RXN: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+2.7.13.3-RXN: (expasy) Histidine kinase [2.7.13.3]	0	0	0	0.346549	0
+2.7.13.3-RXN: (expasy) Histidine kinase [2.7.13.3]|unclassified	0	0	0	0.346549	0
+2.7.7.8-RXN: (expasy) Polyribonucleotide nucleotidyltransferase [2.7.7.8]	0	0.984971	0	1.52515	0
+2.7.7.8-RXN: (expasy) Polyribonucleotide nucleotidyltransferase [2.7.7.8]|unclassified	0	0.984971	0	1.52515	0
+2PGADEHYDRAT-RXN: (expasy) Phosphopyruvate hydratase [4.2.1.11]	0.365672	0	0	0	0.465551
+2PGADEHYDRAT-RXN: (expasy) Phosphopyruvate hydratase [4.2.1.11]|unclassified	0.365672	0	0	0	0.465551
+2TRANSKETO-RXN: (expasy) Transketolase [2.2.1.1]	0	0	0	0	0.228001
+2TRANSKETO-RXN: (expasy) Transketolase [2.2.1.1]|unclassified	0	0	0	0	0.228001
+3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN: (expasy) 3-methyl-2-oxobutanoate hydroxymethyltransferase [2.1.2.11]	0	0	0	0.290484	0
+3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN: (expasy) 3-methyl-2-oxobutanoate hydroxymethyltransferase [2.1.2.11]|unclassified	0	0	0	0.290484	0
+3-HYDROXYBUTYRYL-COA-DEHYDROGENASE-RXN: (expasy) 3-hydroxybutyryl-CoA dehydrogenase [1.1.1.157]	0	0	0	0.839541	0
+3-HYDROXYBUTYRYL-COA-DEHYDROGENASE-RXN: (expasy) 3-hydroxybutyryl-CoA dehydrogenase [1.1.1.157]|unclassified	0	0	0	0.839541	0
+3-HYDROXYDECANOYL-ACP-DEHYDR-RXN: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+3-HYDROXYDECANOYL-ACP-DEHYDR-RXN: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN: (expasy) 4-hydroxy-3-polyprenylbenzoate decarboxylase [4.1.1.98]	0	0	0	0	0.362717
+3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN: (expasy) 4-hydroxy-3-polyprenylbenzoate decarboxylase [4.1.1.98]|unclassified	0	0	0	0	0.362717
+3-OXOACID-COA-TRANSFERASE-RXN: (expasy) 3-oxoacid CoA-transferase [2.8.3.5]	0	0	0	0.217606	0
+3-OXOACID-COA-TRANSFERASE-RXN: (expasy) 3-oxoacid CoA-transferase [2.8.3.5]|unclassified	0	0	0	0.217606	0
+3-OXOACYL-ACP-REDUCT-RXN: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+3-OXOACYL-ACP-REDUCT-RXN: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+3-OXOACYL-ACP-SYNTH-BASE-RXN: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]	0	0.375897	0	0	0
+3-OXOACYL-ACP-SYNTH-BASE-RXN: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]|unclassified	0	0.375897	0	0	0
+3-OXOACYL-ACP-SYNTH-RXN: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+3-OXOACYL-ACP-SYNTH-RXN: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+3.1.11.6-RXN: (expasy) Exodeoxyribonuclease VII [3.1.11.6]	0	0	0	0.420003	0.451372
+3.1.11.6-RXN: (expasy) Exodeoxyribonuclease VII [3.1.11.6]|unclassified	0	0	0	0.420003	0.451372
+3.1.21.3-RXN: (expasy) Type I site-specific deoxyribonuclease [3.1.21.3]	0	0	0	0.318348	0
+3.1.21.3-RXN: (expasy) Type I site-specific deoxyribonuclease [3.1.21.3]|unclassified	0	0	0	0.318348	0
+3.1.26.4-RXN: (expasy) Ribonuclease H [3.1.26.4]	0	0	0	0.348208	0
+3.1.26.4-RXN: (expasy) Ribonuclease H [3.1.26.4]|unclassified	0	0	0	0.348208	0
+3.1.26.5-RXN: (expasy) Ribonuclease P [3.1.26.5]	0	0	0	0	0.841245
+3.1.26.5-RXN: (expasy) Ribonuclease P [3.1.26.5]|unclassified	0	0	0	0	0.841245
+3.1.26.8-RXN: (expasy) Ribonuclease M5 [3.1.26.8]	0	0.0897153	0	0	0
+3.1.26.8-RXN: (expasy) Ribonuclease M5 [3.1.26.8]|unclassified	0	0.0897153	0	0	0
+3.2.1.21-RXN: (expasy) Beta-glucosidase [3.2.1.21]	0	0.262754	0	0	0
+3.2.1.21-RXN: (expasy) Beta-glucosidase [3.2.1.21]|unclassified	0	0.262754	0	0	0
+3.4.11.4-RXN: (expasy) Tripeptide aminopeptidase [3.4.11.4]	0	0	0	0	0.64435
+3.4.11.4-RXN: (expasy) Tripeptide aminopeptidase [3.4.11.4]|unclassified	0	0	0	0	0.64435
+3.4.21.53-RXN: (expasy) Endopeptidase La [3.4.21.53]	0	0.4244	0	0	0
+3.4.21.53-RXN: (expasy) Endopeptidase La [3.4.21.53]|unclassified	0	0.4244	0	0	0
+3.4.21.92-RXN: (expasy) Endopeptidase Clp [3.4.21.92]	0	0	0	1.18484	1.4764392
+3.4.21.92-RXN: (expasy) Endopeptidase Clp [3.4.21.92]|unclassified	0	0	0	1.18484	1.4764392
+3.4.25.1-RXN: (expasy) Proteasome endopeptidase complex [3.4.25.1]	0	0	0	0.141497	0
+3.4.25.1-RXN: (expasy) Proteasome endopeptidase complex [3.4.25.1]|unclassified	0	0	0	0.141497	0
+4.2.1.58-RXN: (metacyc) (3R)-3-hydroxybutanoyl-[acyl-carrier-protein] hydratase [4.2.1.59]	0	0	0	0.63109	0
+4.2.1.58-RXN: (metacyc) (3R)-3-hydroxybutanoyl-[acyl-carrier-protein] hydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+4.2.1.59-RXN: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+4.2.1.59-RXN: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+4.2.1.61-RXN: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+4.2.1.61-RXN: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+4.2.1.99-RXN: (expasy) 2-methylisocitrate dehydratase [4.2.1.99]	0	0	0	0	0.772383
+4.2.1.99-RXN: (expasy) 2-methylisocitrate dehydratase [4.2.1.99]|unclassified	0	0	0	0	0.772383
+4.2.3.12-RXN: (expasy) 6-pyruvoyltetrahydropterin synthase [4.2.3.12]	0	0	0	1.375564	0
+4.2.3.12-RXN: (expasy) 6-pyruvoyltetrahydropterin synthase [4.2.3.12]|unclassified	0	0	0	1.375564	0
+4OH2OXOGLUTARALDOL-RXN: (expasy) 4-hydroxy-2-oxoglutarate aldolase [4.1.3.16]	0	0	0	0.415194	0
+4OH2OXOGLUTARALDOL-RXN: (expasy) 4-hydroxy-2-oxoglutarate aldolase [4.1.3.16]|unclassified	0	0	0	0.415194	0
+ACETATE--COA-LIGASE-RXN: (expasy) Acetate--CoA ligase [6.2.1.1]	0	0	0	0.5157	0
+ACETATE--COA-LIGASE-RXN: (expasy) Acetate--CoA ligase [6.2.1.1]|unclassified	0	0	0	0.5157	0
+ACETOLACTREDUCTOISOM-RXN: (expasy) Ketol-acid reductoisomerase (NADP(+)) [1.1.1.86]	0	0	0	0.38075	0
+ACETOLACTREDUCTOISOM-RXN: (expasy) Ketol-acid reductoisomerase (NADP(+)) [1.1.1.86]|unclassified	0	0	0	0.38075	0
+ACETOOHBUTREDUCTOISOM-RXN: (expasy) Ketol-acid reductoisomerase (NADP(+)) [1.1.1.86]	0	0	0	0.38075	0
+ACETOOHBUTREDUCTOISOM-RXN: (expasy) Ketol-acid reductoisomerase (NADP(+)) [1.1.1.86]|unclassified	0	0	0	0.38075	0
+ACETYL-COA-CARBOXYLTRANSFER-RXN: (expasy) Acetyl-CoA carboxylase [6.4.1.2]	0	0	0	0.190826	1.09628
+ACETYL-COA-CARBOXYLTRANSFER-RXN: (expasy) Acetyl-CoA carboxylase [6.4.1.2]|unclassified	0	0	0	0.190826	1.09628
+ACETYLHOMOSER-CYS-RXN: (expasy) O-acetylhomoserine aminocarboxypropyltransferase [2.5.1.49]	0	0	0	0.937922	0
+ACETYLHOMOSER-CYS-RXN: (expasy) O-acetylhomoserine aminocarboxypropyltransferase [2.5.1.49]|unclassified	0	0	0	0.937922	0
+ACETYLORNTRANSAM-RXN: (expasy) Acetylornithine transaminase [2.6.1.11]	0	0	0	0	0.226837
+ACETYLORNTRANSAM-RXN: (expasy) Acetylornithine transaminase [2.6.1.11]|unclassified	0	0	0	0	0.226837
+ADENYL-KIN-RXN: (expasy) Adenylate kinase [2.7.4.3]	0	0	0	0	0.527001
+ADENYL-KIN-RXN: (expasy) Adenylate kinase [2.7.4.3]|unclassified	0	0	0	0	0.527001
+ADOMET-DMK-METHYLTRANSFER-RXN: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	0	0	0	0.346726	0
+ADOMET-DMK-METHYLTRANSFER-RXN: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]|unclassified	0	0	0	0.346726	0
+AIRS-RXN: (expasy) Phosphoribosylformylglycinamidine cyclo-ligase [6.3.3.1]	0	0	0	0.528228	0
+AIRS-RXN: (expasy) Phosphoribosylformylglycinamidine cyclo-ligase [6.3.3.1]|unclassified	0	0	0	0.528228	0
+AKBLIG-RXN: (expasy) Glycine C-acetyltransferase [2.3.1.29]	0	0	0	0.954654	0
+AKBLIG-RXN: (expasy) Glycine C-acetyltransferase [2.3.1.29]|unclassified	0	0	0	0.954654	0
+ANTHRANSYN-RXN: (expasy) Anthranilate synthase [4.1.3.27]	0	0	0	1.252516	0
+ANTHRANSYN-RXN: (expasy) Anthranilate synthase [4.1.3.27]|unclassified	0	0	0	1.252516	0
+ARGSUCCINSYN-RXN: (expasy) Argininosuccinate synthase [6.3.4.5]	0	0	0	0.386415	0
+ARGSUCCINSYN-RXN: (expasy) Argininosuccinate synthase [6.3.4.5]|unclassified	0	0	0	0.386415	0
+ARYLSULFAT-RXN: (expasy) Arylsulfatase (type I) [3.1.6.1]	0	0	0	0	0.592802
+ARYLSULFAT-RXN: (expasy) Arylsulfatase (type I) [3.1.6.1]|unclassified	0	0	0	0	0.592802
+ASNSYNB-RXN: (expasy) Asparagine synthase (glutamine-hydrolyzing) [6.3.5.4]	0	0	0	0	0.458352
+ASNSYNB-RXN: (expasy) Asparagine synthase (glutamine-hydrolyzing) [6.3.5.4]|unclassified	0	0	0	0	0.458352
+ASPARTATEKIN-RXN: (expasy) Aspartate kinase [2.7.2.4]	0	0	0	0	0.460727
+ASPARTATEKIN-RXN: (expasy) Aspartate kinase [2.7.2.4]|unclassified	0	0	0	0	0.460727
+ASPCARBTRANS-RXN: (expasy) Aspartate carbamoyltransferase [2.1.3.2]	0	0	0	0.841329	0
+ASPCARBTRANS-RXN: (expasy) Aspartate carbamoyltransferase [2.1.3.2]|unclassified	0	0	0	0.841329	0
+BADH-RXN: (expasy) Betaine-aldehyde dehydrogenase [1.2.1.8]	0	0	0	0.493822	0
+BADH-RXN: (expasy) Betaine-aldehyde dehydrogenase [1.2.1.8]|unclassified	0	0	0	0.493822	0
+"BENZENE-12-DIOXYGENASE-RXN: (expasy) Benzene 1,2-dioxygenase [1.14.12.3]"	0	0	0	0.168769	0
+"BENZENE-12-DIOXYGENASE-RXN: (expasy) Benzene 1,2-dioxygenase [1.14.12.3]|unclassified"	0	0	0	0.168769	0
+BETA-GLUCURONID-RXN: (expasy) Beta-glucuronidase [3.2.1.31]	1.97616	0	0	0	1.59892
+BETA-GLUCURONID-RXN: (expasy) Beta-glucuronidase [3.2.1.31]|unclassified	1.97616	0	0	0	1.59892
+BIOTIN-CARBOXYL-RXN: (expasy) Biotin carboxylase [6.3.4.14]	0	0	0	0	0.533873
+BIOTIN-CARBOXYL-RXN: (expasy) Biotin carboxylase [6.3.4.14]|unclassified	0	0	0	0	0.533873
+BTUR2-RXN: (expasy) Corrinoid adenosyltransferase [2.5.1.17]	0	0	0	0.442031	0
+BTUR2-RXN: (expasy) Corrinoid adenosyltransferase [2.5.1.17]|unclassified	0	0	0	0.442031	0
+CATAL-RXN: (expasy) AMBIGUOUS [1.11.1.21; 1.11.1.6]	0	0	0	0.384342	0.376781
+CATAL-RXN: (expasy) AMBIGUOUS [1.11.1.21; 1.11.1.6]|unclassified	0	0	0	0.384342	0.376781
+CDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	0.723795	0	0	0.438356	0
+CDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]|unclassified	0.723795	0	0	0.438356	0
+CHD-RXN: (expasy) Choline dehydrogenase [1.1.99.1]	0	0	0	0.641579	0
+CHD-RXN: (expasy) Choline dehydrogenase [1.1.99.1]|unclassified	0	0	0	0.641579	0
+CHORISMATEMUT-RXN: (expasy) Chorismate mutase [5.4.99.5]	0	0	0	0.233481	0
+CHORISMATEMUT-RXN: (expasy) Chorismate mutase [5.4.99.5]|unclassified	0	0	0	0.233481	0
+CITLY-RXN: (expasy) Citrate (pro-3S)-lyase [4.1.3.6]	0.542967	0	0	0	0
+CITLY-RXN: (expasy) Citrate (pro-3S)-lyase [4.1.3.6]|unclassified	0.542967	0	0	0	0
+"CYCPHOSDIESTER-RXN: (expasy) 2',3'-cyclic-nucleotide 2'-phosphodiesterase [3.1.4.16]"	0	0	0	0.371869	0
+"CYCPHOSDIESTER-RXN: (expasy) 2',3'-cyclic-nucleotide 2'-phosphodiesterase [3.1.4.16]|unclassified"	0	0	0	0.371869	0
+CYSPH-RXN: (expasy) Cystathionine gamma-synthase [2.5.1.48]	0	0	0	0.937922	0
+CYSPH-RXN: (expasy) Cystathionine gamma-synthase [2.5.1.48]|unclassified	0	0	0	0.937922	0
+CYSTATHIONINE-BETA-SYNTHASE-RXN: (expasy) Cystathionine beta-synthase [4.2.1.22]	0	0	0	0.696415	0
+CYSTATHIONINE-BETA-SYNTHASE-RXN: (expasy) Cystathionine beta-synthase [4.2.1.22]|unclassified	0	0	0	0.696415	0
+CYTDEAM-RXN: (expasy) Cytosine deaminase [3.5.4.1]	0	0	0	0	0.371275
+CYTDEAM-RXN: (expasy) Cytosine deaminase [3.5.4.1]|unclassified	0	0	0	0	0.371275
+CYTIDEAM-RXN: (expasy) Cytidine deaminase [3.5.4.5]	0	0	0	0.236526	0
+CYTIDEAM-RXN: (expasy) Cytidine deaminase [3.5.4.5]|unclassified	0	0	0	0.236526	0
+CYTIDEAM2-RXN: (expasy) Cytidine deaminase [3.5.4.5]	0	0	0	0.236526	0
+CYTIDEAM2-RXN: (expasy) Cytidine deaminase [3.5.4.5]|unclassified	0	0	0	0.236526	0
+DADPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	0.723795	0	0	0.438356	0
+DADPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]|unclassified	0.723795	0	0	0.438356	0
+DARAB5PISOM-RXN: (expasy) Arabinose-5-phosphate isomerase [5.3.1.13]	0	0	0	0.311605	0
+DARAB5PISOM-RXN: (expasy) Arabinose-5-phosphate isomerase [5.3.1.13]|unclassified	0	0	0	0.311605	0
+DARABALDOL-RXN: (expasy) L-fuculose-phosphate aldolase [4.1.2.17]	0.300264	0	0	0	0
+DARABALDOL-RXN: (expasy) L-fuculose-phosphate aldolase [4.1.2.17]|unclassified	0.300264	0	0	0	0
+DCDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	0.723795	0	0	0.438356	0
+DCDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]|unclassified	0.723795	0	0	0.438356	0
+DGDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	0.723795	0	0	0.438356	0
+DGDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]|unclassified	0.723795	0	0	0.438356	0
+DNA-CYTOSINE-5--METHYLTRANSFERASE-RXN: (expasy) DNA (cytosine-5-)-methyltransferase [2.1.1.37]	0.405959	0	0	0	0
+DNA-CYTOSINE-5--METHYLTRANSFERASE-RXN: (expasy) DNA (cytosine-5-)-methyltransferase [2.1.1.37]|unclassified	0.405959	0	0	0	0
+DTDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	0.723795	0	0	0.438356	0
+DTDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]|unclassified	0.723795	0	0	0.438356	0
+DUDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	0.723795	0	0	0.438356	0
+DUDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]|unclassified	0.723795	0	0	0.438356	0
+DXS-RXN: (expasy) 1-deoxy-D-xylulose-5-phosphate synthase [2.2.1.7]	0	0	0	0.467878	0
+DXS-RXN: (expasy) 1-deoxy-D-xylulose-5-phosphate synthase [2.2.1.7]|unclassified	0	0	0	0.467878	0
+ENOYL-COA-HYDRAT-RXN: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+ENOYL-COA-HYDRAT-RXN: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+FTRMBARK-RXN: (expasy) Formylmethanofuran--tetrahydromethanopterin N-formyltransferase [2.3.1.101]	0	0	0	0.621989	0
+FTRMBARK-RXN: (expasy) Formylmethanofuran--tetrahydromethanopterin N-formyltransferase [2.3.1.101]|unclassified	0	0	0	0.621989	0
+FUCPALDOL-RXN: (expasy) L-fuculose-phosphate aldolase [4.1.2.17]	0.300264	0	0	0	0
+FUCPALDOL-RXN: (expasy) L-fuculose-phosphate aldolase [4.1.2.17]|unclassified	0.300264	0	0	0	0
+GALACTURIDYLYLTRANS-RXN: (expasy) UDP-glucose--hexose-1-phosphate uridylyltransferase [2.7.7.12]	0	0	0	0	0.453675
+GALACTURIDYLYLTRANS-RXN: (expasy) UDP-glucose--hexose-1-phosphate uridylyltransferase [2.7.7.12]|unclassified	0	0	0	0	0.453675
+GALACTUROISOM-RXN: (expasy) Glucuronate isomerase [5.3.1.12]	0	0	0	0.442829	0
+GALACTUROISOM-RXN: (expasy) Glucuronate isomerase [5.3.1.12]|unclassified	0	0	0	0.442829	0
+GART-RXN: (expasy) Phosphoribosylglycinamide formyltransferase 1 [2.1.2.2]	0	0	0	0.621989	0
+GART-RXN: (expasy) Phosphoribosylglycinamide formyltransferase 1 [2.1.2.2]|unclassified	0	0	0	0.621989	0
+GCVP-RXN: (expasy) Glycine dehydrogenase (aminomethyl-transferring) [1.4.4.2]	1.48034	0	0	0	0
+GCVP-RXN: (expasy) Glycine dehydrogenase (aminomethyl-transferring) [1.4.4.2]|unclassified	1.48034	0	0	0	0
+GCVT-RXN: (expasy) Aminomethyltransferase [2.1.2.10]	0.49772	0	0	0	0
+GCVT-RXN: (expasy) Aminomethyltransferase [2.1.2.10]|unclassified	0.49772	0	0	0	0
+GDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	0.723795	0	0	0.438356	0
+GDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]|unclassified	0.723795	0	0	0.438356	0
+"GDPMANDEHYDRA-RXN: (expasy) GDP-mannose 4,6-dehydratase [4.2.1.47]"	0.409085	0	0	0.476945	0
+"GDPMANDEHYDRA-RXN: (expasy) GDP-mannose 4,6-dehydratase [4.2.1.47]|unclassified"	0.409085	0	0	0.476945	0
+GDPPYPHOSKIN-RXN: (expasy) GTP diphosphokinase [2.7.6.5]	0	0	0	0	0.25774
+GDPPYPHOSKIN-RXN: (expasy) GTP diphosphokinase [2.7.6.5]|unclassified	0	0	0	0	0.25774
+GLUCISOM-RXN: (metacyc) glucose isomerase [5.3.1.5]	0.403557	0	0	0	0
+GLUCISOM-RXN: (metacyc) glucose isomerase [5.3.1.5]|unclassified	0.403557	0	0	0	0
+GLUCUROISOM-RXN: (expasy) Glucuronate isomerase [5.3.1.12]	0	0	0	0.442829	0
+GLUCUROISOM-RXN: (expasy) Glucuronate isomerase [5.3.1.12]|unclassified	0	0	0	0.442829	0
+GLUTAMATESYN-RXN: (expasy) Glutamate synthase (NADPH) [1.4.1.13]	0.509032	0	0	0.58688	0
+GLUTAMATESYN-RXN: (expasy) Glutamate synthase (NADPH) [1.4.1.13]|unclassified	0.509032	0	0	0.58688	0
+GLUTAMINE--TRNA-LIGASE-RXN: (expasy) Glutamine--tRNA ligase [6.1.1.18]	0.378015	0	0	0	0.734878
+GLUTAMINE--TRNA-LIGASE-RXN: (expasy) Glutamine--tRNA ligase [6.1.1.18]|unclassified	0.378015	0	0	0	0.734878
+GLUTAMINESYN-RXN: (expasy) Glutamine synthetase [6.3.1.2]	0	0.605887	0	0	0
+GLUTAMINESYN-RXN: (expasy) Glutamine synthetase [6.3.1.2]|unclassified	0	0.605887	0	0	0
+GLYCEROL-KIN-RXN: (expasy) Glycerol kinase [2.7.1.30]	0.392937	0	0	0	0
+GLYCEROL-KIN-RXN: (expasy) Glycerol kinase [2.7.1.30]|unclassified	0.392937	0	0	0	0
+GLYCINE--TRNA-LIGASE-RXN: (expasy) Glycine--tRNA ligase [6.1.1.14]	0.394668	0	0	0	0.390001
+GLYCINE--TRNA-LIGASE-RXN: (expasy) Glycine--tRNA ligase [6.1.1.14]|unclassified	0.394668	0	0	0	0.390001
+GLYCOGENSYN-RXN: (expasy) Starch synthase [2.4.1.21]	0	0	0	0.349702	0.31593
+GLYCOGENSYN-RXN: (expasy) Starch synthase [2.4.1.21]|unclassified	0	0	0	0.349702	0.31593
+GLYOHMETRANS-RXN: (expasy) Glycine hydroxymethyltransferase [2.1.2.1]	0	0.342132	0	0.733956	0.36294
+GLYOHMETRANS-RXN: (expasy) Glycine hydroxymethyltransferase [2.1.2.1]|unclassified	0	0.342132	0	0.733956	0.36294
+GLYOXII-RXN: (expasy) Hydroxyacylglutathione hydrolase [3.1.2.6]	0.280406	0	0	0	0
+GLYOXII-RXN: (expasy) Hydroxyacylglutathione hydrolase [3.1.2.6]|unclassified	0.280406	0	0	0	0
+GLYRIBONUCSYN-RXN: (expasy) Phosphoribosylamine--glycine ligase [6.3.4.13]	0	0	0	0.445249	0
+GLYRIBONUCSYN-RXN: (expasy) Phosphoribosylamine--glycine ligase [6.3.4.13]|unclassified	0	0	0	0.445249	0
+GSHTRAN-RXN: (expasy) Glutathione transferase [2.5.1.18]	0.251318	0	0	0	0
+GSHTRAN-RXN: (expasy) Glutathione transferase [2.5.1.18]|unclassified	0.251318	0	0	0	0
+GST-RXN: (expasy) Glutathione transferase [2.5.1.18]	0.251318	0	0	0	0
+GST-RXN: (expasy) Glutathione transferase [2.5.1.18]|unclassified	0.251318	0	0	0	0
+GTP-CYCLOHYDRO-I-RXN: (expasy) GTP cyclohydrolase I [3.5.4.16]	0	0	0	0.532553	0
+GTP-CYCLOHYDRO-I-RXN: (expasy) GTP cyclohydrolase I [3.5.4.16]|unclassified	0	0	0	0.532553	0
+GTPPYPHOSKIN-RXN: (expasy) GTP diphosphokinase [2.7.6.5]	0	0	0	0	0.25774
+GTPPYPHOSKIN-RXN: (expasy) GTP diphosphokinase [2.7.6.5]|unclassified	0	0	0	0	0.25774
+GUANYL-KIN-RXN: (expasy) Guanylate kinase [2.7.4.8]	0	0	0	0.152909	0.38661
+GUANYL-KIN-RXN: (expasy) Guanylate kinase [2.7.4.8]|unclassified	0	0	0	0.152909	0.38661
+HISTCYCLOHYD-RXN: (expasy) Phosphoribosyl-AMP cyclohydrolase [3.5.4.19]	0.613305	0	0	0.740733	0
+HISTCYCLOHYD-RXN: (expasy) Phosphoribosyl-AMP cyclohydrolase [3.5.4.19]|unclassified	0.613305	0	0	0.740733	0
+HISTIDINE-AMMONIA-LYASE-RXN: (expasy) Histidine ammonia-lyase [4.3.1.3]	0	0	0	0	1.18827
+HISTIDINE-AMMONIA-LYASE-RXN: (expasy) Histidine ammonia-lyase [4.3.1.3]|unclassified	0	0	0	0	1.18827
+HISTPRATPHYD-RXN: (expasy) Phosphoribosyl-ATP diphosphatase [3.6.1.31]	0.411328	0	0	0	0
+HISTPRATPHYD-RXN: (expasy) Phosphoribosyl-ATP diphosphatase [3.6.1.31]|unclassified	0.411328	0	0	0	0
+HOMOCYSMET-RXN: (expasy) 5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase [2.1.1.14]	0	0	0	0.87162	0
+HOMOCYSMET-RXN: (expasy) 5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase [2.1.1.14]|unclassified	0	0	0	0.87162	0
+HOMOCYSMETB12-RXN: (expasy) Methionine synthase [2.1.1.13]	0	0.497809	0	0.412467	0
+HOMOCYSMETB12-RXN: (expasy) Methionine synthase [2.1.1.13]|unclassified	0	0.497809	0	0.412467	0
+IMIDPHOSDEHYD-RXN: (expasy) Imidazoleglycerol-phosphate dehydratase [4.2.1.19]	0.923604	0	0	0	0
+IMIDPHOSDEHYD-RXN: (expasy) Imidazoleglycerol-phosphate dehydratase [4.2.1.19]|unclassified	0.923604	0	0	0	0
+INORGPYROPHOSPHAT-RXN: (expasy) Inorganic diphosphatase [3.6.1.1]	0.178111	0	0	0	0
+INORGPYROPHOSPHAT-RXN: (expasy) Inorganic diphosphatase [3.6.1.1]|unclassified	0.178111	0	0	0	0
+ISOCIT-CLEAV-RXN: (expasy) Isocitrate lyase [4.1.3.1]	0	0.50325	0	0.868782	0
+ISOCIT-CLEAV-RXN: (expasy) Isocitrate lyase [4.1.3.1]|unclassified	0	0.50325	0	0.868782	0
+ISOCITDEH-RXN: (expasy) Isocitrate dehydrogenase (NADP(+)) [1.1.1.42]	0	0	0	0.860262	0
+ISOCITDEH-RXN: (expasy) Isocitrate dehydrogenase (NADP(+)) [1.1.1.42]|unclassified	0	0	0	0.860262	0
+KDO-8PSYNTH-RXN: (expasy) 3-deoxy-8-phosphooctulonate synthase [2.5.1.55]	0	0	0	0	0.299912
+KDO-8PSYNTH-RXN: (expasy) 3-deoxy-8-phosphooctulonate synthase [2.5.1.55]|unclassified	0	0	0	0	0.299912
+KDPGALDOL-RXN: (expasy) AMBIGUOUS [4.1.2.14; 4.1.2.55]	0	0	0	0.415194	0
+KDPGALDOL-RXN: (expasy) AMBIGUOUS [4.1.2.14; 4.1.2.55]|unclassified	0	0	0	0.415194	0
+L-GLN-FRUCT-6-P-AMINOTRANS-RXN: (expasy) Glutamine--fructose-6-phosphate transaminase (isomerizing) [2.6.1.16]	0	0	0	0.727505	0
+L-GLN-FRUCT-6-P-AMINOTRANS-RXN: (expasy) Glutamine--fructose-6-phosphate transaminase (isomerizing) [2.6.1.16]|unclassified	0	0	0	0.727505	0
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN: (expasy) L-lactate dehydrogenase (cytochrome) [1.1.2.3]	0	0	0	0.24111	0
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN: (expasy) L-lactate dehydrogenase (cytochrome) [1.1.2.3]|unclassified	0	0	0	0.24111	0
+LYSINE--TRNA-LIGASE-RXN: (expasy) Lysine--tRNA ligase [6.1.1.6]	0	0	0	0.435725	0
+LYSINE--TRNA-LIGASE-RXN: (expasy) Lysine--tRNA ligase [6.1.1.6]|unclassified	0	0	0	0.435725	0
+MANNONDEHYDRAT-RXN: (expasy) Mannonate dehydratase [4.2.1.8]	0	0	0	0	0.444601
+MANNONDEHYDRAT-RXN: (expasy) Mannonate dehydratase [4.2.1.8]|unclassified	0	0	0	0	0.444601
+MCPMETEST-RXN: (expasy) Protein-glutamate methylesterase [3.1.1.61]	0	0	0	0.450588	0.750382
+MCPMETEST-RXN: (expasy) Protein-glutamate methylesterase [3.1.1.61]|unclassified	0	0	0	0.450588	0.750382
+METHIONINE--TRNA-LIGASE-RXN: (expasy) Methionine--tRNA ligase [6.1.1.10]	0	0	0	0.415459	0
+METHIONINE--TRNA-LIGASE-RXN: (expasy) Methionine--tRNA ligase [6.1.1.10]|unclassified	0	0	0	0.415459	0
+METHYLACYLYLCOA-HYDROXY-RXN: (metacyc) Methylacrylyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+METHYLACYLYLCOA-HYDROXY-RXN: (metacyc) Methylacrylyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+"NAPHTHOATE-SYN-RXN: (expasy) 1,4-dihydroxy-2-naphthoyl-CoA synthase [4.1.3.36]"	0	0	0	0.490847	0
+"NAPHTHOATE-SYN-RXN: (expasy) 1,4-dihydroxy-2-naphthoyl-CoA synthase [4.1.3.36]|unclassified"	0	0	0	0.490847	0
+NUCLEOSIDE-DIP-KIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	0.723795	0	0	0.438356	0
+NUCLEOSIDE-DIP-KIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]|unclassified	0.723795	0	0	0.438356	0
+O-ACETYLHOMOSERINE-THIOL-LYASE-RXN: (expasy) O-acetylhomoserine aminocarboxypropyltransferase [2.5.1.49]	0	0	0	0.937922	0
+O-ACETYLHOMOSERINE-THIOL-LYASE-RXN: (expasy) O-acetylhomoserine aminocarboxypropyltransferase [2.5.1.49]|unclassified	0	0	0	0.937922	0
+O-SUCCHOMOSERLYASE-RXN: (expasy) Cystathionine gamma-synthase [2.5.1.48]	0	0	0	0.937922	0
+O-SUCCHOMOSERLYASE-RXN: (expasy) Cystathionine gamma-synthase [2.5.1.48]|unclassified	0	0	0	0.937922	0
+OHACYL-COA-DEHYDROG-RXN: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+OHACYL-COA-DEHYDROG-RXN: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+OXALYL-COA-DECARBOXYLASE-RXN: (expasy) Oxalyl-CoA decarboxylase [4.1.1.8]	0	0.447062	0	0	0
+OXALYL-COA-DECARBOXYLASE-RXN: (expasy) Oxalyl-CoA decarboxylase [4.1.1.8]|unclassified	0	0.447062	0	0	0
+PGLUCISOM-RXN: (expasy) Glucose-6-phosphate isomerase [5.3.1.9]	0	0	0	0.549618	0
+PGLUCISOM-RXN: (expasy) Glucose-6-phosphate isomerase [5.3.1.9]|unclassified	0	0	0	0.549618	0
+PHOSACETYLTRANS-RXN: (expasy) Phosphate acetyltransferase [2.3.1.8]	0.293533	0	0	0.382538	1.19944
+PHOSACETYLTRANS-RXN: (expasy) Phosphate acetyltransferase [2.3.1.8]|unclassified	0.293533	0	0	0.382538	1.19944
+PHOSGLYPHOS-RXN: (expasy) Phosphoglycerate kinase [2.7.2.3]	0	0	0	0	0.453675
+PHOSGLYPHOS-RXN: (expasy) Phosphoglycerate kinase [2.7.2.3]|unclassified	0	0	0	0	0.453675
+PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN: (expasy) Plastoquinol--plastocyanin reductase [7.1.1.6]	0	0.0356128	0	0	0
+PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN: (expasy) Plastoquinol--plastocyanin reductase [7.1.1.6]|unclassified	0	0.0356128	0	0	0
+"PPGPPSYN-RXN: (expasy) Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [3.1.7.2]"	0	0	0	0	0.25774
+"PPGPPSYN-RXN: (expasy) Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [3.1.7.2]|unclassified"	0	0	0	0	0.25774
+PREPHENATEDEHYDRAT-RXN: (expasy) Prephenate dehydratase [4.2.1.51]	0	0	0	0.233481	0
+PREPHENATEDEHYDRAT-RXN: (expasy) Prephenate dehydratase [4.2.1.51]|unclassified	0	0	0	0.233481	0
+PRPPAMIDOTRANS-RXN: (expasy) Amidophosphoribosyltransferase [2.4.2.14]	1.124514	0	0	0.651845	0.711362
+PRPPAMIDOTRANS-RXN: (expasy) Amidophosphoribosyltransferase [2.4.2.14]|unclassified	1.124514	0	0	0.651845	0.711362
+PRPPSYN-RXN: (expasy) Ribose-phosphate diphosphokinase [2.7.6.1]	0	0	0	0	0.443493
+PRPPSYN-RXN: (expasy) Ribose-phosphate diphosphokinase [2.7.6.1]|unclassified	0	0	0	0	0.443493
+QOR-RXN: (expasy) NADPH:quinone reductase [1.6.5.5]	0	0	0	0	0.577404
+QOR-RXN: (expasy) NADPH:quinone reductase [1.6.5.5]|unclassified	0	0	0	0	0.577404
+R101-RXN: (expasy) Diaminobutyrate--2-oxoglutarate transaminase [2.6.1.76]	0	0	0	0	0.329334
+R101-RXN: (expasy) Diaminobutyrate--2-oxoglutarate transaminase [2.6.1.76]|unclassified	0	0	0	0	0.329334
+"RFFTRANS-RXN: (expasy) dTDP-4-amino-4,6-dideoxygalactose transaminase [2.6.1.59]"	0	0.626495	0	0	0
+"RFFTRANS-RXN: (expasy) dTDP-4-amino-4,6-dideoxygalactose transaminase [2.6.1.59]|unclassified"	0	0.626495	0	0	0
+RIB5PISOM-RXN: (expasy) Ribose-5-phosphate isomerase [5.3.1.6]	0	0	0	0.33602	0
+RIB5PISOM-RXN: (expasy) Ribose-5-phosphate isomerase [5.3.1.6]|unclassified	0	0	0	0.33602	0
+RNA-DIRECTED-DNA-POLYMERASE-RXN: (expasy) RNA-directed DNA polymerase [2.7.7.49]	0	0	0	0.123279	0
+RNA-DIRECTED-DNA-POLYMERASE-RXN: (expasy) RNA-directed DNA polymerase [2.7.7.49]|unclassified	0	0	0	0.123279	0
+RXN-10: (expasy) Argininosuccinate synthase [6.3.4.5]	0	0	0	0.386415	0
+RXN-10: (expasy) Argininosuccinate synthase [6.3.4.5]|unclassified	0	0	0	0.386415	0
+RXN-10642: (expasy) Uroporphyrinogen decarboxylase [4.1.1.37]	0	0	0	1.048049	0
+RXN-10642: (expasy) Uroporphyrinogen decarboxylase [4.1.1.37]|unclassified	0	0	0	1.048049	0
+RXN-10654: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-10654: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-10655: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-10655: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-10656: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-10656: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-10658: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-10658: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-10659: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-10659: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-10660: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-10660: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-10769: (expasy) Beta-glucosidase [3.2.1.21]	0	0.262754	0	0	0
+RXN-10769: (expasy) Beta-glucosidase [3.2.1.21]|unclassified	0	0.262754	0	0	0
+RXN-10773: (expasy) Beta-glucosidase [3.2.1.21]	0	0.262754	0	0	0
+RXN-10773: (expasy) Beta-glucosidase [3.2.1.21]|unclassified	0	0.262754	0	0	0
+RXN-11046: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	0	0	0	0.346726	0
+RXN-11046: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]|unclassified	0	0	0	0.346726	0
+RXN-11136: (expasy) HslU--HslV peptidase [3.4.25.2]	0	0	0	0.190567	0
+RXN-11136: (expasy) HslU--HslV peptidase [3.4.25.2]|unclassified	0	0	0	0.190567	0
+RXN-11245: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-11245: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-11474: (metacyc) 3-oxo-glutaryl-[acp] methyl ester synthase [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-11474: (metacyc) 3-oxo-glutaryl-[acp] methyl ester synthase [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-11476: (metacyc) 3-oxo-glutaryl-[acp] methyl ester reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-11476: (metacyc) 3-oxo-glutaryl-[acp] methyl ester reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-11477: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-11477: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-11479: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-11479: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-11480: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-11480: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-11481: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-11481: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-11662: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-11662: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-11663: (expasy) Glutathione transferase [2.5.1.18]	0.251318	0	0	0	0
+RXN-11663: (expasy) Glutathione transferase [2.5.1.18]|unclassified	0.251318	0	0	0	0
+RXN-11902: (expasy) Ferredoxin:protochlorophyllide reductase (ATP-dependent) [1.3.7.7]	0	0	0	1.731661	2.854219
+RXN-11902: (expasy) Ferredoxin:protochlorophyllide reductase (ATP-dependent) [1.3.7.7]|unclassified	0	0	0	1.731661	2.854219
+RXN-12458: (expasy) tRNA (guanine(37)-N(1))-methyltransferase [2.1.1.228]	0	0	0	0	0.380001
+RXN-12458: (expasy) tRNA (guanine(37)-N(1))-methyltransferase [2.1.1.228]|unclassified	0	0	0	0	0.380001
+RXN-12490: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-12490: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-12567: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-12567: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-12570: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-12570: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-12705: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-12705: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-12720: (expasy) Sulfate adenylyltransferase [2.7.7.4]	0	0	0	0.36703	0
+RXN-12720: (expasy) Sulfate adenylyltransferase [2.7.7.4]|unclassified	0	0	0	0.36703	0
+RXN-12730: (expasy) 5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase [2.1.1.14]	0	0	0	0.87162	0
+RXN-12730: (expasy) 5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase [2.1.1.14]|unclassified	0	0	0	0.87162	0
+"RXN-12750: (metacyc) 3-[(3aS,4S,5R,7aS)-5-hydroxy-7a-methyl-1-oxo-octahydro-1H-inden-4-yl]-3-hydroxypropanoate dehydrogenase [1.1.1.35]"	0	0	0	0.990655	0
+"RXN-12750: (metacyc) 3-[(3aS,4S,5R,7aS)-5-hydroxy-7a-methyl-1-oxo-octahydro-1H-inden-4-yl]-3-hydroxypropanoate dehydrogenase [1.1.1.35]|unclassified"	0	0	0	0.990655	0
+RXN-13008: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-13008: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-13009: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-13009: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-13158: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	0	0	0	0	0.935709
+RXN-13158: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]|unclassified	0	0	0	0	0.935709
+RXN-13163: (expasy) 3-isopropylmalate dehydratase [4.2.1.33]	0	0	0	0.698447	0
+RXN-13163: (expasy) 3-isopropylmalate dehydratase [4.2.1.33]|unclassified	0	0	0	0.698447	0
+RXN-13191: (expasy) Magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase [1.14.13.81]	0	0	0	0.125118	0
+RXN-13191: (expasy) Magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase [1.14.13.81]|unclassified	0	0	0	0.125118	0
+RXN-13403: (expasy) Uroporphyrinogen-III C-methyltransferase [2.1.1.107]	0	0.530811	0	0	0
+RXN-13403: (expasy) Uroporphyrinogen-III C-methyltransferase [2.1.1.107]|unclassified	0	0.530811	0	0	0
+RXN-13602: (metacyc) linustatin &beta;-diglucosidase [3.2.1.21]	0	0.262754	0	0	0
+RXN-13602: (metacyc) linustatin &beta;-diglucosidase [3.2.1.21]|unclassified	0	0.262754	0	0	0
+RXN-13603: (metacyc) neolinustatin &beta;-diglucosidase [3.2.1.21]	0	0.262754	0	0	0
+RXN-13603: (metacyc) neolinustatin &beta;-diglucosidase [3.2.1.21]|unclassified	0	0.262754	0	0	0
+RXN-13616: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-13616: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-13673: (expasy) Glutathione transferase [2.5.1.18]	0.251318	0	0	0	0
+RXN-13673: (expasy) Glutathione transferase [2.5.1.18]|unclassified	0.251318	0	0	0	0
+RXN-14047: (expasy) Aconitate hydratase [4.2.1.3]	0	0	0	0.304504	0.772383
+RXN-14047: (expasy) Aconitate hydratase [4.2.1.3]|unclassified	0	0	0	0.304504	0.772383
+"RXN-14064: (expasy) 2',3'-cyclic-nucleotide 2'-phosphodiesterase [3.1.4.16]"	0	0	0	0.371869	0
+"RXN-14064: (expasy) 2',3'-cyclic-nucleotide 2'-phosphodiesterase [3.1.4.16]|unclassified"	0	0	0	0.371869	0
+"RXN-14091: (expasy) 2',3'-cyclic-nucleotide 2'-phosphodiesterase [3.1.4.16]"	0	0	0	0.371869	0
+"RXN-14091: (expasy) 2',3'-cyclic-nucleotide 2'-phosphodiesterase [3.1.4.16]|unclassified"	0	0	0	0.371869	0
+"RXN-14112: (expasy) 2',3'-cyclic-nucleotide 2'-phosphodiesterase [3.1.4.16]"	0	0	0	0.371869	0
+"RXN-14112: (expasy) 2',3'-cyclic-nucleotide 2'-phosphodiesterase [3.1.4.16]|unclassified"	0	0	0	0.371869	0
+"RXN-14113: (expasy) 2',3'-cyclic-nucleotide 2'-phosphodiesterase [3.1.4.16]"	0	0	0	0.371869	0
+"RXN-14113: (expasy) 2',3'-cyclic-nucleotide 2'-phosphodiesterase [3.1.4.16]|unclassified"	0	0	0	0.371869	0
+RXN-14120: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	0.723795	0	0	0.438356	0
+RXN-14120: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]|unclassified	0.723795	0	0	0.438356	0
+RXN-14129: (expasy) Cytosine deaminase [3.5.4.1]	0	0	0	0	0.371275
+RXN-14129: (expasy) Cytosine deaminase [3.5.4.1]|unclassified	0	0	0	0	0.371275
+RXN-14177: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	0	0	0	0.346726	0
+RXN-14177: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]|unclassified	0	0	0	0.346726	0
+RXN-14179: (expasy) Beta-glucosidase [3.2.1.21]	0	0.262754	0	0	0
+RXN-14179: (expasy) Beta-glucosidase [3.2.1.21]|unclassified	0	0.262754	0	0	0
+RXN-14197: (expasy) Cytosine deaminase [3.5.4.1]	0	0	0	0	0.371275
+RXN-14197: (expasy) Cytosine deaminase [3.5.4.1]|unclassified	0	0	0	0	0.371275
+RXN-14228: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	0.723795	0	0	0.438356	0
+RXN-14228: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]|unclassified	0.723795	0	0	0.438356	0
+RXN-14249: (expasy) L-threonine 3-dehydrogenase [1.1.1.103]	0	0.445135	0	0	0.526156
+RXN-14249: (expasy) L-threonine 3-dehydrogenase [1.1.1.103]|unclassified	0	0.445135	0	0	0.526156
+RXN-14266: (metacyc) 3-hydroxyisovaleryl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-14266: (metacyc) 3-hydroxyisovaleryl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-14272: (metacyc) (E)-hexadec-2-enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-14272: (metacyc) (E)-hexadec-2-enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-14273: (metacyc) trans-tetradec-2-enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-14273: (metacyc) trans-tetradec-2-enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-14338: (expasy) Diadenylate cyclase [2.7.7.85]	0.645116	0	0	0	0
+RXN-14338: (expasy) Diadenylate cyclase [2.7.7.85]|unclassified	0.645116	0	0	0	0
+RXN-14517: (expasy) tRNA (guanine(37)-N(1))-methyltransferase [2.1.1.228]	0	0	0	0	0.380001
+RXN-14517: (expasy) tRNA (guanine(37)-N(1))-methyltransferase [2.1.1.228]|unclassified	0	0	0	0	0.380001
+RXN-14971: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]	0	0	0	0	0.837563
+RXN-14971: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]|unclassified	0	0	0	0	0.837563
+RXN-14986: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	0	0	0	0	0.935709
+RXN-14986: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]|unclassified	0	0	0	0	0.935709
+RXN-15007: (expasy) Acetylornithine transaminase [2.6.1.11]	0	0	0	0	0.226837
+RXN-15007: (expasy) Acetylornithine transaminase [2.6.1.11]|unclassified	0	0	0	0	0.226837
+RXN-15087: (expasy) Protein-N(pi)-phosphohistidine--D-mannose phosphotransferase [2.7.1.191]	0	0	0	0	0.160019
+RXN-15087: (expasy) Protein-N(pi)-phosphohistidine--D-mannose phosphotransferase [2.7.1.191]|unclassified	0	0	0	0	0.160019
+RXN-15138: (metacyc) 2-chloroacrylate reductase [3.8.1.2]	0	0	0	0	0.270274
+RXN-15138: (metacyc) 2-chloroacrylate reductase [3.8.1.2]|unclassified	0	0	0	0	0.270274
+RXN-15162: (expasy) Protein-N(pi)-phosphohistidine--D-mannose phosphotransferase [2.7.1.191]	0	0	0	0	0.160019
+RXN-15162: (expasy) Protein-N(pi)-phosphohistidine--D-mannose phosphotransferase [2.7.1.191]|unclassified	0	0	0	0	0.160019
+RXN-15164: (expasy) Protein-N(pi)-phosphohistidine--D-mannose phosphotransferase [2.7.1.191]	0	0	0	0	0.160019
+RXN-15164: (expasy) Protein-N(pi)-phosphohistidine--D-mannose phosphotransferase [2.7.1.191]|unclassified	0	0	0	0	0.160019
+RXN-15165: (expasy) Protein-N(pi)-phosphohistidine--D-mannose phosphotransferase [2.7.1.191]	0	0	0	0	0.160019
+RXN-15165: (expasy) Protein-N(pi)-phosphohistidine--D-mannose phosphotransferase [2.7.1.191]|unclassified	0	0	0	0	0.160019
+RXN-15289: (metacyc) luteolin triglucoronide &beta;-glucuronidase [3.2.1.31]	1.97616	0	0	0	1.59892
+RXN-15289: (metacyc) luteolin triglucoronide &beta;-glucuronidase [3.2.1.31]|unclassified	1.97616	0	0	0	1.59892
+RXN-15291: (metacyc) luteolin monoglucuronide &beta;-glucuronidase [3.2.1.31]	1.97616	0	0	0	1.59892
+RXN-15291: (metacyc) luteolin monoglucuronide &beta;-glucuronidase [3.2.1.31]|unclassified	1.97616	0	0	0	1.59892
+RXN-15294: (expasy) Bacterial non-heme ferritin [1.16.3.2]	0.187981	0	0	0	0
+RXN-15294: (expasy) Bacterial non-heme ferritin [1.16.3.2]|unclassified	0.187981	0	0	0	0
+RXN-15309: (expasy) 4-hydroxy-3-polyprenylbenzoate decarboxylase [4.1.1.98]	0	0	0	0	0.362717
+RXN-15309: (expasy) 4-hydroxy-3-polyprenylbenzoate decarboxylase [4.1.1.98]|unclassified	0	0	0	0	0.362717
+RXN-15378: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]	0	0	0	0	0.837563
+RXN-15378: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]|unclassified	0	0	0	0	0.837563
+RXN-15479: (expasy) Photosystem I [1.97.1.12]	0	0.395256	0	2.304866	2.380101
+RXN-15479: (expasy) Photosystem I [1.97.1.12]|unclassified	0	0.395256	0	2.304866	2.380101
+RXN-15635: (expasy) 3-methyl-2-oxobutanoate hydroxymethyltransferase [2.1.2.11]	0	0	0	0.290484	0
+RXN-15635: (expasy) 3-methyl-2-oxobutanoate hydroxymethyltransferase [2.1.2.11]|unclassified	0	0	0	0.290484	0
+"RXN-15680: (metacyc) 3-benzyl-3,6-dihydroxy-6-(hydroxymethyl)-diketopiperazine glutathione S-transferase [2.5.1.18]"	0.251318	0	0	0	0
+"RXN-15680: (metacyc) 3-benzyl-3,6-dihydroxy-6-(hydroxymethyl)-diketopiperazine glutathione S-transferase [2.5.1.18]|unclassified"	0.251318	0	0	0	0
+RXN-16133: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-16133: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-16135: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-16135: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-16165: (expasy) Methionine--tRNA ligase [6.1.1.10]	0	0	0	0.415459	0
+RXN-16165: (expasy) Methionine--tRNA ligase [6.1.1.10]|unclassified	0	0	0	0.415459	0
+RXN-16558: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-16558: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-16615: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-16615: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-16616: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-16616: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-16619: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-16619: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-16621: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-16621: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-16622: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-16622: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-16623: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-16623: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-16625: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-16625: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-16626: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-16626: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-16627: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-16627: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-16629: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-16629: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-16630: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-16630: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-16631: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-16631: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-17114: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-17114: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-17475: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-17475: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-17485: (expasy) Ferredoxin:protochlorophyllide reductase (ATP-dependent) [1.3.7.7]	0	0	0	1.731661	2.854219
+RXN-17485: (expasy) Ferredoxin:protochlorophyllide reductase (ATP-dependent) [1.3.7.7]|unclassified	0	0	0	1.731661	2.854219
+RXN-17776: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-17776: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-17777: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-17777: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-17780: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-17780: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-17781: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-17781: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-17785: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-17785: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-17786: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-17786: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-17789: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-17789: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-17790: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-17790: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-17793: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-17793: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-17794: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-17794: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-17797: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-17797: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-17798: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-17798: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-18405: (expasy) Glutathione transferase [2.5.1.18]	0.251318	0	0	0	0
+RXN-18405: (expasy) Glutathione transferase [2.5.1.18]|unclassified	0.251318	0	0	0	0
+RXN-18407: (expasy) Glutathione transferase [2.5.1.18]	0.251318	0	0	0	0
+RXN-18407: (expasy) Glutathione transferase [2.5.1.18]|unclassified	0.251318	0	0	0	0
+RXN-18446: (expasy) Acetate--CoA ligase [6.2.1.1]	0	0	0	0.5157	0
+RXN-18446: (expasy) Acetate--CoA ligase [6.2.1.1]|unclassified	0	0	0	0.5157	0
+RXN-18447: (expasy) Acetate--CoA ligase [6.2.1.1]	0	0	0	0.5157	0
+RXN-18447: (expasy) Acetate--CoA ligase [6.2.1.1]|unclassified	0	0	0	0.5157	0
+RXN-18448: (expasy) Acetate--CoA ligase [6.2.1.1]	0	0	0	0.5157	0
+RXN-18448: (expasy) Acetate--CoA ligase [6.2.1.1]|unclassified	0	0	0	0.5157	0
+RXN-18602: (expasy) Cystathionine gamma-synthase [2.5.1.48]	0	0	0	0.937922	0
+RXN-18602: (expasy) Cystathionine gamma-synthase [2.5.1.48]|unclassified	0	0	0	0.937922	0
+RXN-18605: (expasy) Nitrite reductase (cytochrome; ammonia-forming) [1.7.2.2]	0	0	0	0	1.17
+RXN-18605: (expasy) Nitrite reductase (cytochrome; ammonia-forming) [1.7.2.2]|unclassified	0	0	0	0	1.17
+RXN-18846: (expasy) Beta-glucosidase [3.2.1.21]	0	0.262754	0	0	0
+RXN-18846: (expasy) Beta-glucosidase [3.2.1.21]|unclassified	0	0.262754	0	0	0
+RXN-19038: (expasy) Cystathionine beta-synthase [4.2.1.22]	0	0	0	0.696415	0
+RXN-19038: (expasy) Cystathionine beta-synthase [4.2.1.22]|unclassified	0	0	0	0.696415	0
+RXN-19335: (expasy) Corrinoid adenosyltransferase [2.5.1.17]	0	0	0	0.442031	0
+RXN-19335: (expasy) Corrinoid adenosyltransferase [2.5.1.17]|unclassified	0	0	0	0.442031	0
+RXN-19339: (expasy) Corrinoid adenosyltransferase [2.5.1.17]	0	0	0	0.442031	0
+RXN-19339: (expasy) Corrinoid adenosyltransferase [2.5.1.17]|unclassified	0	0	0	0.442031	0
+RXN-19368: (expasy) Corrinoid adenosyltransferase [2.5.1.17]	0	0	0	0.442031	0
+RXN-19368: (expasy) Corrinoid adenosyltransferase [2.5.1.17]|unclassified	0	0	0	0.442031	0
+RXN-19369: (expasy) Corrinoid adenosyltransferase [2.5.1.17]	0	0	0	0.442031	0
+RXN-19369: (expasy) Corrinoid adenosyltransferase [2.5.1.17]|unclassified	0	0	0	0.442031	0
+RXN-19490: (expasy) Formyl-CoA transferase [2.8.3.16]	0	0	0	0.389859	0
+RXN-19490: (expasy) Formyl-CoA transferase [2.8.3.16]|unclassified	0	0	0	0.389859	0
+RXN-19573: (expasy) Glutathione transferase [2.5.1.18]	0.251318	0	0	0	0
+RXN-19573: (expasy) Glutathione transferase [2.5.1.18]|unclassified	0.251318	0	0	0	0
+RXN-19600: (expasy) Glutathione transferase [2.5.1.18]	0.251318	0	0	0	0
+RXN-19600: (expasy) Glutathione transferase [2.5.1.18]|unclassified	0.251318	0	0	0	0
+RXN-19601: (expasy) Glutathione transferase [2.5.1.18]	0.251318	0	0	0	0
+RXN-19601: (expasy) Glutathione transferase [2.5.1.18]|unclassified	0.251318	0	0	0	0
+RXN-19610: (expasy) Glutathione transferase [2.5.1.18]	0.251318	0	0	0	0
+RXN-19610: (expasy) Glutathione transferase [2.5.1.18]|unclassified	0.251318	0	0	0	0
+RXN-19611: (expasy) Glutathione transferase [2.5.1.18]	0.251318	0	0	0	0
+RXN-19611: (expasy) Glutathione transferase [2.5.1.18]|unclassified	0.251318	0	0	0	0
+RXN-19626: (expasy) Glutathione transferase [2.5.1.18]	0.251318	0	0	0	0
+RXN-19626: (expasy) Glutathione transferase [2.5.1.18]|unclassified	0.251318	0	0	0	0
+RXN-19667: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	0	0	0	0.346726	0
+RXN-19667: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]|unclassified	0	0	0	0.346726	0
+RXN-19803: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-19803: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-20165: (expasy) Arylsulfatase (type I) [3.1.6.1]	0	0	0	0	0.592802
+RXN-20165: (expasy) Arylsulfatase (type I) [3.1.6.1]|unclassified	0	0	0	0	0.592802
+RXN-20675: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-20675: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-20678: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-20678: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-20679: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-20679: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-20788: (expasy) UDP-3-O-acyl-N-acetylglucosamine deacetylase [3.5.1.108]	0	0	0	1.27984	0
+RXN-20788: (expasy) UDP-3-O-acyl-N-acetylglucosamine deacetylase [3.5.1.108]|unclassified	0	0	0	1.27984	0
+RXN-20947: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-20947: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-21055: (expasy) Beta-glucosidase [3.2.1.21]	0	0.262754	0	0	0
+RXN-21055: (expasy) Beta-glucosidase [3.2.1.21]|unclassified	0	0.262754	0	0	0
+RXN-21223: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-21223: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-21224: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-21224: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-21393: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]	0	0	0	0	0.837563
+RXN-21393: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]|unclassified	0	0	0	0	0.837563
+RXN-21394: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]	0	0	0	0	0.837563
+RXN-21394: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]|unclassified	0	0	0	0	0.837563
+RXN-21614: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21614: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21615: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21615: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21617: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21617: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21618: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21618: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21619: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21619: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21621: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21621: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21622: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21622: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21623: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21623: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21625: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21625: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21626: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21626: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21627: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21627: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21629: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21629: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21631: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21631: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21632: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21632: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21634: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21634: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21635: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21635: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21636: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21636: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21645: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21645: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21646: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21646: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21649: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21649: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21650: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21650: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21651: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21651: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21654: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21654: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21655: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21655: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21656: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21656: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21659: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21659: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21660: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21660: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21661: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21661: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21664: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21664: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21665: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21665: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21666: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21666: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21669: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21669: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21670: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21670: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21671: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21671: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21676: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21676: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21677: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21677: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21680: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21680: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21681: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21681: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21682: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21682: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21685: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21685: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21686: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21686: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21687: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21687: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21690: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21690: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21691: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21691: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21692: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21692: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21695: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21695: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21696: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21696: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21698: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21698: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21701: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-21701: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-21702: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-21702: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-21703: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-21703: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-21755: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-21755: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-21759: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-21759: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-21760: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-21760: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-21766: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-21766: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-21767: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-21767: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-21771: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-21771: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-21779: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-21779: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-21780: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-21780: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-21781: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-21781: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-21783: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-21783: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-21784: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN-21784: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN-2425: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN-2425: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN-5341: (expasy) Beta-glucosidase [3.2.1.21]	0	0.262754	0	0	0
+RXN-5341: (expasy) Beta-glucosidase [3.2.1.21]|unclassified	0	0.262754	0	0	0
+RXN-6382: (expasy) Betaine-aldehyde dehydrogenase [1.2.1.8]	0	0	0	0.493822	0
+RXN-6382: (expasy) Betaine-aldehyde dehydrogenase [1.2.1.8]|unclassified	0	0	0	0.493822	0
+RXN-7919: (expasy) Hydroxyacylglutathione hydrolase [3.1.2.6]	0.280406	0	0	0	0
+RXN-7919: (expasy) Hydroxyacylglutathione hydrolase [3.1.2.6]|unclassified	0.280406	0	0	0	0
+RXN-8001: (expasy) Histidinol dehydrogenase [1.1.1.23]	0	0	0	2.435744	0
+RXN-8001: (expasy) Histidinol dehydrogenase [1.1.1.23]|unclassified	0	0	0	2.435744	0
+RXN-8036: (expasy) Beta-glucosidase [3.2.1.21]	0	0.262754	0	0	0
+RXN-8036: (expasy) Beta-glucosidase [3.2.1.21]|unclassified	0	0.262754	0	0	0
+RXN-8391: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	0	0.375897	0	0	0
+RXN-8391: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]|unclassified	0	0.375897	0	0	0
+RXN-8643: (expasy) Tartrate dehydrogenase [1.1.1.93]	0	0	0	1.36054	0
+RXN-8643: (expasy) Tartrate dehydrogenase [1.1.1.93]|unclassified	0	0	0	1.36054	0
+RXN-8667: (expasy) Catalase peroxidase [1.11.1.21]	0	0	0	0.384342	0.376781
+RXN-8667: (expasy) Catalase peroxidase [1.11.1.21]|unclassified	0	0	0	0.384342	0.376781
+RXN-9191: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	0	0	0	0.346726	0
+RXN-9191: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]|unclassified	0	0	0	0.346726	0
+RXN-9205: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	0	0	0	0.346726	0
+RXN-9205: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]|unclassified	0	0	0	0.346726	0
+RXN-9220: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	0	0	0	0.346726	0
+RXN-9220: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]|unclassified	0	0	0	0.346726	0
+RXN-9223: (expasy) 4-hydroxy-3-polyprenylbenzoate decarboxylase [4.1.1.98]	0	0	0	0	0.362717
+RXN-9223: (expasy) 4-hydroxy-3-polyprenylbenzoate decarboxylase [4.1.1.98]|unclassified	0	0	0	0	0.362717
+RXN-9231: (expasy) 4-hydroxy-3-polyprenylbenzoate decarboxylase [4.1.1.98]	0	0	0	0	0.362717
+RXN-9231: (expasy) 4-hydroxy-3-polyprenylbenzoate decarboxylase [4.1.1.98]|unclassified	0	0	0	0	0.362717
+RXN-9238: (expasy) 4-hydroxy-3-polyprenylbenzoate decarboxylase [4.1.1.98]	0	0	0	0	0.362717
+RXN-9238: (expasy) 4-hydroxy-3-polyprenylbenzoate decarboxylase [4.1.1.98]|unclassified	0	0	0	0	0.362717
+RXN-9361: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	0	0	0	0.346726	0
+RXN-9361: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]|unclassified	0	0	0	0.346726	0
+RXN-9362: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	0	0	0	0.346726	0
+RXN-9362: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]|unclassified	0	0	0	0.346726	0
+RXN-9363: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	0	0	0	0.346726	0
+RXN-9363: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]|unclassified	0	0	0	0.346726	0
+RXN-9366: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	0	0	0	0.346726	0
+RXN-9366: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]|unclassified	0	0	0	0.346726	0
+RXN-9384: (expasy) Cystathionine gamma-synthase [2.5.1.48]	0	0	0	0.937922	0
+RXN-9384: (expasy) Cystathionine gamma-synthase [2.5.1.48]|unclassified	0	0	0	0.937922	0
+RXN-9514: (metacyc) acetoacetyl-[acyl-carrier protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-9514: (metacyc) acetoacetyl-[acyl-carrier protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-9516: (metacyc) 3-oxo-hexanoyl-[acyl-carrier protein] synthase [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-9516: (metacyc) 3-oxo-hexanoyl-[acyl-carrier protein] synthase [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-9518: (metacyc) 3-hydroxyhexanoyl-[acyl-carrier protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-9518: (metacyc) 3-hydroxyhexanoyl-[acyl-carrier protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-9520: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-9520: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-9523: (metacyc) 3-oxo-octanoyl-[acyl-carrier protein] synthase [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-9523: (metacyc) 3-oxo-octanoyl-[acyl-carrier protein] synthase [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-9524: (metacyc) 3-oxo-octanoyl-[acyl-carrier protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-9524: (metacyc) 3-oxo-octanoyl-[acyl-carrier protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-9527: (metacyc) 3-oxo-decanoyl-[acyl-carrier protein] synthase [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-9527: (metacyc) 3-oxo-decanoyl-[acyl-carrier protein] synthase [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-9528: (metacyc) 3-oxo-decanoyl-[acyl-carrier protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-9528: (metacyc) 3-oxo-decanoyl-[acyl-carrier protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-9531: (metacyc) 3-oxo-dodecanoyl-[acyl-carrier protein] synthase [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-9531: (metacyc) 3-oxo-dodecanoyl-[acyl-carrier protein] synthase [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-9532: (metacyc) 3-oxo-dodecanoyl-[acyl-carrier protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-9532: (metacyc) 3-oxo-dodecanoyl-[acyl-carrier protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-9533: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-9533: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-9535: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]	0	0.375897	0	0	0
+RXN-9535: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]|unclassified	0	0.375897	0	0	0
+RXN-9536: (metacyc) 3-oxo-meristoyl-[acyl-carrier protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-9536: (metacyc) 3-oxo-meristoyl-[acyl-carrier protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-9537: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-9537: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-9539: (metacyc) 3-oxo-palmitoyl-[acyl-carrier protein] synthase [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-9539: (metacyc) 3-oxo-palmitoyl-[acyl-carrier protein] synthase [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-9540: (metacyc) 3-oxo-palmitoyl-[acyl-carrier protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-9540: (metacyc) 3-oxo-palmitoyl-[acyl-carrier protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-9552: (metacyc) 3-oxo-petroslinoyl-[acyl-carrier protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-9552: (metacyc) 3-oxo-petroslinoyl-[acyl-carrier protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-9556: (metacyc) 3-oxo-cis-vaccenoyl-[acyl-carrier protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-9556: (metacyc) 3-oxo-cis-vaccenoyl-[acyl-carrier protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-9557: (metacyc) 3-hydroxy-cis-vaccenoyl-[acyl-carrier protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-9557: (metacyc) 3-hydroxy-cis-vaccenoyl-[acyl-carrier protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-9632: (metacyc) 3-oxo-stearoyl-[acyl-carrier protein] synthase [2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-9632: (metacyc) 3-oxo-stearoyl-[acyl-carrier protein] synthase [2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-9633: (metacyc) 3-oxo-stearoyl-[acyl-carrier protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN-9633: (metacyc) 3-oxo-stearoyl-[acyl-carrier protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN-9634: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-9634: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-9648: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-9648: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-9650: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-9650: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-9651: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-9651: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-9652: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-9652: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-9653: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-9653: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-9654: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]	0	0.414841	0	0.36869	0
+RXN-9654: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN-9655: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN-9655: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN-9674: (expasy) Beta-glucosidase [3.2.1.21]	0	0.262754	0	0	0
+RXN-9674: (expasy) Beta-glucosidase [3.2.1.21]|unclassified	0	0.262754	0	0	0
+RXN-9758: (expasy) Betaine-aldehyde dehydrogenase [1.2.1.8]	0	0	0	0.493822	0
+RXN-9758: (expasy) Betaine-aldehyde dehydrogenase [1.2.1.8]|unclassified	0	0	0	0.493822	0
+RXN0-1134: (expasy) Pyruvate dehydrogenase (acetyl-transferring) [1.2.4.1]	0	0	0	0.60356	0
+RXN0-1134: (expasy) Pyruvate dehydrogenase (acetyl-transferring) [1.2.4.1]|unclassified	0	0	0	0.60356	0
+RXN0-1321: (expasy) tRNA-guanosine(34) preQ(1) transglycosylase [2.4.2.29]	0	0	0	0.512457	0
+RXN0-1321: (expasy) tRNA-guanosine(34) preQ(1) transglycosylase [2.4.2.29]|unclassified	0	0	0	0.512457	0
+RXN0-1382: (expasy) Formyl-CoA transferase [2.8.3.16]	0	0	0	0.389859	0
+RXN0-1382: (expasy) Formyl-CoA transferase [2.8.3.16]|unclassified	0	0	0	0.389859	0
+RXN0-1461: (expasy) Coproporphyrinogen oxidase [1.3.3.3]	0	0	0	0.399415	0
+RXN0-1461: (expasy) Coproporphyrinogen oxidase [1.3.3.3]|unclassified	0	0	0	0.399415	0
+RXN0-1483: (expasy) Ferroxidase [1.16.3.1]	0.407226	0	0	0.153818	0
+RXN0-1483: (expasy) Ferroxidase [1.16.3.1]|unclassified	0.407226	0	0	0.153818	0
+RXN0-2044: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]	0	0	0	0.990655	0
+RXN0-2044: (expasy) 3-hydroxyacyl-CoA dehydrogenase [1.1.1.35]|unclassified	0	0	0	0.990655	0
+RXN0-2141: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]	0	0.414841	0	0.36869	0
+RXN0-2141: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN0-2142: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN0-2142: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN0-2144: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN0-2144: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN0-5055: (expasy) Acetyl-CoA carboxytransferase [2.1.3.15]	0	0	0	0	0.879068
+RXN0-5055: (expasy) Acetyl-CoA carboxytransferase [2.1.3.15]|unclassified	0	0	0	0	0.879068
+RXN0-5204: (expasy) PepB aminopeptidase [3.4.11.23]	0.203403	0	0	0	0
+RXN0-5204: (expasy) PepB aminopeptidase [3.4.11.23]|unclassified	0.203403	0	0	0	0
+RXN0-5393: (expasy) Enoyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+RXN0-5393: (expasy) Enoyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+RXN0-5507: (expasy) 6-carboxytetrahydropterin synthase [4.1.2.50]	0	0	0	0	0.268705
+RXN0-5507: (expasy) 6-carboxytetrahydropterin synthase [4.1.2.50]|unclassified	0	0	0	0	0.268705
+"RXN0-6427: (expasy) Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [3.1.7.2]"	0	0	0	0	0.25774
+"RXN0-6427: (expasy) Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [3.1.7.2]|unclassified"	0	0	0	0	0.25774
+RXN0-6480: (expasy) Ribonuclease P [3.1.26.5]	0	0	0	0	0.841245
+RXN0-6480: (expasy) Ribonuclease P [3.1.26.5]|unclassified	0	0	0	0	0.841245
+RXN0-6481: (expasy) tRNA nucleotidyltransferase [2.7.7.56]	0	0	0	0.358945	0
+RXN0-6481: (expasy) tRNA nucleotidyltransferase [2.7.7.56]|unclassified	0	0	0	0.358945	0
+RXN0-6482: (expasy) tRNA nucleotidyltransferase [2.7.7.56]	0	0	0	0.358945	0
+RXN0-6482: (expasy) tRNA nucleotidyltransferase [2.7.7.56]|unclassified	0	0	0	0.358945	0
+RXN0-7230: (expasy) Choline dehydrogenase [1.1.99.1]	0	0	0	0.641579	0
+RXN0-7230: (expasy) Choline dehydrogenase [1.1.99.1]|unclassified	0	0	0	0.641579	0
+RXN0-743: (expasy) 5-(carboxyamino)imidazole ribonucleotide mutase [5.4.99.18]	0	0.414841	0	0.732413	0
+RXN0-743: (expasy) 5-(carboxyamino)imidazole ribonucleotide mutase [5.4.99.18]|unclassified	0	0.414841	0	0.732413	0
+RXN0-882: (expasy) (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin) [1.17.7.1]	0.564346	0	0	0	0
+RXN0-882: (expasy) (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin) [1.17.7.1]|unclassified	0.564346	0	0	0	0
+RXN18C3-14: (expasy) Beta-glucosidase [3.2.1.21]	0	0.262754	0	0	0
+RXN18C3-14: (expasy) Beta-glucosidase [3.2.1.21]|unclassified	0	0.262754	0	0	0
+RXN1F-20: (expasy) Magnesium chelatase [6.6.1.1]	0	0	0	0	0.525484
+RXN1F-20: (expasy) Magnesium chelatase [6.6.1.1]|unclassified	0	0	0	0	0.525484
+RXN1G-157: (metacyc) 3-oxo-behenoyl-[acyl-carrier protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN1G-157: (metacyc) 3-oxo-behenoyl-[acyl-carrier protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN1G-320: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	0	0	0	0.63109	0
+RXN1G-320: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]|unclassified	0	0	0	0.63109	0
+RXN1G-349: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN1G-349: (expasy) 3-oxoacyl-[acyl-carrier-protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN1G-368: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]	0	0.414841	0	0.36869	0
+RXN1G-368: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN1G-445: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]	0	0.414841	0	0.36869	0
+RXN1G-445: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase I [2.3.1.41]|unclassified	0	0.414841	0	0.36869	0
+RXN1G-469: (metacyc) 3-oxobehenoyl-[acyl-carrier protein] reductase [1.1.1.100]	0	0	0	0.789162	0
+RXN1G-469: (metacyc) 3-oxobehenoyl-[acyl-carrier protein] reductase [1.1.1.100]|unclassified	0	0	0	0.789162	0
+RXN1YI0-14: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]	0	0	0	0	0.837563
+RXN1YI0-14: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]|unclassified	0	0	0	0	0.837563
+RXN66-534: (expasy) Cystathionine beta-synthase [4.2.1.22]	0	0	0	0.696415	0
+RXN66-534: (expasy) Cystathionine beta-synthase [4.2.1.22]|unclassified	0	0	0	0.696415	0
+RXN66-562: (expasy) Cystathionine beta-synthase [4.2.1.22]	0	0	0	0.696415	0
+RXN66-562: (expasy) Cystathionine beta-synthase [4.2.1.22]|unclassified	0	0	0	0.696415	0
+RXNI-2: (expasy) 3-oxoacid CoA-transferase [2.8.3.5]	0	0	0	0.217606	0
+RXNI-2: (expasy) 3-oxoacid CoA-transferase [2.8.3.5]|unclassified	0	0	0	0.217606	0
+RXNQT-4165: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	0	0	0	0	0.935709
+RXNQT-4165: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]|unclassified	0	0	0	0	0.935709
+RXNQT-4168: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	0	0	0	0	0.935709
+RXNQT-4168: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]|unclassified	0	0	0	0	0.935709
+RXNQT-4171: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	0	0	0	0	0.935709
+RXNQT-4171: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]|unclassified	0	0	0	0	0.935709
+RXNQT-4174: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	0	0	0	0	0.935709
+RXNQT-4174: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]|unclassified	0	0	0	0	0.935709
+RXNQT-4178: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	0	0	0	0	0.935709
+RXNQT-4178: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]|unclassified	0	0	0	0	0.935709
+RXNQT-4363: (expasy) Glutathione transferase [2.5.1.18]	0.251318	0	0	0	0
+RXNQT-4363: (expasy) Glutathione transferase [2.5.1.18]|unclassified	0.251318	0	0	0	0
+S-ADENMETSYN-RXN: (expasy) Methionine adenosyltransferase [2.5.1.6]	0	0	0	0.358938	0
+S-ADENMETSYN-RXN: (expasy) Methionine adenosyltransferase [2.5.1.6]|unclassified	0	0	0	0.358938	0
+SAICARSYN-RXN: (expasy) Phosphoribosylaminoimidazolesuccinocarboxamide synthase [6.3.2.6]	0	0	0	0.633801	0
+SAICARSYN-RXN: (expasy) Phosphoribosylaminoimidazolesuccinocarboxamide synthase [6.3.2.6]|unclassified	0	0	0	0.633801	0
+SARCOX-RXN: (expasy) Sarcosine oxidase [1.5.3.1]	0	0	0	0	0.19079
+SARCOX-RXN: (expasy) Sarcosine oxidase [1.5.3.1]|unclassified	0	0	0	0	0.19079
+SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]	0	0	0	0	0.837563
+SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]|unclassified	0	0	0	0	0.837563
+SUCCINATE-DEHYDROGENASE-UBIQUINONE6-RXN: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]	0	0	0	0	0.837563
+SUCCINATE-DEHYDROGENASE-UBIQUINONE6-RXN: (expasy) Succinate dehydrogenase (quinone) [1.3.5.1]|unclassified	0	0	0	0	0.837563
+SUCCINYLDIAMINOPIMTRANS-RXN: (expasy) Succinyldiaminopimelate transaminase [2.6.1.17]	0	0	0	0	0.226837
+SUCCINYLDIAMINOPIMTRANS-RXN: (expasy) Succinyldiaminopimelate transaminase [2.6.1.17]|unclassified	0	0	0	0	0.226837
+SUCCORNTRANSAM-RXN: (expasy) Succinylornithine transaminase [2.6.1.81]	0	0	0	0	0.226837
+SUCCORNTRANSAM-RXN: (expasy) Succinylornithine transaminase [2.6.1.81]|unclassified	0	0	0	0	0.226837
+SULFATE-ADENYLYLTRANS-RXN: (expasy) Sulfate adenylyltransferase [2.7.7.4]	0	0	0	0.36703	0
+SULFATE-ADENYLYLTRANS-RXN: (expasy) Sulfate adenylyltransferase [2.7.7.4]|unclassified	0	0	0	0.36703	0
+SUPEROX-DISMUT-RXN: (expasy) Superoxide dismutase [1.15.1.1]	0	0	0	0.4266	0
+SUPEROX-DISMUT-RXN: (expasy) Superoxide dismutase [1.15.1.1]|unclassified	0	0	0	0.4266	0
+TARTRATE-DEHYDROGENASE-RXN: (expasy) Tartrate dehydrogenase [1.1.1.93]	0	0	0	1.36054	0
+TARTRATE-DEHYDROGENASE-RXN: (expasy) Tartrate dehydrogenase [1.1.1.93]|unclassified	0	0	0	1.36054	0
+"TETHYDPICSUCC-RXN: (expasy) 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [2.3.1.117]"	0	0	0	0	0.384936
+"TETHYDPICSUCC-RXN: (expasy) 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [2.3.1.117]|unclassified"	0	0	0	0	0.384936
+THIOREDOXIN-REDUCT-NADPH-RXN: (expasy) Thioredoxin-disulfide reductase [1.8.1.9]	0	0	0	0.424378	0
+THIOREDOXIN-REDUCT-NADPH-RXN: (expasy) Thioredoxin-disulfide reductase [1.8.1.9]|unclassified	0	0	0	0.424378	0
+THREODEHYD-RXN: (expasy) L-threonine 3-dehydrogenase [1.1.1.103]	0	0.445135	0	0	0.526156
+THREODEHYD-RXN: (expasy) L-threonine 3-dehydrogenase [1.1.1.103]|unclassified	0	0.445135	0	0	0.526156
+THREONINE--TRNA-LIGASE-RXN: (expasy) Threonine--tRNA ligase [6.1.1.3]	0.441328	0	0	0	0.435884
+THREONINE--TRNA-LIGASE-RXN: (expasy) Threonine--tRNA ligase [6.1.1.3]|unclassified	0.441328	0	0	0	0.435884
+TIGLYLCOA-HYDROXY-RXN: (metacyc) Tiglyl-CoA hydratase [4.2.1.17]	0	0.511638	0	0.990655	0
+TIGLYLCOA-HYDROXY-RXN: (metacyc) Tiglyl-CoA hydratase [4.2.1.17]|unclassified	0	0.511638	0	0.990655	0
+TRANS-RXN-165: (expasy) Protein-N(pi)-phosphohistidine--D-mannose phosphotransferase [2.7.1.191]	0	0	0	0	0.160019
+TRANS-RXN-165: (expasy) Protein-N(pi)-phosphohistidine--D-mannose phosphotransferase [2.7.1.191]|unclassified	0	0	0	0	0.160019
+TRANS-RXN-167A: (expasy) Protein-N(pi)-phosphohistidine--D-mannose phosphotransferase [2.7.1.191]	0	0	0	0	0.160019
+TRANS-RXN-167A: (expasy) Protein-N(pi)-phosphohistidine--D-mannose phosphotransferase [2.7.1.191]|unclassified	0	0	0	0	0.160019
+TRNA-NUCLEOTIDYLTRANSFERASE-RXN: (expasy) tRNA nucleotidyltransferase [2.7.7.56]	0	0	0	0.358945	0
+TRNA-NUCLEOTIDYLTRANSFERASE-RXN: (expasy) tRNA nucleotidyltransferase [2.7.7.56]|unclassified	0	0	0	0.358945	0
+TRYPTOPHAN--TRNA-LIGASE-RXN: (expasy) Tryptophan--tRNA ligase [6.1.1.2]	0.841217	0	0	0	0
+TRYPTOPHAN--TRNA-LIGASE-RXN: (expasy) Tryptophan--tRNA ligase [6.1.1.2]|unclassified	0.841217	0	0	0	0
+UDPACYLGLCNACDEACETYL-RXN: (expasy) UDP-3-O-acyl-N-acetylglucosamine deacetylase [3.5.1.108]	0	0	0	1.27984	0
+UDPACYLGLCNACDEACETYL-RXN: (expasy) UDP-3-O-acyl-N-acetylglucosamine deacetylase [3.5.1.108]|unclassified	0	0	0	1.27984	0
+UDPGLCNACEPIM-RXN: (expasy) UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing) [5.1.3.14]	0	0	0	0.447696	0
+UDPGLCNACEPIM-RXN: (expasy) UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing) [5.1.3.14]|unclassified	0	0	0	0.447696	0
+UDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	0.723795	0	0	0.438356	0
+UDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]|unclassified	0.723795	0	0	0.438356	0
+UNDECAPRENYL-DIPHOSPHATASE-RXN: (expasy) Undecaprenyl-diphosphate phosphatase [3.6.1.27]	0	0	0	0	0.415515
+UNDECAPRENYL-DIPHOSPHATASE-RXN: (expasy) Undecaprenyl-diphosphate phosphatase [3.6.1.27]|unclassified	0	0	0	0	0.415515
+UROGENDECARBOX-RXN: (expasy) Uroporphyrinogen decarboxylase [4.1.1.37]	0	0	0	1.048049	0
+UROGENDECARBOX-RXN: (expasy) Uroporphyrinogen decarboxylase [4.1.1.37]|unclassified	0	0	0	1.048049	0
+XYLISOM-RXN: (expasy) Xylose isomerase [5.3.1.5]	0.403557	0	0	0	0
+XYLISOM-RXN: (expasy) Xylose isomerase [5.3.1.5]|unclassified	0.403557	0	0	0	0

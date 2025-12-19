@@ -1,0 +1,307 @@
+Loading conda
+/home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/quast-5.2.0/metaquast.py /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/megahit_assembly/pstr.contigs.fa -t 12 -o /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output
+
+Version: 5.2.0
+
+System information:
+  OS: Linux-6.8.0-48-generic-x86_64-with-debian-trixie-sid (linux_64)
+  Python version: 2.7.15
+  CPUs number: 64
+
+Started: 2024-12-16 18:05:53
+
+Logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/metaquast.log
+INFO	font search path ['/home/nikea_ulrich_uml_edu/.conda/envs/assembly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf', '/home/nikea_ulrich_uml_edu/.conda/envs/assembly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm', '/home/nikea_ulrich_uml_edu/.conda/envs/assembly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts']
+INFO	font search path ['/home/nikea_ulrich_uml_edu/.conda/envs/assembly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf', '/home/nikea_ulrich_uml_edu/.conda/envs/assembly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm', '/home/nikea_ulrich_uml_edu/.conda/envs/assembly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts']
+INFO	generated new fontManager
+INFO	generated new fontManager
+
+Contigs:
+  Pre-processing...
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/megahit_assembly/pstr.contigs.fa ==> pstr.contigs
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2024-12-16 18:06:49
+
+Downloading SILVA 16S ribosomal RNA gene database (version 138.1)...
+ 0.0% of 197133995 bytes  1.0% of 197133995 bytes  2.0% of 197133995 bytes  3.0% of 197133995 bytes  4.0% of 197133995 bytes  5.0% of 197133995 bytes  6.0% of 197133995 bytes  7.0% of 197133995 bytes  8.0% of 197133995 bytes  9.0% of 197133995 bytes  10.0% of 197133995 bytes  11.0% of 197133995 bytes  12.0% of 197133995 bytes  13.0% of 197133995 bytes  14.0% of 197133995 bytes  15.0% of 197133995 bytes  16.0% of 197133995 bytes  17.0% of 197133995 bytes  18.0% of 197133995 bytes  19.0% of 197133995 bytes  20.0% of 197133995 bytes  21.0% of 197133995 bytes  22.0% of 197133995 bytes  23.0% of 197133995 bytes  24.0% of 197133995 bytes  25.0% of 197133995 bytes  26.0% of 197133995 bytes  27.0% of 197133995 bytes  28.0% of 197133995 bytes  29.0% of 197133995 bytes  30.0% of 197133995 bytes  31.0% of 197133995 bytes  32.0% of 197133995 bytes  33.0% of 197133995 bytes  34.0% of 197133995 bytes  35.0% of 197133995 bytes  36.0% of 197133995 bytes  37.0% of 197133995 bytes  38.0% of 197133995 bytes  39.0% of 197133995 bytes  40.0% of 197133995 bytes  41.0% of 197133995 bytes  42.0% of 197133995 bytes  43.0% of 197133995 bytes  44.0% of 197133995 bytes  45.0% of 197133995 bytes  46.0% of 197133995 bytes  47.0% of 197133995 bytes  48.0% of 197133995 bytes  49.0% of 197133995 bytes  50.0% of 197133995 bytes  51.0% of 197133995 bytes  52.0% of 197133995 bytes  53.0% of 197133995 bytes  54.0% of 197133995 bytes  55.0% of 197133995 bytes  56.0% of 197133995 bytes  57.0% of 197133995 bytes  58.0% of 197133995 bytes  59.0% of 197133995 bytes  60.0% of 197133995 bytes  61.0% of 197133995 bytes  62.0% of 197133995 bytes  63.0% of 197133995 bytes  64.0% of 197133995 bytes  65.0% of 197133995 bytes  66.0% of 197133995 bytes  67.0% of 197133995 bytes  68.0% of 197133995 bytes  69.0% of 197133995 bytes  70.0% of 197133995 bytes  71.0% of 197133995 bytes  72.0% of 197133995 bytes  73.0% of 197133995 bytes  74.0% of 197133995 bytes  75.0% of 197133995 bytes  76.0% of 197133995 bytes  77.0% of 197133995 bytes  78.0% of 197133995 bytes  79.0% of 197133995 bytes  80.0% of 197133995 bytes  81.0% of 197133995 bytes  82.0% of 197133995 bytes  83.0% of 197133995 bytes  84.0% of 197133995 bytes  85.0% of 197133995 bytes  86.0% of 197133995 bytes  87.0% of 197133995 bytes  88.0% of 197133995 bytes  89.0% of 197133995 bytes  90.0% of 197133995 bytes  91.0% of 197133995 bytes  92.0% of 197133995 bytes  93.0% of 197133995 bytes  94.0% of 197133995 bytes  95.0% of 197133995 bytes  96.0% of 197133995 bytes  97.0% of 197133995 bytes  98.0% of 197133995 bytes  99.0% of 197133995 bytesProcessing downloaded file. Logging to /home/nikea_ulrich_uml_edu/.conda/envs/assembly/lib/python2.7/site-packages/quast_libs/silva/blastdb.log...
+Unpacking and replacing " " with "_"...
+Making BLAST database...
+Running BlastN..
+  processing pstr.contigs
+  BLAST results for pstr.contigs are saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/quast_downloaded_references/blast.res_pstr-contigs...
+
+
+2024-12-16 18:08:38
+Trying to download found references from NCBI. Totally 9 organisms to try.
+  gamma_proteobacterium_MOLA_531       | not found in the NCBI database
+  gamma_proteobacterium_MOLA_531 was not found in NCBI database, trying to download the next best match
+  Endozoicomonas_montiporae_CL-33      | successfully downloaded (total 1, 8 more to go)
+  filamentous_cyanobacterium_odo1mo59  | not found in the NCBI database
+  filamentous_cyanobacterium_odo1mo59 was not found in NCBI database, trying to download the next best match
+  Chroococcidiopsis_sp._CC3            | not found in the NCBI database
+  Chroococcidiopsis_sp._CC3 was not found in NCBI database, trying to download the next best match
+  Nodularia_spumigena_PCC_73104        | not found in the NCBI database
+  Nodularia_spumigena_PCC_73104 was not found in NCBI database, trying to download the next best match
+  Nodularia_spumigena_CCY9414          | successfully downloaded (total 2, 7 more to go)
+  Sargassum_fusiforme                  | not found in the NCBI database
+  Sargassum_fusiforme was not found in NCBI database, trying to download the next best match
+  Rhabdogloea_smithii_SAG_47.91        | not found in the NCBI database
+  Rhabdogloea_smithii_SAG_47.91 was not found in NCBI database, trying to download the next best match
+  Merismopedia_sp._AICB1015            | not found in the NCBI database
+  Porites_astreoides                   | not found in the NCBI database
+  Klebsiella_pneumoniae                | successfully downloaded (total 3, 4 more to go)
+  Grateloupia_filicina                 | not found in the NCBI database
+  Grateloupia_filicina was not found in NCBI database, trying to download the next best match
+  Moorea_producens_JHB                 | not found in the NCBI database
+  Moorea_producens_JHB was not found in NCBI database, trying to download the next best match
+  Stanieria_sp._PCC_7302               | not found in the NCBI database
+  Stanieria_sp._PCC_7302 was not found in NCBI database, trying to download the next best match
+Chroococcus sp. FPU101 has too fragmented reference genome! It will not be downloaded.
+  Chroococcus_sp._FPU101               | not found in the NCBI database
+  Cutibacterium_acnes                  | successfully downloaded (total 4, 2 more to go)
+  Chlorogloea_microcystoides_SAG_10.99 | not found in the NCBI database
+  Chlorogloea_microcystoides_SAG_10.99 was not found in NCBI database, trying to download the next best match
+  Chroococcidiopsis_sp._A789-2         | not found in the NCBI database
+  Chroococcidiopsis_sp._A789-2 was not found in NCBI database, trying to download the next best match
+  Chroococcidiopsis_sp._CC3            | not found in the NCBI database
+  Chroococcidiopsis_sp._CC3 was not found in NCBI database, trying to download the next best match
+  Chroococcales_cyanobacterium_CYN67   | not found in the NCBI database
+Failed downloading Aridibacter famidurans!
+  Aridibacter_famidurans               | not found in the NCBI database
+  Aridibacter_famidurans was not found in NCBI database, trying to download the next best match
+  Acidobacteria_bacterium_IGE-018      | not found in the NCBI database
+  Acidobacteria_bacterium_IGE-018 was not found in NCBI database, trying to download the next best match
+  bacterium_Ellin6075                  | not found in the NCBI database
+  bacterium_Ellin6075 was not found in NCBI database, trying to download the next best match
+Acidobacteria bacterium JGI 0001001-H03 has too fragmented reference genome! It will not be downloaded.
+  Acidobacteria_bacterium_JGI_0001001-H03 | not found in the NCBI database
+
+Downloaded reference(s):
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/quast_downloaded_references/Cutibacterium_acnes.fasta ==> Cutibacterium_acnes
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/quast_downloaded_references/Endozoicomonas_montiporae_CL-33.fasta ==> Endozoicomonas_montiporae_CL-33
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/quast_downloaded_references/Klebsiella_pneumoniae.fasta ==> Klebsiella_pneumoniae
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/quast_downloaded_references/Nodularia_spumigena_CCY9414.fasta ==> Nodularia_spumigena_CCY9414
+  All references were combined in combined_reference.fasta
+
+Starting quast.py for the combined reference...
+/home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/quast-5.2.0/quast.pyc -t 12 --min-identity 90.0 --combined-ref --colors #E31A1C --ls solid --ambiguity-usage all /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/megahit_assembly/pstr.contigs.fa -R /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/quast_corrected_input/combined_reference.fasta -o /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference --labels pstr.contigs
+
+Started: 2024-12-16 18:11:15
+
+Logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/quast.log
+
+CWD: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/bash_scripts
+Main parameters: 
+  MODE: meta, threads: 12, min contig length: 500, min alignment length: 65, min alignment IDY: 90.0, \
+  ambiguity: all, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Reference:
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/quast_corrected_input/combined_reference.fasta ==> combined_reference
+
+Contigs:
+  Pre-processing...
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/megahit_assembly/pstr.contigs.fa ==> pstr.contigs
+
+2024-12-16 18:11:41
+Running Basic statistics processor...
+  Reference genome:
+    combined_reference.fasta, length = 19299299, num fragments = 8, GC % = 50.52
+  Contig files: 
+    pstr.contigs
+  Calculating N50 and L50...
+    pstr.contigs, N50 = 1269, L50 = 103199, auN = 1942.2, Total length = 469888487, GC % = 39.77, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/basic_stats/GC_content_plot.pdf
+  Drawing pstr.contigs GC content plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/basic_stats/pstr.contigs_GC_content_plot.pdf
+Done.
+
+2024-12-16 18:12:08
+Running Contig analyzer...
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.24). Please make sure that you use an actual version of software.
+  pstr.contigs
+  Logging to files /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/contigs_reports/contigs_report_pstr-contigs.stdout and contigs_report_pstr-contigs.stderr...
+  Aligning contigs to the reference
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.24). Please make sure that you use an actual version of software.
+  Analysis is finished.
+  Information about interspecies translocations by references for pstr-contigs is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/contigs_reports/interspecies_translocations_by_refs_pstr-contigs.info
+  Drawing Intergenomic misassemblies (found and supposed) metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/contigs_reports/intergenomic_misassemblies.pdf
+  Creating total report...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2024-12-16 18:12:26
+Running NA-NGA calculation...
+  pstr.contigs, Largest alignment = 651, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/aligned_stats/NAx_plot.pdf
+Done.
+
+2024-12-16 18:12:33
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  pstr.contigs
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2024-12-16 18:12:42
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2024-12-16 18:12:48
+RESULTS:
+  Text versions of total report are saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/report.html
+  PDF version (tables and plots) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/report.pdf
+  Icarus (contig browser) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/combined_reference/icarus.html
+
+Excluding downloaded references with low genome fraction from further analysis..
+All downloaded references have low genome fraction. Nothing was excluded for now.
+
+Partitioning contigs into bins aligned to each reference..
+  processing pstr.contigs
+
+Run QUAST on different references in parallel..
+
+Starting quast.py for the contigs aligned to Cutibacterium_acnes... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/runs_per_reference/Cutibacterium_acnes/quast.log)
+
+Starting quast.py for the contigs aligned to Endozoicomonas_montiporae_CL-33... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/runs_per_reference/Endozoicomonas_montiporae_CL-33/quast.log)
+
+No contigs were aligned to the reference Klebsiella_pneumoniae, skipping..
+
+Starting quast.py for the contigs aligned to Nodularia_spumigena_CCY9414... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/runs_per_reference/Nodularia_spumigena_CCY9414/quast.log)
+
+Starting quast.py for the contigs not aligned anywhere... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/not_aligned/quast.log)
+/home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/quast-5.2.0/quast.pyc --min-identity 90.0 --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 -t 12 /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/quast_corrected_input/pstr-contigs_not_aligned_anywhere.fasta -o /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/not_aligned --labels pstr.contigs
+
+Started: 2024-12-16 18:13:02
+
+Logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/not_aligned/quast.log
+
+CWD: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/bash_scripts
+Main parameters: 
+  MODE: meta, threads: 12, min contig length: 500, min alignment length: 65, min alignment IDY: 90.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/quast_corrected_input/pstr-contigs_not_aligned_anywhere.fasta ==> pstr.contigs
+
+2024-12-16 18:13:16
+Running Basic statistics processor...
+  Contig files: 
+    pstr.contigs
+  Calculating N50 and L50...
+    pstr.contigs, N50 = 1269, L50 = 103224, auN = 1928.4, Total length = 469783794, GC % = 39.77, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/not_aligned/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/not_aligned/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/not_aligned/basic_stats/GC_content_plot.pdf
+  Drawing pstr.contigs GC content plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/not_aligned/basic_stats/pstr.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2024-12-16 18:13:39
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2024-12-16 18:13:48
+RESULTS:
+  Text versions of total report are saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/not_aligned/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/not_aligned/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/not_aligned/report.html
+  PDF version (tables and plots) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/not_aligned/report.pdf
+  Icarus (contig browser) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/not_aligned/icarus.html
+
+2024-12-16 18:13:48
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/num_contigs.pdf
+  Drawing Largest contig metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/Largest_contig.pdf
+  Drawing Total length metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/Total_length.pdf
+  Drawing Largest alignment metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/Largest_alignment.pdf
+  Drawing Total aligned length metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/Total_aligned_length.pdf
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/Total_length_(ge_1000_bp).pdf
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/Total_length_(ge_10000_bp).pdf
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/Total_length_(ge_50000_bp).pdf
+  Drawing # misassemblies metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/num_misassemblies.pdf
+  Drawing metaQUAST summary misassemblies plot for pstr.contigs...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/pstr-contigs_misassemblies.pdf
+  Drawing Misassembled contigs length metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/Misassembled_contigs_length.pdf
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/num_mismatches_per_100_kbp.pdf
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/num_indels_per_100_kbp.pdf
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/num_Ns_per_100_kbp.pdf
+  Drawing Genome fraction (%) metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/Genome_fraction.pdf
+  Drawing Duplication ratio metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/Duplication_ratio.pdf
+  Drawing NGA50 metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/NGA50.pdf
+  Drawing LGA50 metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/PDF/LGA50.pdf
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/summary/
+  Icarus (contig browser) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/pstr/quast_output/icarus.html
+  Drawing interactive Krona plots...
+
+'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/home/nikea_ulrich_uml_edu/.conda/envs/assembly/bin/metaquast", line 427, in <module>
+    return_code = main(sys.argv[1:])
+  File "/home/nikea_ulrich_uml_edu/.conda/envs/assembly/bin/metaquast", line 417, in main
+    html_saver.create_meta_report(output_dirpath, json_texts)
+  File "/home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/quast-5.2.0/quast_libs/html_saver/html_saver.py", line 257, in create_meta_report
+    create_krona_charts(taxons_for_krona, meta_log, results_dirpath, json_texts)
+  File "/home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/quast-5.2.0/quast_libs/html_saver/html_saver.py", line 363, in create_krona_charts
+    for section in report:
+TypeError: 'NoneType' object is not iterable
+ERROR! exception caught!
+
+In case you have troubles running QUAST, you can write to quast.support@cab.spbu.ru
+or report an issue on our GitHub repository https://github.com/ablab/quast/issues
+Please provide us with quast.log file from the output directory.

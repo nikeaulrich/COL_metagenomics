@@ -1,0 +1,781 @@
+# Pathway	dlab_reads_ALL_Abundance	mcav_reads_ALL_Abundance	ofav_reads_ALL_Abundance	pstr_reads_ALL_Abundance
+UNMAPPED	54034163.0342231840	21462592.5002861544	8406832.4626054224	35686053.3742130697
+UNINTEGRATED	593695.4142460171	459970.7711964617	197555.8898498615	353818.5831096976
+UNINTEGRATED|g__Alteromonas.s__Alteromonas_macleodii	3725.0482355726	3910.1478535262	0	0
+UNINTEGRATED|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	8997.1698409486	853.3652113671	0	17356.7119323208
+UNINTEGRATED|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	52475.9403635652	2929.4674298341	0	42759.7056017519
+UNINTEGRATED|g__Erythrobacter.s__Erythrobacter_flavus	0	768.9026859105	0	0
+UNINTEGRATED|g__Erythrobacter.s__Erythrobacter_sp_SAORIC_644	0	1166.5152677611	0	0
+UNINTEGRATED|g__Prochlorococcus.s__Prochlorococcus_marinus	3815.6484734694	0	0	0
+UNINTEGRATED|g__Pseudovibrio.s__Pseudovibrio_denitrificans	19956.4763420571	0	0	0
+UNINTEGRATED|unclassified	428487.0060913836	432487.3475949695	199068.2527525791	191427.9270453901
+1CMET2-PWY: folate transformations III (E. coli)	122.2829534417	11.4888750013	0	41.7247436001
+1CMET2-PWY: folate transformations III (E. coli)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	15.9959177215	0	0	4.1830390621
+ANAEROFRUCAT-PWY: homolactic fermentation	28.1357939574	0	0	0
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)	48.8979291773	0	0	23.8021913096
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|unclassified	24.3105184615	0	0	16.5271705967
+ARG+POLYAMINE-SYN: superpathway of arginine and polyamine biosynthesis	24.1634142376	12.1663560076	0	0
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II	55.4110635291	0	0	0
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II|unclassified	40.5833315107	0	0	0
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)	94.4961233119	85.8381726836	0	42.8331977893
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	4.3427558826	0	0	6.7489353985
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	18.9105090669	0	0	17.5607295488
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|unclassified	34.3400253724	79.2051344013	0	0
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)	81.7810950920	84.7663040799	0	43.8114205650
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	4.3717326131	0	0	6.5687450002
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	17.7950797251	0	0	19.2517619861
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|unclassified	35.5234893208	78.3374213344	0	0
+ARO-PWY: chorismate biosynthesis I	71.9501073711	38.3800154106	0	46.1032830152
+ARO-PWY: chorismate biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	5.0966533976	0	0	8.8331213394
+ARO-PWY: chorismate biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	22.2092016377	0	0	21.5751116488
+ARO-PWY: chorismate biosynthesis I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	9.2764062520	0	0	0
+ARO-PWY: chorismate biosynthesis I|unclassified	23.8039977843	20.8861913146	0	6.7909378442
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis	36.1510356584	0	0	19.2980946068
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I	23.1057109361	0	0	0
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched chain amino acid biosynthesis	473.8256871312	175.9856935344	0	44.4277064318
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched chain amino acid biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	5.3135157696	0	0	8.2641717254
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched chain amino acid biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	18.4877634144	0	0	13.9674948079
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched chain amino acid biosynthesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	13.9860647154	0	0	0
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched chain amino acid biosynthesis|unclassified	345.4540471258	167.4095046670	0	0
+CALVIN-PWY: Calvin-Benson-Bassham cycle	99.5506004695	130.5862099827	0	33.2971596884
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	5.5839701715	0	0	10.9056889316
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	21.5150532933	0	0	11.4564082524
+CALVIN-PWY: Calvin-Benson-Bassham cycle|unclassified	34.9019593583	112.0244790000	0	0
+CENTFERM-PWY: pyruvate fermentation to butanoate	11.2436898821	0	0	0
+CENTFERM-PWY: pyruvate fermentation to butanoate|unclassified	5.1191352376	0	0	0
+CHLOROPHYLL-SYN: 3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)	14.2956947213	83.2547549876	0	0
+CHLOROPHYLL-SYN: 3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)|unclassified	12.4377020030	82.9601974697	0	0
+CITRULBIO-PWY: L-citrulline biosynthesis	43.9120245082	13.3721374136	0	32.8100133677
+CITRULBIO-PWY: L-citrulline biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.2826644124	0	0	10.0914724150
+CITRULBIO-PWY: L-citrulline biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	12.1718824242	0	0	17.5504921915
+CITRULBIO-PWY: L-citrulline biosynthesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	12.1102219094	0	0	0
+CITRULBIO-PWY: L-citrulline biosynthesis|unclassified	25.6365959774	0	0	0
+COA-PWY-1: superpathway of coenzyme A biosynthesis III (mammals)	65.8548610462	15.9061398211	0	21.2912680706
+COA-PWY-1: superpathway of coenzyme A biosynthesis III (mammals)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	19.6377556811	0	0	14.6429442965
+COA-PWY-1: superpathway of coenzyme A biosynthesis III (mammals)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	8.0924166713	0	0	0
+COA-PWY-1: superpathway of coenzyme A biosynthesis III (mammals)|unclassified	13.0875590047	0	0	0
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)	83.5619895481	22.3315905924	0	56.0680757779
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)|g__Alteromonas.s__Alteromonas_macleodii	0	6.8843755141	0	0
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	1.4404572854	1.0054744146	0	3.2765738243
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	17.2370368063	4.3897181881	0	25.4855419112
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.6077248574	0	0	0
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)|unclassified	51.0934867991	7.9617968529	0	19.7308220426
+COBALSYN-PWY: superpathway of adenosylcobalamin salvage from cobinamide I	26.6028638307	0	0	28.9110673617
+COBALSYN-PWY: superpathway of adenosylcobalamin salvage from cobinamide I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.8958624917	0	0	14.5203601250
+COBALSYN-PWY: superpathway of adenosylcobalamin salvage from cobinamide I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	4.0768159008	0	0	8.1134911124
+COBALSYN-PWY: superpathway of adenosylcobalamin salvage from cobinamide I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	7.5775533731	0	0	0
+COLANSYN-PWY: colanic acid building blocks biosynthesis	21.9725452748	67.1780825928	0	0
+COLANSYN-PWY: colanic acid building blocks biosynthesis|unclassified	15.2551534857	62.3387084242	0	0
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis	79.9575407881	30.7715294230	0	39.3886350783
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.2182980397	0	0	6.8672229987
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	20.1504149230	0	0	18.1527815136
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.1669442089	0	0	0
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|unclassified	16.0597556522	0	0	0
+CRNFORCAT-PWY: creatinine degradation I	170.8330004170	0	0	0
+CRNFORCAT-PWY: creatinine degradation I|unclassified	164.4150892167	0	0	0
+DAPLYSINESYN-PWY: L-lysine biosynthesis I	68.4739953985	24.3797785200	0	38.4209383858
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.7325179265	0	0	8.1620788236
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	16.3687773175	0	0	18.6618335420
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|unclassified	0	20.4399270565	0	0
+DENITRIFICATION-PWY: nitrate reduction I (denitrification)	16.9290600248	0	0	0
+DENITRIFICATION-PWY: nitrate reduction I (denitrification)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	16.9290600248	0	0	0
+DTDPRHAMSYN-PWY: dTDP-&beta;-L-rhamnose biosynthesis	45.4551441166	39.9617573578	0	28.9392121258
+DTDPRHAMSYN-PWY: dTDP-&beta;-L-rhamnose biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	7.7805318798	0	0	27.8908227744
+DTDPRHAMSYN-PWY: dTDP-&beta;-L-rhamnose biosynthesis|unclassified	23.8709999646	34.6200008969	0	0
+FAO-PWY: fatty acid &beta;-oxidation I (generic)	58.5657075399	47.4698024399	0	22.7910963551
+FAO-PWY: fatty acid &beta;-oxidation I (generic)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	16.0597916200	0	0	0
+FAO-PWY: fatty acid &beta;-oxidation I (generic)|unclassified	15.7878040401	40.3646291488	0	15.2364685500
+FASYN-ELONG-PWY: fatty acid elongation -- saturated	377.8817380283	192.6493402037	0	45.8463612207
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	1.7249639075
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	23.6759130506	0	0	20.8029057695
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Pseudovibrio.s__Pseudovibrio_denitrificans	33.5426914789	0	0	0
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|unclassified	286.0565796024	187.8772671133	0	0
+FERMENTATION-PWY: mixed acid fermentation	114.8601077192	163.7096818485	0	33.4216154834
+FERMENTATION-PWY: mixed acid fermentation|g__Pseudovibrio.s__Pseudovibrio_denitrificans	12.3834446252	0	0	0
+FERMENTATION-PWY: mixed acid fermentation|unclassified	94.1709254400	162.2639627442	0	12.0467630868
+GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation	5.9847923356	0	0	0
+GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation|unclassified	5.3265395612	0	0	0
+GALACTARDEG-PWY: D-galactarate degradation I	6.5608826456	0	0	0
+GALACTARDEG-PWY: D-galactarate degradation I|unclassified	5.9200281752	0	0	0
+GALACTUROCAT-PWY: D-galacturonate degradation I	38.3670874006	0	0	0
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	12.6270394713	0	0	0
+GALACTUROCAT-PWY: D-galacturonate degradation I|unclassified	19.0625531012	0	0	0
+GLUCARDEG-PWY: D-glucarate degradation I	6.2336943491	0	0	0
+GLUCARDEG-PWY: D-glucarate degradation I|unclassified	5.6523324369	0	0	0
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation	6.5608826456	0	0	0
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|unclassified	5.9200281752	0	0	0
+GLUCONEO-PWY: gluconeogenesis I	30.2407608049	24.8445394149	0	0
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation	47.9941866555	0	0	42.7232866024
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|unclassified	11.1778204633	0	0	14.7783251232
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronosides degradation	25.7211162406	0	0	0
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronosides degradation|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.0080642665	0	0	0
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronosides degradation|unclassified	11.5015479887	0	0	0
+GLUDEG-I-PWY: GABA shunt	13.3630823510	0	0	0
+GLUDEG-I-PWY: GABA shunt|unclassified	11.2814976103	0	0	0
+GLUTORN-PWY: L-ornithine biosynthesis I	73.7766690243	83.4589624740	0	48.2538086275
+GLUTORN-PWY: L-ornithine biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	8.7604506476	0	0	10.0919967396
+GLUTORN-PWY: L-ornithine biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	28.2530713885	0	0	29.3632477793
+GLUTORN-PWY: L-ornithine biosynthesis I|unclassified	17.5479159684	74.3355326164	0	0
+GLYCOCAT-PWY: glycogen degradation I	16.8528395516	0	0	0
+GLYCOCAT-PWY: glycogen degradation I|unclassified	6.4920922326	0	0	0
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)	46.8193375859	133.2577210628	0	44.1455036234
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	4.7768563722	0	0	11.6810320062
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	21.8064782039	0	0	27.0540543381
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|unclassified	11.5271417524	132.1281782924	0	7.1183028863
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)	75.6867172387	54.4927869294	0	26.0987806624
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|unclassified	50.3751834345	29.8586895081	0	18.1482111210
+GLYOXYLATE-BYPASS: glyoxylate cycle	204.3964105716	79.9864439656	0	35.7102460059
+GLYOXYLATE-BYPASS: glyoxylate cycle|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	1.8777554960	0	0	3.0491545298
+GLYOXYLATE-BYPASS: glyoxylate cycle|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	15.3142538263	0	0	18.6204647304
+GLYOXYLATE-BYPASS: glyoxylate cycle|g__Pseudovibrio.s__Pseudovibrio_denitrificans	7.8978084895	0	0	0
+GLYOXYLATE-BYPASS: glyoxylate cycle|unclassified	173.4541836730	73.5688595409	0	7.4962646373
+HEME-BIOSYNTHESIS-II-1: heme b biosynthesis V (aerobic)	104.9280055837	67.6230700930	0	22.2569782315
+HEME-BIOSYNTHESIS-II-1: heme b biosynthesis V (aerobic)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	4.2584903392	0	0	5.3968533973
+HEME-BIOSYNTHESIS-II-1: heme b biosynthesis V (aerobic)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	19.9761097476	0	0	12.4672995383
+HEME-BIOSYNTHESIS-II-1: heme b biosynthesis V (aerobic)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	8.9096276315	0	0	0
+HEME-BIOSYNTHESIS-II-1: heme b biosynthesis V (aerobic)|unclassified	58.6349264407	58.3035385779	0	0
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)	104.9280055837	67.6230700930	0	22.2569782315
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	4.2584903392	0	0	5.3968533973
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	19.9761097476	0	0	12.4672995383
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	8.9096276315	0	0	0
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)|unclassified	58.6349264407	58.3035385779	0	0
+HEMESYN2-PWY: heme b biosynthesis II (oxygen-independent)	52.6707093002	9.5377317088	0	21.0196759135
+HEMESYN2-PWY: heme b biosynthesis II (oxygen-independent)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	15.0955700117	0	0	10.1907485171
+HEMESYN2-PWY: heme b biosynthesis II (oxygen-independent)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	8.7037553890	0	0	0
+HEMESYN2-PWY: heme b biosynthesis II (oxygen-independent)|unclassified	16.1407918714	9.4329266637	0	0
+HISDEG-PWY: L-histidine degradation I	84.3873214769	0	0	31.6933261438
+HISDEG-PWY: L-histidine degradation I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.2766773582	0	0	3.4623316004
+HISDEG-PWY: L-histidine degradation I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	17.8262157060	0	0	18.8112409773
+HISDEG-PWY: L-histidine degradation I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.4719045763	0	0	0
+HISDEG-PWY: L-histidine degradation I|unclassified	15.0853426265	0	0	0
+HISTSYN-PWY: L-histidine biosynthesis	104.1889060712	56.1786572057	0	41.0456164853
+HISTSYN-PWY: L-histidine biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	6.2345125989
+HISTSYN-PWY: L-histidine biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	20.2149656289	0	0	10.3877555914
+HISTSYN-PWY: L-histidine biosynthesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.4083393383	0	0	0
+HISTSYN-PWY: L-histidine biosynthesis|unclassified	28.9809971617	51.2311499464	0	10.8272291840
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I	0	6.8046174327	0	0
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|unclassified	0	6.8046174327	0	0
+HSERMETANA-PWY: L-methionine biosynthesis III	171.0509461160	67.6698823080	10.8739556001	41.0852011873
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	4.1149257942	0	0	11.0162710405
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	21.0542114214	0	0	20.4440180845
+HSERMETANA-PWY: L-methionine biosynthesis III|unclassified	125.1356121722	61.9484003133	10.8739556001	0
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)	806.8469357561	187.8884255557	0	50.4843756325
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	5.8816174004	0	0	8.3217323832
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	18.2852675488	0	0	14.1520229083
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	13.4218481262	0	0	0
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|unclassified	750.1276439096	178.6832871022	0	24.7601648727
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis	0	8.4771321313	0	0
+METHGLYUT-PWY: superpathway of methylglyoxal degradation	34.3270852669	0	0	0
+METSYN-PWY: superpathway of L-homoserine and L-methionine biosynthesis	0	7.5318533232	0	0
+NAGLIPASYN-PWY: lipid IVA biosynthesis (E. coli)	0	10.8136654506	0	11.3529709957
+NAGLIPASYN-PWY: lipid IVA biosynthesis (E. coli)|unclassified	0	6.5971690273	0	0
+NONMEVIPP-PWY: methylerythritol phosphate pathway I	48.9431888106	59.3991969518	0	28.8566235230
+NONMEVIPP-PWY: methylerythritol phosphate pathway I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	13.7819736950	0	0	17.1169067847
+NONMEVIPP-PWY: methylerythritol phosphate pathway I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	5.9146987120	0	0	0
+NONMEVIPP-PWY: methylerythritol phosphate pathway I|unclassified	0	55.0116425064	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I	212.2429507252	126.8130224110	5.8389312837	48.3711532595
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.7111860359	0	0	7.9211875123
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	24.4955024040	0	0	17.6592344960
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.8084037126	0	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|unclassified	149.4723297856	119.7839343990	5.8389312837	16.0934190059
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)	32.5563322714	9.5145915905	0	22.2433973562
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	4.5790557713
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|unclassified	5.1580283532	0	0	0
+ORNDEG-PWY: superpathway of ornithine degradation	23.4264249636	0	0	0
+P105-PWY: TCA cycle IV (2-oxoglutarate decarboxylase)	229.1073084425	88.0167721751	0	20.1856954393
+P105-PWY: TCA cycle IV (2-oxoglutarate decarboxylase)|unclassified	207.6388747363	87.4367108548	0	16.4726849901
+P108-PWY: pyruvate fermentation to propanoate I	39.9503897321	19.5723734354	0	0
+P108-PWY: pyruvate fermentation to propanoate I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	16.0256699141	0	0	0
+P108-PWY: pyruvate fermentation to propanoate I|unclassified	0	19.5562405244	0	0
+P125-PWY: superpathway of (R,R)-butanediol biosynthesis	15.8125560383	0	0	0
+P161-PWY: acetylene degradation (anaerobic)	54.0636044025	22.8202544661	0	0
+P161-PWY: acetylene degradation (anaerobic)|unclassified	32.1344641014	22.8202544661	0	0
+P164-PWY: purine nucleobases degradation I (anaerobic)	8.8569402323	0	0	0
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)	0	22.7264665717	0	0
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|unclassified	0	22.6256441848	0	0
+P221-PWY: octane oxidation	12.7852199244	0	0	0
+P261-PWY: coenzyme M biosynthesis I	5.8016861103	0	0	0
+P41-PWY: pyruvate fermentation to acetate and (S)-lactate I	16.0155169942	0	0	0
+P41-PWY: pyruvate fermentation to acetate and (S)-lactate I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.8986376929	0	0	0
+P42-PWY: incomplete reductive TCA cycle	15.8426594210	11.9399088980	0	0
+P42-PWY: incomplete reductive TCA cycle|unclassified	11.8601207876	11.9342955038	0	0
+PANTO-PWY: phosphopantothenate biosynthesis I	99.5952307074	19.7530776864	0	44.3648907519
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	8.4227850757	0	0	12.7470939362
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	33.4497256926	0	0	28.3951550863
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	8.0246617387	0	0	0
+PANTO-PWY: phosphopantothenate biosynthesis I|unclassified	31.6806837643	16.6687012689	0	7.1019091442
+PANTOSYN-PWY: superpathway of coenzyme A biosynthesis I (bacteria)	71.5924932399	21.8914613892	0	27.4122310119
+PANTOSYN-PWY: superpathway of coenzyme A biosynthesis I (bacteria)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	18.6863227439	0	0	18.1627536491
+PANTOSYN-PWY: superpathway of coenzyme A biosynthesis I (bacteria)|unclassified	31.5822703903	0	0	0
+PENTOSE-P-PWY: pentose phosphate pathway	77.3406382498	118.0507545157	0	0
+PENTOSE-P-PWY: pentose phosphate pathway|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.0377001027	0	0	0
+PENTOSE-P-PWY: pentose phosphate pathway|unclassified	36.9008589568	112.4632113954	0	0
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)	50.5461501961	0	0	31.7470308587
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.4432352895	0	0	6.2912985433
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	17.1941804209	0	0	19.0790753778
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	7.1857371589	0	0	0
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)	13.8024859207	0	0	0
+PHOTOALL-PWY: oxygenic photosynthesis	149.9482523205	60.9137028677	0	28.7513940435
+PHOTOALL-PWY: oxygenic photosynthesis|unclassified	68.6071419041	59.3837790652	0	0
+POLYAMSYN-PWY: superpathway of polyamine biosynthesis I	13.8715218851	6.7039498738	0	0
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)	23.7510716600	56.3272811872	0	0
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)|unclassified	9.8757109975	53.1793585640	0	0
+PPGPPMET-PWY: ppGpp metabolism	40.8953690562	107.6129241007	3.4890093055	0
+PPGPPMET-PWY: ppGpp metabolism|unclassified	38.4208408323	107.1785121160	3.4890093055	0
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY: protocatechuate degradation II (ortho-cleavage pathway)	20.0746625096	0	0	0
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY: protocatechuate degradation II (ortho-cleavage pathway)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.1157749006	0	0	0
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY: protocatechuate degradation II (ortho-cleavage pathway)|unclassified	5.7607208776	0	0	0
+PWY-101: photosynthesis light reactions	220.9170190270	197.9976050404	3.3292013239	48.5223916526
+PWY-101: photosynthesis light reactions|unclassified	183.9867930459	197.9976050404	3.3292013239	18.6215809787
+PWY-1042: glycolysis IV	109.5472606103	77.8077158714	0	22.1605132296
+PWY-1042: glycolysis IV|unclassified	102.8100155516	77.6714393691	0	17.8897219484
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis	32.6325381806	12.0364451052	0	0
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis|g__Alteromonas.s__Alteromonas_macleodii	4.0883147587	0	0	0
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	6.5795716488	0	0	0
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis|unclassified	11.5103806455	0	0	0
+PWY-1861: formaldehyde assimilation II (assimilatory RuMP Cycle)	0	12.5622195795	0	0
+PWY-1861: formaldehyde assimilation II (assimilatory RuMP Cycle)|unclassified	0	12.5244865029	0	0
+PWY-241: C4 photosynthetic carbon assimilation cycle, NADP-ME type	60.4695243380	0	0	22.2478867505
+PWY-241: C4 photosynthetic carbon assimilation cycle, NADP-ME type|unclassified	20.4107865013	0	0	0
+PWY-2941: L-lysine biosynthesis II	43.0872755003	0	0	14.1107532626
+PWY-3001: superpathway of L-isoleucine biosynthesis I	108.6007619103	22.6938665330	0	37.4105838899
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.2811541305	0	0	4.6708163054
+PWY-3001: superpathway of L-isoleucine biosynthesis I|unclassified	36.0179690211	0	0	0
+PWY-3781: aerobic respiration I (cytochrome c)	351.2646554073	33.9850331177	0	90.2415679774
+PWY-3781: aerobic respiration I (cytochrome c)|unclassified	329.9965440673	33.9070179346	0	58.1771095526
+PWY-3841: folate transformations II (plants)	329.4352042090	140.5579795469	0	70.5761974793
+PWY-3841: folate transformations II (plants)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	5.3034939779	0	0	7.2552707953
+PWY-3841: folate transformations II (plants)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	20.8310734046	0	0	19.7544876309
+PWY-3841: folate transformations II (plants)|unclassified	244.0283959775	132.4301111879	0	11.8489141520
+PWY-4984: urea cycle	46.1268711810	11.7839984937	0	34.5183864797
+PWY-4984: urea cycle|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.8448619639	0	0	5.2472185790
+PWY-4984: urea cycle|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	11.5955644439	0	0	15.7427514842
+PWY-4984: urea cycle|g__Pseudovibrio.s__Pseudovibrio_denitrificans	12.8762695224	0	0	0
+PWY-5022: 4-aminobutanoate degradation V	11.8654423514	0	0	0
+PWY-5028: L-histidine degradation II	20.0250778249	0	0	0
+PWY-5028: L-histidine degradation II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.1296104811	0	0	0
+PWY-5097: L-lysine biosynthesis VI	60.3683314619	41.0389830267	0	35.1721539962
+PWY-5097: L-lysine biosynthesis VI|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.7125396579	0	0	7.7281653405
+PWY-5097: L-lysine biosynthesis VI|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	16.3524077641	0	0	18.9348165202
+PWY-5097: L-lysine biosynthesis VI|unclassified	19.5638928355	34.2735099073	0	0
+PWY-5100: pyruvate fermentation to acetate and lactate II	16.0155169942	13.6791155044	0	0
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.8986376929	0	0	0
+PWY-5100: pyruvate fermentation to acetate and lactate II|unclassified	8.1885592868	13.6791155044	0	0
+PWY-5103: L-isoleucine biosynthesis III	728.0254235149	168.8869605615	0	39.6211372357
+PWY-5103: L-isoleucine biosynthesis III|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	4.7381484410	0	0	7.2148455795
+PWY-5103: L-isoleucine biosynthesis III|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	16.8728737158	0	0	11.7135581564
+PWY-5103: L-isoleucine biosynthesis III|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.0422039994	0	0	0
+PWY-5103: L-isoleucine biosynthesis III|unclassified	674.4870895664	161.2438726106	0	18.8552321661
+PWY-5121: superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	21.1717192501	55.0203679036	0	0
+PWY-5121: superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)|unclassified	0	52.0071575783	0	0
+PWY-5130: 2-oxobutanoate degradation I	55.0188644339	55.8693993551	0	3.5510843188
+PWY-5130: 2-oxobutanoate degradation I|unclassified	54.1136385859	51.6698070496	0	3.5510843188
+PWY-5136: fatty acid &beta;-oxidation II (plant peroxisome)	132.5215902703	79.1631138851	0	33.5775329660
+PWY-5136: fatty acid &beta;-oxidation II (plant peroxisome)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	15.5122267341	0	0	0
+PWY-5136: fatty acid &beta;-oxidation II (plant peroxisome)|unclassified	46.1971229928	54.9620934764	0	19.2903117820
+PWY-5138: fatty acid &beta;-oxidation IV (unsaturated, even number)	35.7271679293	26.2314533431	0	10.4147377430
+PWY-5138: fatty acid &beta;-oxidation IV (unsaturated, even number)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	23.5203200718	0	0	0
+PWY-5138: fatty acid &beta;-oxidation IV (unsaturated, even number)|unclassified	7.0917885437	25.6680775916	0	10.0632410057
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)	93.0126505741	21.5373898491	0	46.5361866653
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	5.0977183647	0	0	5.7396817312
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	20.6873657401	0	0	19.5894759349
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)|unclassified	19.4944777265	21.3583585088	0	0
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)	42.6531377961	38.4660853941	0	21.6993499285
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|unclassified	23.1650187432	25.5313419323	0	0
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)	82.9281806672	29.1899230452	0	39.2474078478
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.4319052539	0	0	4.4928854249
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	15.8745557439	0	0	17.2612128823
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	9.3824326255	0	0	0
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|unclassified	23.0147182420	19.2564587275	0	0
+PWY-5345: superpathway of L-methionine biosynthesis (by sulfhydrylation)	72.7828284923	15.4366014787	0	0
+PWY-5345: superpathway of L-methionine biosynthesis (by sulfhydrylation)|unclassified	36.3479786982	0	0	0
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)	0	8.3879611734	0	0
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)	17.1382305639	0	0	0
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	7.5596478537	0	0	0
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|unclassified	9.8235741967	0	0	0
+PWY-5484: glycolysis II (from fructose 6-phosphate)	66.7010564624	45.5199252945	0	22.5342690979
+PWY-5484: glycolysis II (from fructose 6-phosphate)|unclassified	45.7920958734	19.9875172881	0	0
+PWY-561: superpathway of glyoxylate cycle and fatty acid degradation	185.7929009450	59.1609561688	0	40.8526480275
+PWY-561: superpathway of glyoxylate cycle and fatty acid degradation|unclassified	95.1272144491	54.4409055473	0	0
+PWY-5659: GDP-mannose biosynthesis	11.3910712963	53.3000925450	0	0
+PWY-5659: GDP-mannose biosynthesis|unclassified	9.5303860637	53.3000925450	0	0
+PWY-5667: CDP-diacylglycerol biosynthesis I	11.4647783010	17.9159701611	0	0
+PWY-5667: CDP-diacylglycerol biosynthesis I|unclassified	0	9.2270451716	0	0
+PWY-5675: nitrate reduction V (assimilatory)	0	6.7129211236	0	9.5703646450
+PWY-5676: acetyl-CoA fermentation to butanoate II	73.1775150114	0	0	0
+PWY-5676: acetyl-CoA fermentation to butanoate II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	12.3135418618	0	0	0
+PWY-5676: acetyl-CoA fermentation to butanoate II|unclassified	41.8479082472	0	0	0
+PWY-5686: UMP biosynthesis I	136.7051981317	87.3122316817	0	44.6837679239
+PWY-5686: UMP biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.6331176488	0	0	2.6525565038
+PWY-5686: UMP biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	19.1025616823	3.7686812805	0	18.9653957069
+PWY-5686: UMP biosynthesis I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	8.9274443072	0	0	0
+PWY-5686: UMP biosynthesis I|unclassified	90.1112860062	75.6219498534	0	13.0222822022
+PWY-5690: TCA cycle II (plants and fungi)	103.9403378279	124.3762670687	0	0
+PWY-5690: TCA cycle II (plants and fungi)|unclassified	100.7979012083	123.1777399327	0	0
+PWY-5695: inosine 5'-phosphate degradation	70.0137973091	103.7751870763	0	0
+PWY-5695: inosine 5'-phosphate degradation|g__Pseudovibrio.s__Pseudovibrio_denitrificans	13.1239691674	0	0	0
+PWY-5695: inosine 5'-phosphate degradation|unclassified	26.0162523280	103.7379603044	0	0
+PWY-5723: Rubisco shunt	178.0467701414	141.3880202270	0	52.0563895228
+PWY-5723: Rubisco shunt|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.1345078080	0	0	9.4887987216
+PWY-5723: Rubisco shunt|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	18.7724626443	0	0	16.5389508351
+PWY-5723: Rubisco shunt|unclassified	115.8330592030	135.0754617632	0	0
+PWY-5747: 2-methylcitrate cycle II	19.7367701804	0	0	0
+PWY-5747: 2-methylcitrate cycle II|unclassified	12.4085213892	0	0	0
+PWY-5855: ubiquinol-7 biosynthesis (early decarboxylation)	5.6293249298	14.1974749989	0	0
+PWY-5855: ubiquinol-7 biosynthesis (early decarboxylation)|unclassified	5.0043188379	0	0	0
+PWY-5913: partial TCA cycle (obligate autotrophs)	63.7300520446	163.7096818485	0	37.0408731453
+PWY-5913: partial TCA cycle (obligate autotrophs)|unclassified	25.5296832659	162.2639627442	0	0
+PWY-5918: superpathway of heme b biosynthesis from glutamate	26.7205478336	0	0	0
+PWY-5918: superpathway of heme b biosynthesis from glutamate|unclassified	14.4094171204	0	0	0
+PWY-5920: superpathway of heme b biosynthesis from glycine	26.0482023556	0	0	0
+PWY-5920: superpathway of heme b biosynthesis from glycine|unclassified	13.1410104576	0	0	0
+PWY-5941: glycogen degradation II	33.5341274315	0	0	38.2889034329
+PWY-5941: glycogen degradation II|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.8405471398	0	0	3.6450947245
+PWY-5941: glycogen degradation II|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	14.9053381874	0	0	21.5549776723
+PWY-5941: glycogen degradation II|unclassified	10.1764389160	0	0	11.8838480441
+PWY-5973: cis-vaccenate biosynthesis	274.2638864914	203.0431860281	0	41.2511016160
+PWY-5973: cis-vaccenate biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.7709108397	0	0	1.1711631581
+PWY-5973: cis-vaccenate biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	16.3250347555	0	0	17.6334540176
+PWY-5973: cis-vaccenate biosynthesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	27.9006865845	0	0	0
+PWY-5973: cis-vaccenate biosynthesis|unclassified	172.4776843895	195.6924733840	0	0
+PWY-5989: stearate biosynthesis II (bacteria and plants)	326.7765673618	30.8527280821	0	36.3258953547
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	31.8147764965	0	0	0
+PWY-5989: stearate biosynthesis II (bacteria and plants)|unclassified	239.6687745914	30.7692860143	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I	123.6600498303	41.9928566005	11.5890537695	52.9294869306
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	4.6311598848	0	0	10.0426252819
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	20.4322701896	0	0	23.5857548712
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	13.0255432874	0	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|unclassified	69.1282890897	33.8865549966	11.5890537695	16.3021435332
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II	135.9313063435	191.6905956891	16.1028208929	58.5165563152
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	6.4715051124	0	0	11.2325524991
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	23.1497697359	0	0	25.9197290216
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Erythrobacter.s__Erythrobacter_flavus	0	2.6684473440	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Erythrobacter.s__Erythrobacter_sp_SAORIC_644	0	2.3579712077	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	13.3485026867	0	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|unclassified	85.4696869026	178.5408722261	16.1028208929	17.5829106344
+PWY-6123: inosine-5'-phosphate biosynthesis I	120.7348127199	123.5219157991	0	56.0392325654
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	5.5239384808	0	0	11.5543529511
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	22.6675136815	0	0	21.6807468856
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	12.4679242813	0	0	0
+PWY-6123: inosine-5'-phosphate biosynthesis I|unclassified	55.8651032319	109.9150417968	0	15.9361409189
+PWY-6124: inosine-5'-phosphate biosynthesis II	119.2790601431	120.7992704748	0	52.9592180725
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	6.6425270679	0	0	13.3852599675
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	24.8722761386	0	0	17.2244059517
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.7757598102	0	0	0
+PWY-6124: inosine-5'-phosphate biosynthesis II|unclassified	52.6620993089	105.8209166800	0	17.5481744374
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II	195.7340164872	53.0444176714	0	41.0505756298
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	2.8388286391
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	14.6449988099	0	0	14.3644832523
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	15.5742147684	0	0	0
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|unclassified	150.9529490140	52.8513033744	0	14.4235556506
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II	214.7850751382	158.2548585086	0	19.9848127054
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	2.6770705467
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	15.1737289494	0	0	0
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	14.8391173899	0	0	0
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|unclassified	163.7318558376	125.7932313485	0	0
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	20.1854380000	0	0	0
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.2179496701	0	0	0
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|unclassified	4.2957066548	0	0	0
+PWY-6151: S-adenosyl-L-methionine salvage I	24.3651480153	0	0	0
+PWY-6151: S-adenosyl-L-methionine salvage I|unclassified	4.6431735324	0	0	0
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate	63.2871973223	34.4837566798	0	44.3091641659
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	4.7025407411	0	0	10.9520204192
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	23.5089797730	0	0	18.9809478469
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Pseudovibrio.s__Pseudovibrio_denitrificans	8.4245518193	0	0	0
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|unclassified	18.7989664272	16.9411298688	0	5.9290395272
+PWY-6185: 4-methylcatechol degradation (ortho cleavage)	30.4654455816	0	0	0
+PWY-6185: 4-methylcatechol degradation (ortho cleavage)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	5.8516533983	0	0	0
+PWY-621: sucrose degradation III (sucrose invertase)	12.2002777676	0	0	0
+PWY-621: sucrose degradation III (sucrose invertase)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	7.2266602097	0	0	0
+PWY-6270: isoprene biosynthesis I	42.4300157293	0	0	22.5262630076
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis	135.9313063435	191.6905956891	16.1028208929	58.5165563152
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	6.4715051124	0	0	11.2325524991
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	23.1497697359	0	0	25.9197290216
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Erythrobacter.s__Erythrobacter_flavus	0	2.6684473440	0	0
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Erythrobacter.s__Erythrobacter_sp_SAORIC_644	0	2.3579712077	0	0
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	13.3485026867	0	0	0
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|unclassified	85.4696869026	178.5408722261	16.1028208929	17.5829106344
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	331.7844105812	98.9071011597	0	42.0720320689
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	1.3405966192
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	22.8030195752	0	0	19.6487036411
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	31.1886263937	0	0	0
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|unclassified	241.7391832416	97.7737550134	0	0
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)	47.2661523092	63.4981470941	0	10.3830852533
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|unclassified	46.8398662471	63.0594174937	0	9.0209288850
+PWY-6305: superpathway of putrescine biosynthesis	19.5973637173	4.1760356095	0	15.5561598333
+PWY-6305: superpathway of putrescine biosynthesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.7619818848	0	0	0
+PWY-6353: purine nucleotides degradation II (aerobic)	38.5121627314	74.6592408489	0	0
+PWY-6353: purine nucleotides degradation II (aerobic)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	12.4085648197	0	0	0
+PWY-6353: purine nucleotides degradation II (aerobic)|unclassified	17.0331189721	43.1379392711	0	0
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)	48.9211734962	0	0	31.0068516917
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.5061094349	0	0	5.6480574239
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	16.4028720110	0	0	17.4607521171
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	7.1420274053	0	0	0
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	52.8390337226	0	0	32.1955419594
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.6417039512	0	0	5.9780728792
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	15.4144743918	0	0	17.0188546523
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	45.9745553734	0	0	32.5861369698
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.5372922521	0	0	6.3630874768
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	16.2607154221	0	0	19.3055808875
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	6.3923804948	0	0	0
+PWY-6435: 4-hydroxybenzoate biosynthesis III (plants)	18.5092098330	0	0	0
+PWY-6435: 4-hydroxybenzoate biosynthesis III (plants)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.8015375678	0	0	0
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation	36.3079624944	0	0	0
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|unclassified	17.9840724820	0	0	0
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I	19.4423359325	0	0	0
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III	32.9989689962	14.9157202436	0	0
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III|unclassified	30.1155994246	13.4135229589	0	0
+PWY-6549: L-glutamine biosynthesis III	141.9910452431	36.9889908098	0	0
+PWY-6549: L-glutamine biosynthesis III|unclassified	130.0956778515	36.9574123099	0	0
+PWY-6590: superpathway of Clostridium acetobutylicum acidogenic fermentation	13.7210549638	0	0	0
+PWY-6590: superpathway of Clostridium acetobutylicum acidogenic fermentation|unclassified	6.2861383165	0	0	0
+PWY-6606: guanosine nucleotides degradation II	20.1631869413	8.7146520634	0	0
+PWY-6606: guanosine nucleotides degradation II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.6687063436	0	0	0
+PWY-6606: guanosine nucleotides degradation II|unclassified	0	8.7146520634	0	0
+PWY-6608: guanosine nucleotides degradation III	41.6628249788	64.9905628894	0	0
+PWY-6608: guanosine nucleotides degradation III|g__Pseudovibrio.s__Pseudovibrio_denitrificans	13.7054717771	0	0	0
+PWY-6608: guanosine nucleotides degradation III|unclassified	19.4542559861	34.6709327592	0	0
+PWY-6609: adenine and adenosine salvage III	49.6332018150	65.0548209971	0	0
+PWY-6609: adenine and adenosine salvage III|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.5180259254	0	0	0
+PWY-6609: adenine and adenosine salvage III|unclassified	22.2103738866	34.6892119981	0	0
+PWY-6628: superpathway of L-phenylalanine biosynthesis	50.6384080846	0	0	0
+PWY-6628: superpathway of L-phenylalanine biosynthesis|unclassified	11.6625440126	0	0	0
+PWY-6629: superpathway of L-tryptophan biosynthesis	72.7089921060	24.8030076883	0	33.1613840542
+PWY-6629: superpathway of L-tryptophan biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.2640599284	0	0	7.2583941508
+PWY-6629: superpathway of L-tryptophan biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	17.5494821878	0	0	12.8983828076
+PWY-6629: superpathway of L-tryptophan biosynthesis|unclassified	15.3712548988	0	0	0
+PWY-6630: superpathway of L-tyrosine biosynthesis	52.2654140892	0	0	25.1119888318
+PWY-6630: superpathway of L-tyrosine biosynthesis|unclassified	11.6729157282	0	0	0
+PWY-6641: superpathway of sulfolactate degradation	52.8845701885	13.9309116882	0	0
+PWY-6641: superpathway of sulfolactate degradation|unclassified	35.2658782386	13.9309116882	0	0
+PWY-6700: queuosine biosynthesis I (de novo)	119.2595571066	67.4401164798	0	28.1000583811
+PWY-6700: queuosine biosynthesis I (de novo)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	1.5355327954	0	5.2261392693
+PWY-6700: queuosine biosynthesis I (de novo)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	16.7100263426	3.1736187622	0	16.5474323315
+PWY-6700: queuosine biosynthesis I (de novo)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	12.5616969805	0	0	0
+PWY-6700: queuosine biosynthesis I (de novo)|unclassified	72.2020852553	61.4899019817	0	0
+PWY-6703: preQ0 biosynthesis	74.2609358649	145.8443562634	0	41.3346493635
+PWY-6703: preQ0 biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	5.2105874604
+PWY-6703: preQ0 biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	17.6496283748	0	0	23.1719725233
+PWY-6703: preQ0 biosynthesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	14.1993959921	0	0	0
+PWY-6703: preQ0 biosynthesis|unclassified	31.6576066614	145.1407269661	0	0
+PWY-6823: molybdopterin biosynthesis	72.4932654570	122.9285443293	0	19.5669481059
+PWY-6823: molybdopterin biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	8.4880605636
+PWY-6823: molybdopterin biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	17.3314570227	0	0	7.8600274773
+PWY-6823: molybdopterin biosynthesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	16.3072684061	0	0	0
+PWY-6823: molybdopterin biosynthesis|unclassified	27.5582416984	122.9285443293	0	0
+PWY-6859: all-trans-farnesol biosynthesis	0	48.7333880192	0	0
+PWY-6859: all-trans-farnesol biosynthesis|unclassified	0	47.4701064635	0	0
+PWY-6876: isopropanol biosynthesis (engineered)	9.4329340181	15.7979369576	0	0
+PWY-6876: isopropanol biosynthesis (engineered)|unclassified	5.0657382555	15.7656072290	0	0
+PWY-6892: thiazole component of thiamine diphosphate biosynthesis I	37.1499572405	34.9351706485	0	0
+PWY-6892: thiazole component of thiamine diphosphate biosynthesis I|unclassified	35.8539144157	34.8647502976	0	0
+PWY-6895: superpathway of thiamine diphosphate biosynthesis II	22.2547277001	0	0	0
+PWY-6897: thiamine diphosphate salvage II	34.6792488846	0	0	12.9167003124
+PWY-6897: thiamine diphosphate salvage II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	13.8433937128	0	0	0
+PWY-6906: chitin derivatives degradation	9.6463192757	0	0	0
+PWY-6922: L-N&delta;-acetylornithine biosynthesis	31.8716757629	0	0	0
+PWY-6936: seleno-amino acid biosynthesis (plants)	123.6879440809	33.2036263913	0	0
+PWY-6936: seleno-amino acid biosynthesis (plants)|unclassified	87.3970428481	28.6849414099	0	0
+PWY-6969: TCA cycle V (2-oxoglutarate synthase)	271.8440249356	132.7742054894	0	51.4364525978
+PWY-6969: TCA cycle V (2-oxoglutarate synthase)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.9247947204	0	0	0
+PWY-6969: TCA cycle V (2-oxoglutarate synthase)|unclassified	241.5483969374	131.4092522383	0	32.4895985782
+PWY-702: L-methionine biosynthesis II	46.3780786532	18.1740702858	0	0
+PWY-702: L-methionine biosynthesis II|unclassified	14.6121546645	8.1912914012	0	0
+PWY-7094: fatty acid salvage	39.4800808551	10.3294946598	0	28.2398433703
+PWY-7094: fatty acid salvage|unclassified	32.5868555108	10.1210803275	0	20.0568107853
+PWY-7111: pyruvate fermentation to isobutanol (engineered)	520.3601088059	178.0721099917	0	59.3319187459
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.7861217737	0	0	0
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|unclassified	445.6892195267	173.1980990822	0	44.1836937748
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type	37.0336942124	10.1259484235	0	16.6634480088
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type|unclassified	22.1181379571	0	0	0
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type	51.5330946593	0	0	26.3766956731
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|unclassified	17.0603701823	0	0	0
+PWY-7118: chitin deacetylation	9.1646673119	7.0503688596	0	0
+PWY-7159: 3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)	40.2705531281	215.9099362087	0	0
+PWY-7159: 3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)|unclassified	38.7660515054	212.8813246668	0	0
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I	35.4259269165	14.9900607641	0	0
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|unclassified	32.1189110794	13.4493071415	0	0
+PWY-7185: UTP and CTP dephosphorylation I	23.2263452109	0	0	0
+PWY-7185: UTP and CTP dephosphorylation I|unclassified	18.0732624485	0	0	0
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation	139.0921842729	22.6024016554	0	40.0816705918
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	5.6905325249
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	29.0852137256	0	0	26.9873679211
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Pseudovibrio.s__Pseudovibrio_denitrificans	25.9336499586	0	0	0
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|unclassified	51.0083568678	12.8465385938	0	0
+PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV	47.8808928741	0	0	0
+PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV|unclassified	40.7658233605	0	0	0
+PWY-7199: pyrimidine deoxyribonucleosides salvage	123.6063458093	25.2380712021	0	0
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.9799658178	0	0	0
+PWY-7199: pyrimidine deoxyribonucleosides salvage|unclassified	108.7767779947	11.0579934258	0	0
+PWY-7208: superpathway of pyrimidine nucleobases salvage	117.8928956156	144.6366560488	0	18.5958274128
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.7337859357	0	0	0
+PWY-7208: superpathway of pyrimidine nucleobases salvage|unclassified	83.6196595371	135.5710362322	0	3.5517359741
+PWY-7209: superpathway of pyrimidine ribonucleosides degradation	42.3161572295	0	0	0
+PWY-7209: superpathway of pyrimidine ribonucleosides degradation|unclassified	17.6872630177	0	0	0
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP	37.4391370829	0	0	0
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP|unclassified	31.4422763097	0	0	0
+PWY-7211: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	0	19.0343881727	0	0
+PWY-7211: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis|unclassified	0	15.9467269800	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II	500.5221650055	338.1939404762	0	30.4231252529
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.1372491429	0	0	1.5124806419
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	13.5341090285	0	0	13.0119319560
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Prochlorococcus.s__Prochlorococcus_marinus	6.4148266008	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	33.2160019227	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|unclassified	418.8867937311	324.4192811446	0	15.4941948508
+PWY-7221: guanosine ribonucleotides de novo biosynthesis	403.5148688134	342.4573550735	7.3656474754	65.3158087547
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	10.6968197244
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	16.3381738479	0	0	17.5683535279
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	15.6695049702	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|unclassified	343.4702915934	331.5136600103	7.3656474754	32.7468729372
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II	500.5221650055	338.1939404762	0	30.4231252529
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.1372491429	0	0	1.5124806419
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	13.5341090285	0	0	13.0119319560
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Prochlorococcus.s__Prochlorococcus_marinus	6.4148266008	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	33.2160019227	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|unclassified	418.8867937311	324.4192811446	0	15.4941948508
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I	441.6952297598	344.5707847035	0	51.2639715225
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	6.9470522272
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	16.1486637995	0	0	15.5540311145
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	19.0353928963	0	0	0
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|unclassified	375.9835769829	333.5766473864	0	21.7432222675
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I	198.2284208741	146.0050076237	0	19.4135652650
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	3.5475664339
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	16.4080426934	0	0	0
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	13.5950324644	0	0	0
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|unclassified	150.3635291560	114.6776201115	0	0
+PWY-7234: inosine-5'-phosphate biosynthesis III	69.7314252201	30.0053820693	0	40.6646814917
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	4.4779597732	0	0	9.9255518940
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	19.0284505354	0	0	18.6533661930
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.4709070333	0	0	0
+PWY-7234: inosine-5'-phosphate biosynthesis III|unclassified	0	29.5425775835	0	0
+PWY-7238: sucrose biosynthesis II	28.9318216138	0	0	36.9777104539
+PWY-7238: sucrose biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.2069244424	0	0	3.3128610304
+PWY-7238: sucrose biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	13.6009226247	0	0	21.8049642967
+PWY-7238: sucrose biosynthesis II|unclassified	8.7065753716	0	0	10.7025353676
+PWY-7242: D-fructuronate degradation	39.6983265691	0	0	0
+PWY-7242: D-fructuronate degradation|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.6816003624	0	0	0
+PWY-7242: D-fructuronate degradation|unclassified	18.5909477047	0	0	0
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II	56.8588844626	28.8614057298	0	31.9092872882
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.1718505246	0	0	2.9841231856
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	15.1805765985	0	0	18.7337817277
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|unclassified	15.7865078056	12.5684993499	0	0
+PWY-7279: aerobic respiration II (cytochrome c) (yeast)	111.6356796695	0	0	0
+PWY-7279: aerobic respiration II (cytochrome c) (yeast)|unclassified	110.3280071805	0	0	0
+PWY-7282: 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis II	47.5795237805	9.3477935130	0	36.0708434718
+PWY-7282: 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	15.8313682081	0	0	10.7876208421
+PWY-7295: L-arabinose degradation IV	31.0735130088	0	0	0
+PWY-7295: L-arabinose degradation IV|g__Pseudovibrio.s__Pseudovibrio_denitrificans	9.8353479031	0	0	0
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	0	47.5673754121	0	0
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|unclassified	0	41.0221692979	0	0
+PWY-7340: 9-cis, 11-trans-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)	22.9786840509	11.3619251031	0	0
+PWY-7340: 9-cis, 11-trans-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	12.7875354306	0	0	0
+PWY-7340: 9-cis, 11-trans-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)|unclassified	0	11.3619251031	0	0
+PWY-7356: thiamine diphosphate salvage IV (yeast)	21.7400430426	0	0	0
+PWY-7356: thiamine diphosphate salvage IV (yeast)|g__Prochlorococcus.s__Prochlorococcus_marinus	5.5077612787	0	0	0
+PWY-7357: thiamine phosphate formation from pyrithiamine and oxythiamine (yeast)	36.7931340920	0	0	10.8318076227
+PWY-7357: thiamine phosphate formation from pyrithiamine and oxythiamine (yeast)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	17.0288186708	0	0	0
+PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)	63.3616545272	0	0	0
+PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)|unclassified	33.9298855927	0	0	0
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)	0	0	0	14.1507334735
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|unclassified	0	0	0	11.7585608012
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)	92.8933446982	64.5547109178	0	41.4981142635
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.5828763731	0	0	6.0224578940
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	14.8716933899	0	0	17.2749577039
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|unclassified	33.1588213017	60.8786020838	0	0
+PWY-7511: protein ubiquitination	3.2178378373	0	0	0
+PWY-7511: protein ubiquitination|unclassified	3.2178378373	0	0	0
+PWY-7560: methylerythritol phosphate pathway II	42.6752953985	69.7765977072	0	21.4868261985
+PWY-7560: methylerythritol phosphate pathway II|unclassified	0	63.7991974466	0	0
+PWY-7579: phycourobilin biosynthesis	0	20.7628463732	0	0
+PWY-7579: phycourobilin biosynthesis|unclassified	0	20.7628463732	0	0
+PWY-7663: gondoate biosynthesis (anaerobic)	513.6751852820	202.7858495155	12.1932245636	56.3738109799
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Alteromonas.s__Alteromonas_macleodii	7.7232668827	0	0	0
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.1055308463	0	0	10.0584917204
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	25.2011760382	0	0	21.9635269328
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	39.7075246748	0	0	0
+PWY-7663: gondoate biosynthesis (anaerobic)|unclassified	427.1126077216	195.6167991370	12.1932245636	25.5717800467
+PWY-7664: oleate biosynthesis IV (anaerobic)	379.3460480940	107.8976257550	0	50.4194899410
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	1.9963770204
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	24.6454352972	0	0	22.9685519965
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	30.5755331189	0	0	0
+PWY-7664: oleate biosynthesis IV (anaerobic)|unclassified	287.2930602800	106.3889967791	0	0
+PWY-7731: superpathway of photosynthetic hydrogen production	119.8759567808	10.5022182887	0	20.0354337142
+PWY-7731: superpathway of photosynthetic hydrogen production|unclassified	10.5235607020	0	0	0
+PWY-7761: NAD salvage pathway II (PNC IV cycle)	30.7467282274	0	0	0
+PWY-7761: NAD salvage pathway II (PNC IV cycle)|unclassified	13.8049195442	0	0	0
+PWY-7790: UMP biosynthesis II	136.7051981317	46.1769409459	0	44.6837679239
+PWY-7790: UMP biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	1.7032524358
+PWY-7790: UMP biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	16.9032463915	0	0	14.1937713508
+PWY-7790: UMP biosynthesis II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	8.9274443072	0	0	0
+PWY-7790: UMP biosynthesis II|unclassified	90.1112860062	17.2881069975	0	13.0222822022
+PWY-7791: UMP biosynthesis III	136.7051981317	46.1769409459	0	44.6837679239
+PWY-7791: UMP biosynthesis III|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	1.7032524358
+PWY-7791: UMP biosynthesis III|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	16.9032463915	0	0	14.1937713508
+PWY-7791: UMP biosynthesis III|g__Pseudovibrio.s__Pseudovibrio_denitrificans	8.9274443072	0	0	0
+PWY-7791: UMP biosynthesis III|unclassified	90.1112860062	17.2881069975	0	13.0222822022
+PWY-7851: coenzyme A biosynthesis II (eukaryotic)	60.2054055585	16.4713824271	0	18.6930870190
+PWY-7851: coenzyme A biosynthesis II (eukaryotic)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	17.2370368063	4.3897181881	0	13.0695076084
+PWY-7851: coenzyme A biosynthesis II (eukaryotic)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	9.7544283664	0	0	0
+PWY-7851: coenzyme A biosynthesis II (eukaryotic)|unclassified	11.3444195701	0	0	0
+PWY-7858: (5Z)-dodecenoate biosynthesis II	320.8072858163	58.1712297990	0	44.1124145486
+PWY-7858: (5Z)-dodecenoate biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	1.3551749728
+PWY-7858: (5Z)-dodecenoate biosynthesis II|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	22.4854448555	0	0	21.1891667268
+PWY-7858: (5Z)-dodecenoate biosynthesis II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	19.7697369348	0	0	0
+PWY-7858: (5Z)-dodecenoate biosynthesis II|unclassified	237.2789946204	42.2548551239	0	0
+PWY-7902: glucosylglycerol biosynthesis	0	70.8075563691	0	0
+PWY-7902: glucosylglycerol biosynthesis|unclassified	0	70.7005041402	0	0
+PWY-7942: 5-oxo-L-proline metabolism	57.5762535590	0	0	26.5104477857
+PWY-7942: 5-oxo-L-proline metabolism|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	18.8971751247	0	0	23.8855580946
+PWY-7942: 5-oxo-L-proline metabolism|unclassified	15.7560010024	0	0	0
+PWY-7953: UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)	43.7793593361	0	0	32.5826901243
+PWY-7953: UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	5.6050622373
+PWY-7953: UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	15.9438823047	0	0	16.9742745509
+PWY-7953: UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	7.1066667515	0	0	0
+PWY-7977: L-methionine biosynthesis IV	204.3013344232	109.0684747110	0	38.8744516954
+PWY-7977: L-methionine biosynthesis IV|g__Alteromonas.s__Alteromonas_macleodii	5.2698970755	0	0	0
+PWY-7977: L-methionine biosynthesis IV|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.8480220099	0	0	9.3257471161
+PWY-7977: L-methionine biosynthesis IV|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	16.4933008590	0	0	15.5469945903
+PWY-7977: L-methionine biosynthesis IV|unclassified	135.3748828998	96.1391433583	0	9.8348265949
+PWY-8004: Entner-Doudoroff pathway I	62.2270467578	0	0	0
+PWY-8004: Entner-Doudoroff pathway I|unclassified	30.6566898104	0	0	0
+PWY-8011: L-serine biosynthesis II	0	6.6079508884	0	0
+PWY-8011: L-serine biosynthesis II|unclassified	0	6.6079508884	0	0
+PWY-8073: lipid IVA biosynthesis (P. putida)	0	10.8136654506	0	11.3529709957
+PWY-8073: lipid IVA biosynthesis (P. putida)|unclassified	0	6.5971690273	0	0
+PWY-8131: 5'-deoxyadenosine degradation II	19.1301510558	0	0	0
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II	202.5221724288	124.4399821641	7.2620209990	44.8958476555
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	28.0539200901	0	0	20.8383168587
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.7089767521	0	0	0
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II|unclassified	117.2547192108	116.2779246750	7.2611703209	0
+PWY-8187: L-arginine degradation XIII (reductive Stickland reaction)	35.0045285864	21.2600888966	0	0
+PWY-8187: L-arginine degradation XIII (reductive Stickland reaction)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	7.9796013402	0	0	0
+PWY-8187: L-arginine degradation XIII (reductive Stickland reaction)|unclassified	14.8389817014	21.0860425275	0	0
+PWY-821: superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	46.8556593834	0	0	0
+PWY-821: superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)|unclassified	20.4072498541	0	0	0
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I	131.0225139943	73.7059916981	0	29.7240692881
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	17.2291435913	0	0	0
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	12.8169769156	0	0	0
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I|unclassified	17.5495322441	66.3677900738	0	0
+PWY-I9: L-cysteine biosynthesis VI (from L-methionine)	21.3790396717	0	0	0
+PWY-I9: L-cysteine biosynthesis VI (from L-methionine)|unclassified	5.2992476510	0	0	0
+PWY0-1061: superpathway of L-alanine biosynthesis	37.9766606236	0	0	15.6356470125
+PWY0-1061: superpathway of L-alanine biosynthesis|unclassified	26.3872043587	0	0	0
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	23.7023043838	0	0	0
+PWY0-1296: purine ribonucleosides degradation	28.0631493013	63.5003625547	0	0
+PWY0-1296: purine ribonucleosides degradation|g__Pseudovibrio.s__Pseudovibrio_denitrificans	8.0575356261	0	0	0
+PWY0-1296: purine ribonucleosides degradation|unclassified	13.2393587034	29.6833248648	0	0
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation	27.8503656506	25.9592352462	0	0
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|unclassified	14.9266149499	21.0559830437	0	0
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation	33.4464873161	19.8490847477	0	0
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|unclassified	9.9346014663	8.6848840899	0	0
+PWY0-1319: CDP-diacylglycerol biosynthesis II	11.4647783010	17.9159701611	0	0
+PWY0-1319: CDP-diacylglycerol biosynthesis II|unclassified	0	9.2270451716	0	0
+PWY0-1337: oleate &beta;-oxidation	20.3246224263	8.7815304878	0	0
+PWY0-1337: oleate &beta;-oxidation|unclassified	13.4210613232	8.6169664962	0	0
+PWY0-1477: ethanolamine utilization	54.0636044025	22.8202544661	0	36.8288155724
+PWY0-1477: ethanolamine utilization|unclassified	32.1344641014	22.8202544661	0	17.0172492360
+PWY0-1479: tRNA processing	54.7599370076	30.8640228657	0	28.7104584358
+PWY0-1479: tRNA processing|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	7.1767370301
+PWY0-1479: tRNA processing|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	14.2794853735	0	0	8.8826097524
+PWY0-1479: tRNA processing|g__Pseudovibrio.s__Pseudovibrio_denitrificans	15.7721750686	0	0	0
+PWY0-1479: tRNA processing|unclassified	0	17.6066994666	0	0
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)	73.5942633511	9.6316675871	0	0
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	15.6496325170	0	0	0
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|unclassified	47.0931780269	9.6316675871	0	0
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis	91.9234607559	54.8096798090	0	36.4320895640
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	2.2457963726
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	17.9216603179	0	0	14.8711247941
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|unclassified	32.5988290200	23.3037629052	0	0
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	0	14.4175811528	0	0
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|unclassified	0	12.0395489822	0	0
+PWY0-42: 2-methylcitrate cycle I	19.7367701804	14.5520440184	0	0
+PWY0-42: 2-methylcitrate cycle I|unclassified	12.4085213892	14.4169802806	0	0
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	45.2606584606	8.2891778498	0	0
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|unclassified	10.9118084438	0	0	0
+PWY0-862: (5Z)-dodecenoate biosynthesis I	489.6395137558	100.4410686941	11.8432867337	69.0595397991
+PWY0-862: (5Z)-dodecenoate biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	0	0	0	13.2243038553
+PWY0-862: (5Z)-dodecenoate biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	27.2807838385	0	0	27.9320916015
+PWY0-862: (5Z)-dodecenoate biosynthesis I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	27.3497516568	0	0	0
+PWY0-862: (5Z)-dodecenoate biosynthesis I|unclassified	422.2135182181	99.1380126278	11.8432867337	25.4024555276
+PWY1ZNC-1: assimilatory sulfate reduction IV	51.4899601614	57.0870337406	0	0
+PWY1ZNC-1: assimilatory sulfate reduction IV|g__Pseudovibrio.s__Pseudovibrio_denitrificans	14.6999454730	0	0	0
+PWY1ZNC-1: assimilatory sulfate reduction IV|unclassified	27.2785369155	48.9694616203	0	0
+PWY3O-4107: NAD salvage pathway V (PNC V cycle)	36.0734849957	0	0	0
+PWY3O-4107: NAD salvage pathway V (PNC V cycle)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	5.9746862746	0	0	0
+PWY3O-4107: NAD salvage pathway V (PNC V cycle)|unclassified	15.6886785614	0	0	0
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)	14.6514171747	13.6738400232	0	0
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)	14.6514171747	13.6738400232	0	0
+PWY66-367: ketogenesis	47.4673604227	0	0	0
+PWY66-367: ketogenesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	7.2864105231	0	0	0
+PWY66-367: ketogenesis|unclassified	9.8208054680	0	0	0
+PWY66-389: phytol degradation	96.2229511337	18.6561235266	0	0
+PWY66-389: phytol degradation|unclassified	88.6281519665	18.6561235266	0	0
+PWY66-391: fatty acid &beta;-oxidation VI (mammalian peroxisome)	51.4610084965	17.1489250531	0	0
+PWY66-391: fatty acid &beta;-oxidation VI (mammalian peroxisome)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	13.2974075403	0	0	0
+PWY66-391: fatty acid &beta;-oxidation VI (mammalian peroxisome)|unclassified	0	16.5820381209	0	0
+PWY66-398: TCA cycle III (animals)	60.0443069226	46.5790285651	0	0
+PWY66-398: TCA cycle III (animals)|unclassified	58.9820667157	46.4099146598	0	0
+PWY66-399: gluconeogenesis III	91.7128451310	0	0	0
+PWY66-399: gluconeogenesis III|unclassified	61.9341200240	0	0	0
+PWY66-409: superpathway of purine nucleotide salvage	64.4814213889	66.7222754951	0	0
+PWY66-409: superpathway of purine nucleotide salvage|unclassified	33.7534309189	49.6859462582	0	0
+PWY66-429: fatty acid biosynthesis initiation (mitochondria)	129.2152834416	36.5047842161	0	45.2897903569
+PWY66-429: fatty acid biosynthesis initiation (mitochondria)|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.9619039998	0	0	3.0148820446
+PWY66-429: fatty acid biosynthesis initiation (mitochondria)|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	11.7323837829	0	0	10.1865458205
+PWY66-429: fatty acid biosynthesis initiation (mitochondria)|g__Pseudovibrio.s__Pseudovibrio_denitrificans	20.1964933890	0	0	0
+PWY66-429: fatty acid biosynthesis initiation (mitochondria)|unclassified	71.2363507856	25.3163634374	0	10.7196463823
+PYRIDNUCSAL-PWY: NAD salvage pathway I (PNC VI cycle)	27.9459196278	0	0	0
+PYRIDNUCSAL-PWY: NAD salvage pathway I (PNC VI cycle)|unclassified	15.7969666281	0	0	0
+PYRIDNUCSYN-PWY: NAD de novo biosynthesis I (from aspartate)	46.7974682801	0	0	0
+PYRIDNUCSYN-PWY: NAD de novo biosynthesis I (from aspartate)|unclassified	27.4295090877	0	0	0
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I	55.4345480625	9.2721924716	0	0
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|unclassified	35.1406115002	5.4427006447	0	0
+REDCITCYC: TCA cycle VI (Helicobacter)	40.7662755529	10.6376338602	0	0
+REDCITCYC: TCA cycle VI (Helicobacter)|unclassified	15.2509502877	10.6343714217	0	0
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)	29.1510118756	69.5016344257	0	0
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|unclassified	0	62.5599788416	0	0
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II	39.1564700158	99.6225636172	0	0
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.3394806840	0	0	0
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II|unclassified	19.3378619820	99.6225636172	0	0
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I	103.1891568093	62.5481871796	0	38.8399936768
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.2886110057	0	0	2.0159463813
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	15.0245225116	0	0	19.8398986772
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	8.0045882380	0	0	0
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|unclassified	61.7098522205	40.9033841019	0	0
+SO4ASSIM-PWY: assimilatory sulfate reduction I	51.4899601614	57.0870337406	0	0
+SO4ASSIM-PWY: assimilatory sulfate reduction I|g__Alteromonas.s__Alteromonas_macleodii	5.3019032468	0	0	0
+SO4ASSIM-PWY: assimilatory sulfate reduction I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	11.4123993136	0	0	0
+SO4ASSIM-PWY: assimilatory sulfate reduction I|unclassified	27.2785369155	48.9694616203	0	0
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis	37.2440324515	0	0	0
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis|unclassified	16.3421012106	0	0	0
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA	107.4100237234	26.9697920888	0	0
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA|unclassified	72.3552016864	26.7345969134	0	0
+TCA: TCA cycle I (prokaryotic)	99.8921840897	26.4912646368	0	0
+TCA: TCA cycle I (prokaryotic)|unclassified	65.1436462040	26.4364767704	0	0
+THISYN-PWY: superpathway of thiamine diphosphate biosynthesis I	40.9567795451	5.5163064922	0	0
+THISYNARA-PWY: superpathway of thiamine diphosphate biosynthesis III (eukaryotes)	17.7336933032	0	0	0
+THRESYN-PWY: superpathway of L-threonine biosynthesis	75.7812729258	28.9365509011	0	32.1453161614
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.7195301050	0	0	8.4507020287
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	14.0339673071	0	0	16.7348816092
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	10.2354135023	0	0	0
+THRESYN-PWY: superpathway of L-threonine biosynthesis|unclassified	36.4651930589	9.9161645121	0	0
+TRNA-CHARGING-PWY: tRNA charging	113.5834396220	70.3678068516	0	25.8196786459
+TRNA-CHARGING-PWY: tRNA charging|unclassified	75.7519061590	65.2708684893	0	0
+TRPSYN-PWY: L-tryptophan biosynthesis	74.7917924630	21.9404775208	0	29.1306941981
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	2.7292113788	0	0	8.7196523990
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	15.5545813806	0	0	9.5498023497
+TRPSYN-PWY: L-tryptophan biosynthesis|unclassified	17.5532295565	0	0	0
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I	50.7812382060	12.2836187066	0	21.5439507522
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	3.8973800322	0	0	3.2234713578
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	10.2031835195	0	0	13.6342701233
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Pseudovibrio.s__Pseudovibrio_denitrificans	12.3542326476	0	0	0
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|unclassified	4.2865073658	0	0	0
+URSIN-PWY: ureide biosynthesis	16.9698786547	0	0	0
+URSIN-PWY: ureide biosynthesis|unclassified	13.6540292956	0	0	0
+VALSYN-PWY: L-valine biosynthesis	937.8740565785	223.3686514470	7.7246480432	83.1549821293
+VALSYN-PWY: L-valine biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_elkanii	9.0254800587	0	0	9.0208597474
+VALSYN-PWY: L-valine biosynthesis|g__Bradyrhizobium.s__Bradyrhizobium_sp_MOS004	18.7195753752	0	0	18.9101403428
+VALSYN-PWY: L-valine biosynthesis|g__Erythrobacter.s__Erythrobacter_flavus	0	1.3948642770	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Erythrobacter.s__Erythrobacter_sp_SAORIC_644	0	1.8528842937	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Pseudovibrio.s__Pseudovibrio_denitrificans	19.4431653979	0	0	0
+VALSYN-PWY: L-valine biosynthesis|unclassified	883.5826402265	209.7865134792	7.7246480432	45.8910920649

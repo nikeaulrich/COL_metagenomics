@@ -1,0 +1,155 @@
+Removing conda
+Loading conda
+74580728 reads; of these:
+  74580728 (100.00%) were paired; of these:
+    22062848 (29.58%) aligned concordantly 0 times
+    23765507 (31.87%) aligned concordantly exactly 1 time
+    28752373 (38.55%) aligned concordantly >1 times
+    ----
+    22062848 pairs aligned concordantly 0 times; of these:
+      147854 (0.67%) aligned discordantly 1 time
+    ----
+    21914994 pairs aligned 0 times concordantly or discordantly; of these:
+      43829988 mates make up the pairs; of these:
+        40780280 (93.04%) aligned 0 times
+        1275927 (2.91%) aligned exactly 1 time
+        1773781 (4.05%) aligned >1 times
+72.66% overall alignment rate
+[bam_sort_core] merging from 1 files and 2 in-memory blocks...
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 38304708 reads
+host removal completed successfully for sample: 032024_COL_SAN_T5_128_MCAV_S1
+71669320 reads; of these:
+  71669320 (100.00%) were paired; of these:
+    14065456 (19.63%) aligned concordantly 0 times
+    26974134 (37.64%) aligned concordantly exactly 1 time
+    30629730 (42.74%) aligned concordantly >1 times
+    ----
+    14065456 pairs aligned concordantly 0 times; of these:
+      165987 (1.18%) aligned discordantly 1 time
+    ----
+    13899469 pairs aligned 0 times concordantly or discordantly; of these:
+      27798938 mates make up the pairs; of these:
+        24105766 (86.71%) aligned 0 times
+        1554304 (5.59%) aligned exactly 1 time
+        2138868 (7.69%) aligned >1 times
+83.18% overall alignment rate
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 21132688 reads
+host removal completed successfully for sample: 032024_COL_SAN_T5_129_MCAV_S2
+88571891 reads; of these:
+  88571891 (100.00%) were paired; of these:
+    24223459 (27.35%) aligned concordantly 0 times
+    27785170 (31.37%) aligned concordantly exactly 1 time
+    36563262 (41.28%) aligned concordantly >1 times
+    ----
+    24223459 pairs aligned concordantly 0 times; of these:
+      203434 (0.84%) aligned discordantly 1 time
+    ----
+    24020025 pairs aligned 0 times concordantly or discordantly; of these:
+      48040050 mates make up the pairs; of these:
+        44775602 (93.20%) aligned 0 times
+        1349100 (2.81%) aligned exactly 1 time
+        1915348 (3.99%) aligned >1 times
+74.72% overall alignment rate
+[bam_sort_core] merging from 1 files and 2 in-memory blocks...
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 42175964 reads
+host removal completed successfully for sample: 032024_COL_SAN_T5_130_MCAV_S37
+55073871 reads; of these:
+  55073871 (100.00%) were paired; of these:
+    12749963 (23.15%) aligned concordantly 0 times
+    20532680 (37.28%) aligned concordantly exactly 1 time
+    21791228 (39.57%) aligned concordantly >1 times
+    ----
+    12749963 pairs aligned concordantly 0 times; of these:
+      149041 (1.17%) aligned discordantly 1 time
+    ----
+    12600922 pairs aligned 0 times concordantly or discordantly; of these:
+      25201844 mates make up the pairs; of these:
+        22025843 (87.40%) aligned 0 times
+        1338668 (5.31%) aligned exactly 1 time
+        1837333 (7.29%) aligned >1 times
+80.00% overall alignment rate
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 19536758 reads
+host removal completed successfully for sample: 032024_COL_SAN_T5_131_MCAV_S3
+87613847 reads; of these:
+  87613847 (100.00%) were paired; of these:
+    16170694 (18.46%) aligned concordantly 0 times
+    35098054 (40.06%) aligned concordantly exactly 1 time
+    36345099 (41.48%) aligned concordantly >1 times
+    ----
+    16170694 pairs aligned concordantly 0 times; of these:
+      229274 (1.42%) aligned discordantly 1 time
+    ----
+    15941420 pairs aligned 0 times concordantly or discordantly; of these:
+      31882840 mates make up the pairs; of these:
+        27724104 (86.96%) aligned 0 times
+        1773371 (5.56%) aligned exactly 1 time
+        2385365 (7.48%) aligned >1 times
+84.18% overall alignment rate
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 24444026 reads
+host removal completed successfully for sample: 032024_COL_SAN_T5_132_MCAV_S4
+67910632 reads; of these:
+  67910632 (100.00%) were paired; of these:
+    19601470 (28.86%) aligned concordantly 0 times
+    23021045 (33.90%) aligned concordantly exactly 1 time
+    25288117 (37.24%) aligned concordantly >1 times
+    ----
+    19601470 pairs aligned concordantly 0 times; of these:
+      163065 (0.83%) aligned discordantly 1 time
+    ----
+    19438405 pairs aligned 0 times concordantly or discordantly; of these:
+      38876810 mates make up the pairs; of these:
+        35642367 (91.68%) aligned 0 times
+        1391283 (3.58%) aligned exactly 1 time
+        1843160 (4.74%) aligned >1 times
+73.76% overall alignment rate
+[bam_sort_core] merging from 1 files and 2 in-memory blocks...
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 33082080 reads
+host removal completed successfully for sample: 032024_COL_SAN_T5_133_MCAV_S5
+77496936 reads; of these:
+  77496936 (100.00%) were paired; of these:
+    16230074 (20.94%) aligned concordantly 0 times
+    30087952 (38.82%) aligned concordantly exactly 1 time
+    31178910 (40.23%) aligned concordantly >1 times
+    ----
+    16230074 pairs aligned concordantly 0 times; of these:
+      195294 (1.20%) aligned discordantly 1 time
+    ----
+    16034780 pairs aligned 0 times concordantly or discordantly; of these:
+      32069560 mates make up the pairs; of these:
+        28040924 (87.44%) aligned 0 times
+        1732287 (5.40%) aligned exactly 1 time
+        2296349 (7.16%) aligned >1 times
+81.91% overall alignment rate
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 24808596 reads
+host removal completed successfully for sample: 032024_COL_SAN_T5_134_MCAV_S6
+76937821 reads; of these:
+  76937821 (100.00%) were paired; of these:
+    14693279 (19.10%) aligned concordantly 0 times
+    29500742 (38.34%) aligned concordantly exactly 1 time
+    32743800 (42.56%) aligned concordantly >1 times
+    ----
+    14693279 pairs aligned concordantly 0 times; of these:
+      173471 (1.18%) aligned discordantly 1 time
+    ----
+    14519808 pairs aligned 0 times concordantly or discordantly; of these:
+      29039616 mates make up the pairs; of these:
+        25357563 (87.32%) aligned 0 times
+        1591785 (5.48%) aligned exactly 1 time
+        2090268 (7.20%) aligned >1 times
+83.52% overall alignment rate
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 22371080 reads
+host removal completed successfully for sample: 032024_COL_SAN_T5_136_MCAV_S7
+Host removal: All samples processed successfully.

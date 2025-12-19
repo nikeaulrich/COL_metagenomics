@@ -1,0 +1,122 @@
+Removing conda
+Loading conda
+java -ea -Xmx154418m -cp /home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/bbmap-39.01-1/current/ jgi.SplitPairsAndSingles rp in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_146_DLAB_S12_host_removed_R1.tagged_filter.fastq.gz in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_146_DLAB_S12_host_removed_R2.tagged_filter.fastq.gz out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_146_DLAB_S12_host_removed_R1.tagged_filter_ready.fastq.gz out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_146_DLAB_S12_host_removed_R2.tagged_filter_ready.fastq.gz outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_146_DLAB_S12singletons.fq repair
+Executing jgi.SplitPairsAndSingles [rp, in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_146_DLAB_S12_host_removed_R1.tagged_filter.fastq.gz, in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_146_DLAB_S12_host_removed_R2.tagged_filter.fastq.gz, out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_146_DLAB_S12_host_removed_R1.tagged_filter_ready.fastq.gz, out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_146_DLAB_S12_host_removed_R2.tagged_filter_ready.fastq.gz, outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_146_DLAB_S12singletons.fq, repair]
+
+Set INTERLEAVED to false
+Started output stream.
+
+Input:                  	33305546 reads 		4773194578 bases.
+Result:                 	33305546 reads (100.00%) 	4773194578 bases (100.00%)
+Pairs:                  	32521456 reads (97.65%) 	4660217263 bases (97.63%)
+Singletons:             	784090 reads (2.35%) 	112977315 bases (2.37%)
+
+Time:                         	33.928 seconds.
+Reads Processed:      33305k 	981.65k reads/sec
+Bases Processed:       4773m 	140.69m bases/sec
+repair completed successfully for sample: 032024_COL_SAN_T5_146_DLAB_S12
+java -ea -Xmx154418m -cp /home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/bbmap-39.01-1/current/ jgi.SplitPairsAndSingles rp in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_148_DLAB_S13_host_removed_R1.tagged_filter.fastq.gz in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_148_DLAB_S13_host_removed_R2.tagged_filter.fastq.gz out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_148_DLAB_S13_host_removed_R1.tagged_filter_ready.fastq.gz out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_148_DLAB_S13_host_removed_R2.tagged_filter_ready.fastq.gz outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_148_DLAB_S13singletons.fq repair
+Executing jgi.SplitPairsAndSingles [rp, in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_148_DLAB_S13_host_removed_R1.tagged_filter.fastq.gz, in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_148_DLAB_S13_host_removed_R2.tagged_filter.fastq.gz, out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_148_DLAB_S13_host_removed_R1.tagged_filter_ready.fastq.gz, out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_148_DLAB_S13_host_removed_R2.tagged_filter_ready.fastq.gz, outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_148_DLAB_S13singletons.fq, repair]
+
+Set INTERLEAVED to false
+Started output stream.
+
+Input:                  	35732687 reads 		5170176253 bases.
+Result:                 	35732687 reads (100.00%) 	5170176253 bases (100.00%)
+Pairs:                  	35160904 reads (98.40%) 	5087648164 bases (98.40%)
+Singletons:             	571783 reads (1.60%) 	82528089 bases (1.60%)
+
+Time:                         	35.918 seconds.
+Reads Processed:      35732k 	994.83k reads/sec
+Bases Processed:       5170m 	143.94m bases/sec
+repair completed successfully for sample: 032024_COL_SAN_T5_148_DLAB_S13
+java -ea -Xmx154418m -cp /home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/bbmap-39.01-1/current/ jgi.SplitPairsAndSingles rp in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_149_DLAB_S14_host_removed_R1.tagged_filter.fastq.gz in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_149_DLAB_S14_host_removed_R2.tagged_filter.fastq.gz out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_149_DLAB_S14_host_removed_R1.tagged_filter_ready.fastq.gz out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_149_DLAB_S14_host_removed_R2.tagged_filter_ready.fastq.gz outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_149_DLAB_S14singletons.fq repair
+Executing jgi.SplitPairsAndSingles [rp, in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_149_DLAB_S14_host_removed_R1.tagged_filter.fastq.gz, in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_149_DLAB_S14_host_removed_R2.tagged_filter.fastq.gz, out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_149_DLAB_S14_host_removed_R1.tagged_filter_ready.fastq.gz, out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_149_DLAB_S14_host_removed_R2.tagged_filter_ready.fastq.gz, outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_149_DLAB_S14singletons.fq, repair]
+
+Set INTERLEAVED to false
+Started output stream.
+
+Input:                  	36489189 reads 		5282452580 bases.
+Result:                 	36489189 reads (100.00%) 	5282452580 bases (100.00%)
+Pairs:                  	35359290 reads (96.90%) 	5117828216 bases (96.88%)
+Singletons:             	1129899 reads (3.10%) 	164624364 bases (3.12%)
+
+Time:                         	30.842 seconds.
+Reads Processed:      36489k 	1183.12k reads/sec
+Bases Processed:       5282m 	171.28m bases/sec
+repair completed successfully for sample: 032024_COL_SAN_T5_149_DLAB_S14
+java -ea -Xmx154418m -cp /home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/bbmap-39.01-1/current/ jgi.SplitPairsAndSingles rp in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_158_DLAB_S15_host_removed_R1.tagged_filter.fastq.gz in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_158_DLAB_S15_host_removed_R2.tagged_filter.fastq.gz out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_158_DLAB_S15_host_removed_R1.tagged_filter_ready.fastq.gz out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_158_DLAB_S15_host_removed_R2.tagged_filter_ready.fastq.gz outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_158_DLAB_S15singletons.fq repair
+Executing jgi.SplitPairsAndSingles [rp, in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_158_DLAB_S15_host_removed_R1.tagged_filter.fastq.gz, in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_158_DLAB_S15_host_removed_R2.tagged_filter.fastq.gz, out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_158_DLAB_S15_host_removed_R1.tagged_filter_ready.fastq.gz, out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_158_DLAB_S15_host_removed_R2.tagged_filter_ready.fastq.gz, outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_158_DLAB_S15singletons.fq, repair]
+
+Set INTERLEAVED to false
+Started output stream.
+
+Input:                  	35115415 reads 		5132891959 bases.
+Result:                 	35115415 reads (100.00%) 	5132891959 bases (100.00%)
+Pairs:                  	34534474 reads (98.35%) 	5047703383 bases (98.34%)
+Singletons:             	580941 reads (1.65%) 	85188576 bases (1.66%)
+
+Time:                         	29.273 seconds.
+Reads Processed:      35115k 	1199.58k reads/sec
+Bases Processed:       5132m 	175.34m bases/sec
+repair completed successfully for sample: 032024_COL_SAN_T5_158_DLAB_S15
+java -ea -Xmx154418m -cp /home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/bbmap-39.01-1/current/ jgi.SplitPairsAndSingles rp in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_159_DLAB_S16_host_removed_R1.tagged_filter.fastq.gz in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_159_DLAB_S16_host_removed_R2.tagged_filter.fastq.gz out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_159_DLAB_S16_host_removed_R1.tagged_filter_ready.fastq.gz out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_159_DLAB_S16_host_removed_R2.tagged_filter_ready.fastq.gz outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_159_DLAB_S16singletons.fq repair
+Executing jgi.SplitPairsAndSingles [rp, in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_159_DLAB_S16_host_removed_R1.tagged_filter.fastq.gz, in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_159_DLAB_S16_host_removed_R2.tagged_filter.fastq.gz, out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_159_DLAB_S16_host_removed_R1.tagged_filter_ready.fastq.gz, out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_159_DLAB_S16_host_removed_R2.tagged_filter_ready.fastq.gz, outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_159_DLAB_S16singletons.fq, repair]
+
+Set INTERLEAVED to false
+Started output stream.
+
+Input:                  	39822875 reads 		5800228985 bases.
+Result:                 	39822875 reads (100.00%) 	5800228985 bases (100.00%)
+Pairs:                  	38711662 reads (97.21%) 	5637359415 bases (97.19%)
+Singletons:             	1111213 reads (2.79%) 	162869570 bases (2.81%)
+
+Time:                         	33.450 seconds.
+Reads Processed:      39822k 	1190.52k reads/sec
+Bases Processed:       5800m 	173.40m bases/sec
+repair completed successfully for sample: 032024_COL_SAN_T5_159_DLAB_S16
+java -ea -Xmx154418m -cp /home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/bbmap-39.01-1/current/ jgi.SplitPairsAndSingles rp in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_143_DLAB_S40_host_removed_R1.tagged_filter.fastq.gz in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_143_DLAB_S40_host_removed_R2.tagged_filter.fastq.gz out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_143_DLAB_S40_host_removed_R1.tagged_filter_ready.fastq.gz out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_143_DLAB_S40_host_removed_R2.tagged_filter_ready.fastq.gz outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_143_DLAB_S40singletons.fq repair
+Executing jgi.SplitPairsAndSingles [rp, in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_143_DLAB_S40_host_removed_R1.tagged_filter.fastq.gz, in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_143_DLAB_S40_host_removed_R2.tagged_filter.fastq.gz, out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_143_DLAB_S40_host_removed_R1.tagged_filter_ready.fastq.gz, out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_143_DLAB_S40_host_removed_R2.tagged_filter_ready.fastq.gz, outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_143_DLAB_S40singletons.fq, repair]
+
+Set INTERLEAVED to false
+Started output stream.
+
+Input:                  	60507696 reads 		8694993770 bases.
+Result:                 	60507696 reads (100.00%) 	8694993770 bases (100.00%)
+Pairs:                  	60101370 reads (99.33%) 	8636466546 bases (99.33%)
+Singletons:             	406326 reads (0.67%) 	58527224 bases (0.67%)
+
+Time:                         	47.710 seconds.
+Reads Processed:      60507k 	1268.23k reads/sec
+Bases Processed:       8694m 	182.25m bases/sec
+repair completed successfully for sample: 032024_COL_SAN_T5_143_DLAB_S40
+java -ea -Xmx154418m -cp /home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/bbmap-39.01-1/current/ jgi.SplitPairsAndSingles rp in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_160_DLAB_S41_host_removed_R1.tagged_filter.fastq.gz in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_160_DLAB_S41_host_removed_R2.tagged_filter.fastq.gz out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_160_DLAB_S41_host_removed_R1.tagged_filter_ready.fastq.gz out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_160_DLAB_S41_host_removed_R2.tagged_filter_ready.fastq.gz outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_160_DLAB_S41singletons.fq repair
+Executing jgi.SplitPairsAndSingles [rp, in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_160_DLAB_S41_host_removed_R1.tagged_filter.fastq.gz, in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_160_DLAB_S41_host_removed_R2.tagged_filter.fastq.gz, out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_160_DLAB_S41_host_removed_R1.tagged_filter_ready.fastq.gz, out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_160_DLAB_S41_host_removed_R2.tagged_filter_ready.fastq.gz, outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_160_DLAB_S41singletons.fq, repair]
+
+Set INTERLEAVED to false
+Started output stream.
+
+Input:                  	64607210 reads 		8788136466 bases.
+Result:                 	64607210 reads (100.00%) 	8788136466 bases (100.00%)
+Pairs:                  	63387872 reads (98.11%) 	8617904611 bases (98.06%)
+Singletons:             	1219338 reads (1.89%) 	170231855 bases (1.94%)
+
+Time:                         	53.412 seconds.
+Reads Processed:      64607k 	1209.59k reads/sec
+Bases Processed:       8788m 	164.53m bases/sec
+repair completed successfully for sample: 032024_COL_SAN_T5_160_DLAB_S41
+java -ea -Xmx154418m -cp /home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/bbmap-39.01-1/current/ jgi.SplitPairsAndSingles rp in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_161_DLAB_S42_host_removed_R1.tagged_filter.fastq.gz in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_161_DLAB_S42_host_removed_R2.tagged_filter.fastq.gz out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_161_DLAB_S42_host_removed_R1.tagged_filter_ready.fastq.gz out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_161_DLAB_S42_host_removed_R2.tagged_filter_ready.fastq.gz outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_161_DLAB_S42singletons.fq repair
+Executing jgi.SplitPairsAndSingles [rp, in1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_161_DLAB_S42_host_removed_R1.tagged_filter.fastq.gz, in2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/final_reads_filtered/032024_COL_SAN_T5_161_DLAB_S42_host_removed_R2.tagged_filter.fastq.gz, out1=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_161_DLAB_S42_host_removed_R1.tagged_filter_ready.fastq.gz, out2=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_161_DLAB_S42_host_removed_R2.tagged_filter_ready.fastq.gz, outs=/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/repaired/032024_COL_SAN_T5_161_DLAB_S42singletons.fq, repair]
+
+Set INTERLEAVED to false
+Started output stream.
+
+Input:                  	71777356 reads 		10362706390 bases.
+Result:                 	71777356 reads (100.00%) 	10362706390 bases (100.00%)
+Pairs:                  	71072870 reads (99.02%) 	10260774526 bases (99.02%)
+Singletons:             	704486 reads (0.98%) 	101931864 bases (0.98%)
+
+Time:                         	55.514 seconds.
+Reads Processed:      71777k 	1292.97k reads/sec
+Bases Processed:      10362m 	186.67m bases/sec
+repair completed successfully for sample: 032024_COL_SAN_T5_161_DLAB_S42

@@ -1,0 +1,8 @@
+bin	bin_set	unique_SCGs	redundant_SCGs	SCG_set	size	contigs	N50	bin_score	SCG_completeness	SCG_redundancy
+metabat2.1	metabat2	49	0	bacteria	1960072	82	48771	0.96078431372549	96	0
+concoct.29	concoct	49	0	bacteria	1995690	188	30140	0.96078431372549	96	0
+concoct.158	concoct	47	0	bacteria	1306834	327	6804	0.92156862745098	92	0
+concoct.97	concoct	44	0	bacteria	2201527	362	7950	0.862745098039216	86	0
+metabat2.8	metabat2	42	1	bacteria	1146282	406	2955	0.799439775910364	82	2
+concoct.66	concoct	41	1	bacteria	2314192	971	2739	0.77948350071736	80	2
+concoct.78	concoct	37	1	bacteria	287357	20	191747	0.699470058293588	73	2

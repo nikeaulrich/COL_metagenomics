@@ -1,0 +1,396 @@
+Loading conda
+/home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/quast-5.2.0/metaquast.py /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/megahit_assembly/dlab.contigs.fa -t 12 -o /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output
+
+Version: 5.2.0
+
+System information:
+  OS: Linux-6.8.0-48-generic-x86_64-with-debian-trixie-sid (linux_64)
+  Python version: 2.7.15
+  CPUs number: 64
+
+Started: 2024-12-17 16:59:00
+
+Logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/megahit_assembly/dlab.contigs.fa ==> dlab.contigs
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2024-12-17 16:59:55
+Running BlastN..
+  processing dlab.contigs
+  BLAST results for dlab.contigs are saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/blast.res_dlab-contigs...
+
+
+2024-12-17 17:01:29
+Trying to download found references from NCBI. Totally 26 organisms to try.
+  unidentified_marine_bacterioplankton                     | not found in the NCBI database
+  unidentified_marine_bacterioplankton was not found in NCBI database, trying to download the next best match
+  Alteromonas_mediterranea_DE                              | successfully downloaded (total 1, 25 more to go)
+  marine_metagenome                                        | successfully downloaded (total 2, 24 more to go)
+  endosymbiont_of_Acanthamoeba_sp._(Hungarian_isolate)     | not found in the NCBI database
+  endosymbiont_of_Acanthamoeba_sp._(Hungarian_isolate) was not found in NCBI database, trying to download the next best match
+  Candidatus_Amoebophilus_asiaticus_5a2                    | successfully downloaded (total 3, 23 more to go)
+  bacterium_RFB_D08                                        | not found in the NCBI database
+  bacterium_RFB_D08 was not found in NCBI database, trying to download the next best match
+bioreactor metagenome has too fragmented reference genome! It will not be downloaded.
+  bioreactor_metagenome                                    | not found in the NCBI database
+  bioreactor_metagenome was not found in NCBI database, trying to download the next best match
+  Candidatus_Gracilibacteria_bacterium_HOT-871             | successfully downloaded (total 4, 22 more to go)
+Tolypocladium ophioglossoides has too fragmented reference genome! It will not be downloaded.
+  Tolypocladium_ophioglossoides                            | not found in the NCBI database
+  Tolypocladium_ophioglossoides was not found in NCBI database, trying to download the next best match
+  Tolypocladium_japonicum                                  | not found in the NCBI database
+  Tolypocladium_japonicum was not found in NCBI database, trying to download the next best match
+  Tolypocladium_inegoense                                  | not found in the NCBI database
+  Tolypocladium_inegoense was not found in NCBI database, trying to download the next best match
+  Fusarium_circinatum                                      | successfully downloaded (total 5, 21 more to go)
+  Synechocystis_sp._SAG_37.92                              | not found in the NCBI database
+  Synechocystis_sp._SAG_37.92 was not found in NCBI database, trying to download the next best match
+  Cyanobacterium_aponinum_PCC_10605                        | successfully downloaded (total 6, 20 more to go)
+  Streptococcus_agalactiae_SS1219                          | successfully downloaded (total 7, 19 more to go)
+  Spirochaeta_halophila                                    | not found in the NCBI database
+  Spirochaeta_halophila was not found in NCBI database, trying to download the next best match
+  proteobacterium_Dex80-27                                 | not found in the NCBI database
+  proteobacterium_Dex80-27 was not found in NCBI database, trying to download the next best match
+  Streptomyces_sp._pp2                                     | not found in the NCBI database
+  Streptomyces_sp._pp2 was not found in NCBI database, trying to download the next best match
+  Tsukamurella_pseudospumae                                | successfully downloaded (total 8, 18 more to go)
+  Sinorhizobium_sp._T25                                    | not found in the NCBI database
+  Sinorhizobium_sp._T25 was not found in NCBI database, trying to download the next best match
+  Aquamicrobium_sp                                         | successfully downloaded (total 9, 17 more to go)
+  Serratia_marcescens                                      | successfully downloaded (total 10, 16 more to go)
+  Rubritalea_spongiae                                      | successfully downloaded (total 11, 15 more to go)
+  Merismopedia_sp._CZS_2_3                                 | not found in the NCBI database
+  Luminiphilus_syltensis_NOR5-1B                           | successfully downloaded (total 12, 13 more to go)
+  Leptospira_noguchii_serovar_Panama_str._CZ214            | successfully downloaded (total 13, 12 more to go)
+  Leptolyngbya_sp._N62DM                                   | not found in the NCBI database
+  Leptolyngbya_sp._N62DM was not found in NCBI database, trying to download the next best match
+  Calothrix_sp._XP9A                                       | not found in the NCBI database
+  Calothrix_sp._XP9A was not found in NCBI database, trying to download the next best match
+  Rivularia_atra_BIR_MGR1                                  | not found in the NCBI database
+  Rivularia_atra_BIR_MGR1 was not found in NCBI database, trying to download the next best match
+  Calothrix_sp._CCAP_1410                                  | not found in the NCBI database
+  Klebsiella_pneumoniae                                    | successfully downloaded (total 14, 10 more to go)
+  Grateloupia_filicina                                     | not found in the NCBI database
+  Grateloupia_filicina was not found in NCBI database, trying to download the next best match
+  Moorea_producens_JHB                                     | not found in the NCBI database
+  Gammaproteobacteria_bacterium_RIFCSPLOWO2_01_FULL_47_190 | successfully downloaded (total 15, 8 more to go)
+  Cyanothece_sp._WH_8904                                   | not found in the NCBI database
+  Cyanothece_sp._WH_8904 was not found in NCBI database, trying to download the next best match
+  Geitlerinema_sp._PCC_7407                                | successfully downloaded (total 16, 7 more to go)
+  Cyanobacterium_sp._CLg1                                  | not found in the NCBI database
+  Cyanobacterium_sp._CLg1 was not found in NCBI database, trying to download the next best match
+  cyanobiont_of_Cymbastela_stipitata                       | not found in the NCBI database
+  cyanobiont_of_Cymbastela_stipitata was not found in NCBI database, trying to download the next best match
+  Geminobacterium_atlanticum_LEGE_07459                    | not found in the NCBI database
+  Chlorogloea_microcystoides_SAG_10.99                     | not found in the NCBI database
+  Chlorogloea_microcystoides_SAG_10.99 was not found in NCBI database, trying to download the next best match
+  Oscillatoria_acuminata_PCC_6304                          | successfully downloaded (total 17, 5 more to go)
+Candidatus Amoebophilus sp. 36-38 has too fragmented reference genome! It will not be downloaded.
+  Candidatus_Amoebophilus_sp._36-38                        | not found in the NCBI database
+  Candidatus_Amoebophilus_sp._36-38 was not found in NCBI database, trying to download the next best match
+  microbial_mat_metagenome                                 | successfully downloaded (total 18, 4 more to go)
+Failed downloading Aridibacter famidurans!
+  Aridibacter_famidurans                                   | not found in the NCBI database
+  Aridibacter_famidurans was not found in NCBI database, trying to download the next best match
+  Stenotrophobacter_namibiensis                            | not found in the NCBI database
+  Stenotrophobacter_namibiensis was not found in NCBI database, trying to download the next best match
+  Aridibacter_kavangonensis                                | not found in the NCBI database
+  Alteromonas_sp._DG1302                                   | not found in the NCBI database
+  Alteromonas_sp._DG1302 was not found in NCBI database, trying to download the next best match
+  Alteromonas_macleodii                                    | successfully downloaded (total 19, 2 more to go)
+  Ahnfeltia_plicata                                        | not found in the NCBI database
+  Ahnfeltia_plicata was not found in NCBI database, trying to download the next best match
+  Riquetophycus_sp._HSY-2014a                              | not found in the NCBI database
+  Riquetophycus_sp._HSY-2014a was not found in NCBI database, trying to download the next best match
+  Schimmelmannia_schousboei                                | not found in the NCBI database
+  Schimmelmannia_schousboei was not found in NCBI database, trying to download the next best match
+Asparagopsis taxiformis has too fragmented reference genome! It will not be downloaded.
+  Asparagopsis_taxiformis                                  | not found in the NCBI database
+Acidobacteria bacterium 28-9 has too fragmented reference genome! It will not be downloaded.
+  Acidobacteria_bacterium_28-9                             | not found in the NCBI database
+  Acidobacteria_bacterium_28-9 was not found in NCBI database, trying to download the next best match
+Acidobacteria bacterium JGI 0001001-H03 has too fragmented reference genome! It will not be downloaded.
+  Acidobacteria_bacterium_JGI_0001001-H03                  | not found in the NCBI database
+  Acidobacteria_bacterium_JGI_0001001-H03 was not found in NCBI database, trying to download the next best match
+  Acidobacteria_bacterium_Ga0074141                        | successfully downloaded (total 20, 0 more to go)
+
+Downloaded reference(s):
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Acidobacteria_bacterium_Ga0074141.fasta ==> Acidobacteria_bacterium_Ga0074141
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Alteromonas_macleodii.fasta ==> Alteromonas_macleodii
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Alteromonas_mediterranea_DE.fasta ==> Alteromonas_mediterranea_DE
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Aquamicrobium_sp.fasta ==> Aquamicrobium_sp
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Candidatus_Amoebophilus_asiaticus_5a2.fasta ==> Candidatus_Amoebophilus_asiaticus_5a2
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Candidatus_Gracilibacteria_bacterium_HOT-871.fasta ==> Candidatus_Gracilibacteria_bacterium_HOT-871
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Cyanobacterium_aponinum_PCC_10605.fasta ==> Cyanobacterium_aponinum_PCC_10605
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Fusarium_circinatum.fasta ==> Fusarium_circinatum
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Gammaproteobacteria_bacterium_RIFCSPLOWO2_01_FULL_47_190.fasta ==> Gammaproteobacteria_bacterium_RIFCSPLOWO2_01_FULL_47_190
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Geitlerinema_sp._PCC_7407.fasta ==> Geitlerinema_sp._PCC_7407
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Klebsiella_pneumoniae.fasta ==> Klebsiella_pneumoniae
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Leptospira_noguchii_serovar_Panama_str._CZ214.fasta ==> Leptospira_noguchii_serovar_Panama_str._CZ214
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Luminiphilus_syltensis_NOR5-1B.fasta ==> Luminiphilus_syltensis_NOR5-1B
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Oscillatoria_acuminata_PCC_6304.fasta ==> Oscillatoria_acuminata_PCC_6304
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Rubritalea_spongiae.fasta ==> Rubritalea_spongiae
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Serratia_marcescens.fasta ==> Serratia_marcescens
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Streptococcus_agalactiae_SS1219.fasta ==> Streptococcus_agalactiae_SS1219
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/Tsukamurella_pseudospumae.fasta ==> Tsukamurella_pseudospumae
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/marine_metagenome.fasta ==> marine_metagenome
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_downloaded_references/microbial_mat_metagenome.fasta ==> microbial_mat_metagenome
+  All references were combined in combined_reference.fasta
+
+Starting quast.py for the combined reference...
+/home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/quast-5.2.0/quast.pyc -t 12 --min-identity 90.0 --combined-ref --colors #E31A1C --ls solid --ambiguity-usage all /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/megahit_assembly/dlab.contigs.fa -R /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_corrected_input/combined_reference.fasta -o /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference --labels dlab.contigs
+
+Started: 2024-12-17 17:48:16
+
+Logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/quast.log
+
+CWD: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/bash_scripts
+Main parameters: 
+  MODE: meta, threads: 12, min contig length: 500, min alignment length: 65, min alignment IDY: 90.0, \
+  ambiguity: all, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Reference:
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_corrected_input/combined_reference.fasta ==> combined_reference
+
+Contigs:
+  Pre-processing...
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/megahit_assembly/dlab.contigs.fa ==> dlab.contigs
+
+2024-12-17 17:48:52
+Running Basic statistics processor...
+  Reference genome:
+    combined_reference.fasta, length = 119729868, num fragments = 405, GC % = 49.46
+WARNING:   Reference genome is fragmented. You may consider rerunning QUAST using --fragmented option. QUAST will try to detect misassemblies caused by the fragmentation and mark them fake (will be excluded from # misassemblies).
+  Contig files: 
+    dlab.contigs
+  Calculating N50 and L50...
+    dlab.contigs, N50 = 1329, L50 = 135775, auN = 2448.0, Total length = 671969987, GC % = 40.23, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/basic_stats/GC_content_plot.pdf
+  Drawing dlab.contigs GC content plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/basic_stats/dlab.contigs_GC_content_plot.pdf
+Done.
+
+2024-12-17 17:49:37
+Running Contig analyzer...
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.24). Please make sure that you use an actual version of software.
+  dlab.contigs
+  Logging to files /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/contigs_reports/contigs_report_dlab-contigs.stdout and contigs_report_dlab-contigs.stderr...
+  Aligning contigs to the reference
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.24). Please make sure that you use an actual version of software.
+  Analysis is finished.
+  Information about interspecies translocations by references for dlab-contigs is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/contigs_reports/interspecies_translocations_by_refs_dlab-contigs.info
+  Drawing Intergenomic misassemblies (found and supposed) metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/contigs_reports/intergenomic_misassemblies.pdf
+  Creating total report...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2024-12-17 17:50:12
+Running NA-NGA calculation...
+  dlab.contigs, Largest alignment = 1099, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/aligned_stats/NAx_plot.pdf
+Done.
+
+2024-12-17 17:50:23
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  dlab.contigs
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2024-12-17 17:50:56
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2024-12-17 17:51:10
+RESULTS:
+  Text versions of total report are saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/report.html
+  PDF version (tables and plots) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/report.pdf
+  Icarus (contig browser) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/combined_reference/icarus.html
+
+Excluding downloaded references with low genome fraction from further analysis..
+All downloaded references have low genome fraction. Nothing was excluded for now.
+
+Partitioning contigs into bins aligned to each reference..
+  processing dlab.contigs
+
+Run QUAST on different references in parallel..
+
+Starting quast.py for the contigs aligned to Acidobacteria_bacterium_Ga0074141... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Acidobacteria_bacterium_Ga0074141/quast.log)
+
+Starting quast.py for the contigs aligned to Alteromonas_macleodii... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Alteromonas_macleodii/quast.log)
+
+Starting quast.py for the contigs aligned to Alteromonas_mediterranea_DE... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Alteromonas_mediterranea_DE/quast.log)
+
+Starting quast.py for the contigs aligned to Aquamicrobium_sp... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Aquamicrobium_sp/quast.log)
+
+Starting quast.py for the contigs aligned to Candidatus_Amoebophilus_asiaticus_5a2... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Candidatus_Amoebophilus_asiaticus_5a2/quast.log)
+
+No contigs were aligned to the reference Candidatus_Gracilibacteria_bacterium_HOT-871, skipping..
+
+Starting quast.py for the contigs aligned to Cyanobacterium_aponinum_PCC_10605... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Cyanobacterium_aponinum_PCC_10605/quast.log)
+
+Starting quast.py for the contigs aligned to Fusarium_circinatum... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Fusarium_circinatum/quast.log)
+
+Starting quast.py for the contigs aligned to Gammaproteobacteria_bacterium_RIFCSPLOWO2_01_FULL_47_190... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Gammaproteobacteria_bacterium_RIFCSPLOWO2_01_FULL_47_190/quast.log)
+
+Starting quast.py for the contigs aligned to Geitlerinema_sp._PCC_7407... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Geitlerinema_sp._PCC_7407/quast.log)
+
+Starting quast.py for the contigs aligned to Klebsiella_pneumoniae... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Klebsiella_pneumoniae/quast.log)
+
+Starting quast.py for the contigs aligned to Leptospira_noguchii_serovar_Panama_str._CZ214... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Leptospira_noguchii_serovar_Panama_str._CZ214/quast.log)
+
+Starting quast.py for the contigs aligned to Luminiphilus_syltensis_NOR5-1B... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Luminiphilus_syltensis_NOR5-1B/quast.log)
+
+Starting quast.py for the contigs aligned to Oscillatoria_acuminata_PCC_6304... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Oscillatoria_acuminata_PCC_6304/quast.log)
+
+No contigs were aligned to the reference Rubritalea_spongiae, skipping..
+
+Starting quast.py for the contigs aligned to Serratia_marcescens... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Serratia_marcescens/quast.log)
+
+Starting quast.py for the contigs aligned to Streptococcus_agalactiae_SS1219... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/Streptococcus_agalactiae_SS1219/quast.log)
+
+No contigs were aligned to the reference Tsukamurella_pseudospumae, skipping..
+
+Starting quast.py for the contigs aligned to marine_metagenome... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/runs_per_reference/marine_metagenome/quast.log)
+
+No contigs were aligned to the reference microbial_mat_metagenome, skipping..
+
+Starting quast.py for the contigs not aligned anywhere... (logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/not_aligned/quast.log)
+/home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/quast-5.2.0/quast.pyc --min-identity 90.0 --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 -t 12 /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_corrected_input/dlab-contigs_not_aligned_anywhere.fasta -o /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/not_aligned --labels dlab.contigs
+
+Started: 2024-12-17 17:51:49
+
+Logging to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/not_aligned/quast.log
+
+CWD: /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/bash_scripts
+Main parameters: 
+  MODE: meta, threads: 12, min contig length: 500, min alignment length: 65, min alignment IDY: 90.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/quast_corrected_input/dlab-contigs_not_aligned_anywhere.fasta ==> dlab.contigs
+
+2024-12-17 17:52:11
+Running Basic statistics processor...
+  Contig files: 
+    dlab.contigs
+  Calculating N50 and L50...
+    dlab.contigs, N50 = 1328, L50 = 135837, auN = 2390.8, Total length = 671477956, GC % = 40.23, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/not_aligned/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/not_aligned/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/not_aligned/basic_stats/GC_content_plot.pdf
+  Drawing dlab.contigs GC content plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/not_aligned/basic_stats/dlab.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2024-12-17 17:52:45
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2024-12-17 17:52:56
+RESULTS:
+  Text versions of total report are saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/not_aligned/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/not_aligned/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/not_aligned/report.html
+  PDF version (tables and plots) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/not_aligned/report.pdf
+  Icarus (contig browser) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/not_aligned/icarus.html
+
+2024-12-17 17:52:56
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/num_contigs.pdf
+  Drawing Largest contig metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/Largest_contig.pdf
+  Drawing Total length metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/Total_length.pdf
+  Drawing Largest alignment metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/Largest_alignment.pdf
+  Drawing Total aligned length metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/Total_aligned_length.pdf
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/Total_length_(ge_1000_bp).pdf
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/Total_length_(ge_10000_bp).pdf
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/Total_length_(ge_50000_bp).pdf
+  Drawing # misassemblies metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/num_misassemblies.pdf
+  Drawing metaQUAST summary misassemblies plot for dlab.contigs...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/dlab-contigs_misassemblies.pdf
+  Drawing Misassembled contigs length metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/Misassembled_contigs_length.pdf
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/num_mismatches_per_100_kbp.pdf
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/num_indels_per_100_kbp.pdf
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/num_Ns_per_100_kbp.pdf
+  Drawing Genome fraction (%) metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/Genome_fraction.pdf
+  Drawing Duplication ratio metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/Duplication_ratio.pdf
+  Drawing NGA50 metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/NGA50.pdf
+  Drawing LGA50 metaQUAST summary plot...
+    saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/PDF/LGA50.pdf
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/summary/
+  Icarus (contig browser) is saved to /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/assembly/dlab/quast_output/icarus.html
+  Drawing interactive Krona plots...
+
+'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/home/nikea_ulrich_uml_edu/.conda/envs/assembly/bin/metaquast", line 427, in <module>
+    return_code = main(sys.argv[1:])
+  File "/home/nikea_ulrich_uml_edu/.conda/envs/assembly/bin/metaquast", line 417, in main
+    html_saver.create_meta_report(output_dirpath, json_texts)
+  File "/home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/quast-5.2.0/quast_libs/html_saver/html_saver.py", line 257, in create_meta_report
+    create_krona_charts(taxons_for_krona, meta_log, results_dirpath, json_texts)
+  File "/home/nikea_ulrich_uml_edu/.conda/envs/assembly/opt/quast-5.2.0/quast_libs/html_saver/html_saver.py", line 363, in create_krona_charts
+    for section in report:
+TypeError: 'NoneType' object is not iterable
+ERROR! exception caught!
+
+In case you have troubles running QUAST, you can write to quast.support@cab.spbu.ru
+or report an issue on our GitHub repository https://github.com/ablab/quast/issues
+Please provide us with quast.log file from the output directory.
