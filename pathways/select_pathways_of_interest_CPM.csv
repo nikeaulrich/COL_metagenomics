@@ -1,0 +1,18 @@
+Pathway,OFAV_032024,OFAV_012025,MCAV_032024,MCAV_012025,DLAB_032024,DLAB_012025,PSTR_032024,PSTR_012025
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I,0,0,0,0,227.304,178.0169,0,62.5737
+COA-PWY-1: superpathway of coenzyme A biosynthesis III (mammals),0,0,168.279,134.34,360.0773,718.5329,131.1519,113.89
+COA-PWY: coenzyme A biosynthesis I (prokaryotic),60.7945,30.8338,990.193,321.361,1107.8162,1880.938,310.0859,474.2181
+COBALSYN-PWY: superpathway of adenosylcobalamin salvage from cobinamide I,0,0,0,0,64.1237,223.1939,0,0
+P101-PWY: ectoine biosynthesis,0,0,0,0,0,0,0,17.4744
+PANTOSYN-PWY: superpathway of coenzyme A biosynthesis I (bacteria),0,0,236.059,226.3678,319.3186,844.287,155.4148,151.9518
+PPGPPMET-PWY: ppGpp metabolism,0,43.8574,914.371,276.166,174.759,416.563,0,35.0758
+PWY-3661: glycine betaine degradation I,0,0,0,0,0,75.7465,0,0
+PWY-5005: biotin biosynthesis II,0,0,0,0,0,92.0686,0,0
+PWY-5136: fatty acid &beta;-oxidation II (plant peroxisome),87.2158,0,1192.122,201.239,544.9202,809.855,328.7686,593.4319
+PWY-5675: nitrate reduction V (assimilatory),0,0,637.923,417.249,439.066,441.265,246.229,82.1212
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria),0,0,1098.604,329.915,223.472,1054.392,134.056,306.9674
+PWY-7118: chitin deacetylation,0,0,0,0,0,499.9501,211.397,138.2873
+"PWY0-301: L-ascorbate degradation I (bacterial, anaerobic)",0,0,0,0,0,38.4413,0,0
+PWY1ZNC-1: assimilatory sulfate reduction IV,0,18.3729,1626.569,167.351,495.7495,514.73,196.876,279.2225
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I,0,0,0,0,165.3128,468.489,149.7489,232.5116
+SO4ASSIM-PWY: assimilatory sulfate reduction I,0,18.3729,1626.569,167.351,579.271,722.931,196.876,401.6063
