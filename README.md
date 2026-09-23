@@ -59,4 +59,5 @@ COL_pathways_plots_cpm.ipynb: looking at detected pathways from humann3 output d
 ### Misc repos
 Maps : notebook and ColonyData maps for each site \
 pathways + func_gene_tables : specific outputs from humann3 analysis \
+Probiotic_trials.ipynb : initial analysis of field trial data
 
