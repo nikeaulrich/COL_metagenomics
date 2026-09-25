@@ -12,7 +12,7 @@ SRA Project ID: PRJNA1329178
 * OFAV - Orbicella faveolata
 * PSTR - Pseudodiploria strigosa
 
-Analysis of initial 032024 samples is in 032024_prelim repo, following a similar workflow to the one outlined below (both yrs combined)
+Analysis of initial 032024 samples is in [032024_prelim](https://github.com/nikeaulrich/COL_metagenomics/tree/main/032024_prelim), following a similar workflow to the one outlined below (both yrs combined)
 
 ## Workflow
 
@@ -48,7 +48,7 @@ Analysis of initial 032024 samples is in 032024_prelim repo, following a similar
 [COL_bracken_032024_012025.ipynb](https://github.com/nikeaulrich/COL_metagenomics/blob/main/COL_bracken_032024_012025.ipynb): normalizing ASV abundances \
 [COL_phyloseq.ipynb](https://github.com/nikeaulrich/COL_metagenomics/blob/main/COL_phyloseq.ipynb): ASV phyloseq, ordination, and abundance plots \
 [COL_phyloseq_kingdom_tax.ipynb](https://github.com/nikeaulrich/COL_metagenomics/blob/main/COL_phyloseq_kingdom_tax.ipynb) : kingdom abundance plots \
-[COL_phyloseq_family_tax.ipynb](https://github.com/nikeaulrich/COL_metagenomics/blob/main/COL_phyloseq_family_tax.ipynb) : family abundance plots \
+[COL_phyloseq_family_tax.ipynb](https://github.com/nikeaulrich/COL_metagenomics/blob/main/COL_phyloseq_family_tax.ipynb) : family abundance plots 
 
 - see Figures repo for plots made with these scripts
 
@@ -60,5 +60,5 @@ Analysis of initial 032024 samples is in 032024_prelim repo, following a similar
 
 ### Misc repos
 [Maps](https://github.com/nikeaulrich/COL_metagenomics/tree/main/Maps) : notebook and ColonyData maps for each site \
-[pathways](https://github.com/nikeaulrich/COL_metagenomics/tree/main/pathways) + [func_gene_tables](https://github.com/nikeaulrich/COL_metagenomics/tree/main/func_gene_tables) : specific outputs from humann3 analysis \
+[pathways](https://github.com/nikeaulrich/COL_metagenomics/tree/main/pathways) + [func_gene_tables](https://github.com/nikeaulrich/COL_metagenomics/tree/main/func_gene_tables) : specific outputs from humann3 analysis 
 
