@@ -1,0 +1,174 @@
+Loading database information... done.
+8874663 sequences (2546.73 Mbp) processed in 35.624s (14947.1 Kseq/m, 4289.33 Mbp/m).
+  591338 sequences classified (6.66%)
+  8283325 sequences unclassified (93.34%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_128_MCAV_S1
+Loading database information... done.
+7323201 sequences (2130.37 Mbp) processed in 29.615s (14836.8 Kseq/m, 4316.13 Mbp/m).
+  412150 sequences classified (5.63%)
+  6911051 sequences unclassified (94.37%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_129_MCAV_S2
+Loading database information... done.
+9403989 sequences (2665.69 Mbp) processed in 38.101s (14809.2 Kseq/m, 4197.88 Mbp/m).
+  622449 sequences classified (6.62%)
+  8781540 sequences unclassified (93.38%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_130_MCAV_S37
+Loading database information... done.
+5543107 sequences (1620.58 Mbp) processed in 23.284s (14284.1 Kseq/m, 4176.09 Mbp/m).
+  270124 sequences classified (4.87%)
+  5272983 sequences unclassified (95.13%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_131_MCAV_S3
+Loading database information... done.
+9602578 sequences (2734.08 Mbp) processed in 39.197s (14698.8 Kseq/m, 4185.08 Mbp/m).
+  474086 sequences classified (4.94%)
+  9128492 sequences unclassified (95.06%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_132_MCAV_S4
+Loading database information... done.
+8203214 sequences (2347.06 Mbp) processed in 32.938s (14943.0 Kseq/m, 4275.41 Mbp/m).
+  549363 sequences classified (6.70%)
+  7653851 sequences unclassified (93.30%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_133_MCAV_S5
+Loading database information... done.
+7790048 sequences (2266.58 Mbp) processed in 32.193s (14518.8 Kseq/m, 4224.37 Mbp/m).
+  367387 sequences classified (4.72%)
+  7422661 sequences unclassified (95.28%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_134_MCAV_S6
+Loading database information... done.
+7995111 sequences (2323.92 Mbp) processed in 32.992s (14540.0 Kseq/m, 4226.32 Mbp/m).
+  410132 sequences classified (5.13%)
+  7584979 sequences unclassified (94.87%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_136_MCAV_S7
+Loading database information... done.
+11345852 sequences (3354.34 Mbp) processed in 42.166s (16144.5 Kseq/m, 4773.04 Mbp/m).
+  508468 sequences classified (4.48%)
+  10837384 sequences unclassified (95.52%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_139_OFAV_S17
+Loading database information... done.
+11038342 sequences (3263.35 Mbp) processed in 34.976s (18935.7 Kseq/m, 5598.11 Mbp/m).
+  490792 sequences classified (4.45%)
+  10547550 sequences unclassified (95.55%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_140_OFAV_S18
+Loading database information... done.
+9716533 sequences (2867.80 Mbp) processed in 32.343s (18025.2 Kseq/m, 5320.06 Mbp/m).
+  435025 sequences classified (4.48%)
+  9281508 sequences unclassified (95.52%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_141_OFAV_S19
+Loading database information... done.
+30238675 sequences (8690.67 Mbp) processed in 117.470s (15444.9 Kseq/m, 4438.91 Mbp/m).
+  1518157 sequences classified (5.02%)
+  28720518 sequences unclassified (94.98%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_143_DLAB_S40
+Loading database information... done.
+20965683 sequences (6209.64 Mbp) processed in 178.810s (7035.1 Kseq/m, 2083.66 Mbp/m).
+  782036 sequences classified (3.73%)
+  20183647 sequences unclassified (96.27%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_144_PSTR_S9
+16642889 sequences (4770.38 Mbp) processed in 66.333s (15053.9 Kseq/m, 4314.92 Mbp/m).
+  649187 sequences classified (3.90%)
+  15993702 sequences unclassified (96.10%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_146_DLAB_S12
+Loading database information... done.
+22502329 sequences (6229.55 Mbp) processed in 189.986s (7106.5 Kseq/m, 1967.37 Mbp/m).
+  963961 sequences classified (4.28%)
+  21538368 sequences unclassified (95.72%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_147_PSTR_S10
+Loading database information... done.
+17864752 sequences (5169.72 Mbp) processed in 71.056s (15085.2 Kseq/m, 4365.36 Mbp/m).
+  745047 sequences classified (4.17%)
+  17119705 sequences unclassified (95.83%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_148_DLAB_S13
+Loading database information... done.
+18233681 sequences (5279.32 Mbp) processed in 73.232s (14939.1 Kseq/m, 4325.40 Mbp/m).
+  700372 sequences classified (3.84%)
+  17533309 sequences unclassified (96.16%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_149_DLAB_S14
+Loading database information... done.
+8440442 sequences (2454.70 Mbp) processed in 34.293s (14767.7 Kseq/m, 4294.82 Mbp/m).
+  646830 sequences classified (7.66%)
+  7793612 sequences unclassified (92.34%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_150_MCAV_S8
+Loading database information... done.
+18562351 sequences (4806.21 Mbp) processed in 153.721s (7245.2 Kseq/m, 1875.95 Mbp/m).
+  590600 sequences classified (3.18%)
+  17971751 sequences unclassified (96.82%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_154_PSTR_S38
+Loading database information... done.
+17550481 sequences (5130.80 Mbp) processed in 70.659s (14902.9 Kseq/m, 4356.79 Mbp/m).
+  693398 sequences classified (3.95%)
+  16857083 sequences unclassified (96.05%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_158_DLAB_S15
+Loading database information... done.
+19910793 sequences (5800.04 Mbp) processed in 79.665s (14995.9 Kseq/m, 4368.32 Mbp/m).
+  742203 sequences classified (3.73%)
+  19168590 sequences unclassified (96.27%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_159_DLAB_S16
+Loading database information... done.
+32298606 sequences (8786.78 Mbp) processed in 120.105s (16135.2 Kseq/m, 4389.56 Mbp/m).
+  1399676 sequences classified (4.33%)
+  30898930 sequences unclassified (95.67%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_160_DLAB_S41
+Loading database information... done.
+35872533 sequences (10358.09 Mbp) processed in 139.803s (15395.6 Kseq/m, 4445.43 Mbp/m).
+  1967626 sequences classified (5.49%)
+  33904907 sequences unclassified (94.51%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_161_DLAB_S42
+Loading database information... done.
+27637202 sequences (7621.06 Mbp) processed in 226.786s (7311.9 Kseq/m, 2016.27 Mbp/m).
+  1358871 sequences classified (4.92%)
+  26278331 sequences unclassified (95.08%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_162_PSTR_S39
+Loading database information... done.
+17677180 sequences (5243.77 Mbp) processed in 152.124s (6972.1 Kseq/m, 2068.22 Mbp/m).
+  692715 sequences classified (3.92%)
+  16984465 sequences unclassified (96.08%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_163_PSTR_S11
+Loading database information... done.
+12497183 sequences (3690.26 Mbp) processed in 41.108s (18240.5 Kseq/m, 5386.19 Mbp/m).
+  580766 sequences classified (4.65%)
+  11916417 sequences unclassified (95.35%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_166_OFAV_S20
+Loading database information... done.
+11425697 sequences (3374.74 Mbp) processed in 37.716s (18176.2 Kseq/m, 5368.60 Mbp/m).
+  528011 sequences classified (4.62%)
+  10897686 sequences unclassified (95.38%)
+kraken2 completed successfully for sample: 032024_COL_SAN_T5_167_OFAV_S21
+Loading database information... done.
+28198167 sequences (8515.85 Mbp) processed in 146.790s (11525.9 Kseq/m, 3480.83 Mbp/m).
+  8109864 sequences classified (28.76%)
+  20088303 sequences unclassified (71.24%)
+kraken2 completed successfully for sample: ERR1713346
+Loading database information... done.
+54573 sequences (32.82 Mbp) processed in 1.238s (2645.9 Kseq/m, 1591.06 Mbp/m).
+  54521 sequences classified (99.90%)
+  52 sequences unclassified (0.10%)
+kraken2 completed successfully for sample: SRR10990426
+Loading database information... done.
+15116776 sequences (3713.57 Mbp) processed in 82.178s (11037.1 Kseq/m, 2711.37 Mbp/m).
+  1183051 sequences classified (7.83%)
+  13933725 sequences unclassified (92.17%)
+kraken2 completed successfully for sample: SRR8573788
+Loading database information... done.
+17275697 sequences (4241.10 Mbp) processed in 83.593s (12399.9 Kseq/m, 3044.11 Mbp/m).
+  3165064 sequences classified (18.32%)
+  14110633 sequences unclassified (81.68%)
+kraken2 completed successfully for sample: SRR8573789
+Loading database information... done.
+15022626 sequences (3680.36 Mbp) processed in 74.634s (12077.0 Kseq/m, 2958.72 Mbp/m).
+  5759976 sequences classified (38.34%)
+  9262650 sequences unclassified (61.66%)
+kraken2 completed successfully for sample: SRR8573790
+Loading database information... done.
+14138124 sequences (3466.33 Mbp) processed in 69.357s (12230.8 Kseq/m, 2998.70 Mbp/m).
+  5523436 sequences classified (39.07%)
+  8614688 sequences unclassified (60.93%)
+kraken2 completed successfully for sample: SRR8573791
+Loading database information... done.
+12123846 sequences (2436.76 Mbp) processed in 51.247s (14194.6 Kseq/m, 2852.96 Mbp/m).
+  4747453 sequences classified (39.16%)
+  7376393 sequences unclassified (60.84%)
+kraken2 completed successfully for sample: SRR8573793
+Loading database information... done.
+15687315 sequences (3844.68 Mbp) processed in 81.409s (11561.8 Kseq/m, 2833.59 Mbp/m).
+  2652734 sequences classified (16.91%)
+  13034581 sequences unclassified (83.09%)
+kraken2 completed successfully for sample: SRR8573796

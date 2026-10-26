@@ -1,0 +1,24 @@
+Removing conda version miniforge3-24.7.1
+No conda package cache directories found outside your home directory. To
+prevent conda from filling up your home directory, you can create a new
+directory at `/work/pi_<your_pi_name>/$USER/.conda/pkgs` and reload the module. 
+No conda environment directories found outside your home directory. To prevent
+conda from filling up your home directory, you can create a new directory at
+`/work/pi_<your_pi_name>/$USER/.conda/envs` and reload the module. 
+Loading conda version miniforge3-24.7.1
+Loading database information... done.
+28198167 sequences (8515.85 Mbp) processed in 146.790s (11525.9 Kseq/m, 3480.83 Mbp/m).
+  8109864 sequences classified (28.76%)
+  20088303 sequences unclassified (71.24%)
+kraken2 completed successfully for sample: ERR1713346
+Loading database information... done.
+54573 sequences (32.82 Mbp) processed in 1.238s (2645.9 Kseq/m, 1591.06 Mbp/m).
+  54521 sequences classified (99.90%)
+  52 sequences unclassified (0.10%)
+kraken2 completed successfully for sample: SRR10990426
+Loading database information... done.
+81056 sequences (48.73 Mbp) processed in 1.475s (3298.1 Kseq/m, 1982.73 Mbp/m).
+  80983 sequences classified (99.91%)
+  73 sequences unclassified (0.09%)
+/var/spool/slurm/slurmd/job40048083/slurm_script: line 33: 2622833 Segmentation fault      kraken2 --db $DBNAME --threads $THREADS --report $OUTDIR/"${SAMPLEID}".kreport2 --report-zero-counts --paired $READS/"${SAMPLEID}"_1.fastq.gz $READS/"${SAMPLEID}"_2.fastq.gz > $OUTDIR/"${SAMPLEID}".kraken2
+kraken2 encountered an error for sample: SRR10990427

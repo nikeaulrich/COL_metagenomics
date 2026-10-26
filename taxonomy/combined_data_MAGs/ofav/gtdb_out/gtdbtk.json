@@ -1,0 +1,99 @@
+{
+    "version": "2.5.2",
+    "command_line": "gtdbtk classify_wf -x fa --genome_dir /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/binning/ofav/Das_Tool/ofav_DASTool_bins/ --out_dir /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out",
+    "database_version": "r226",
+    "database_path": "/datasets/bio/gtdb/release226/226.0/auxillary_files/gtdbtk_package/full_package/release226",
+    "steps": [
+        {
+            "name": "ANI screen",
+            "output_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out",
+            "starts_at": "2025-12-16T18:58:11.074245",
+            "ends_at": "2025-12-16T20:03:06.389035",
+            "duration": "1:04:55",
+            "status": "completed",
+            "genome_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/binning/ofav/Das_Tool/ofav_DASTool_bins/",
+            "batchfile": null,
+            "min_af": 0.5,
+            "output_files": {}
+        },
+        {
+            "name": "identify",
+            "output_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out",
+            "starts_at": "2025-12-16T20:03:06.425751",
+            "ends_at": "2025-12-16T20:03:44.787370",
+            "duration": "0:00:38",
+            "status": "completed",
+            "genes": false,
+            "extension": "fa",
+            "write_single_copy_genes": false,
+            "genome_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/binning/ofav/Das_Tool/ofav_DASTool_bins/",
+            "batchfile": null,
+            "output_files": {
+                "all": [
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/identify/gtdbtk.failed_genomes.tsv",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/identify/gtdbtk.translation_table_summary.tsv"
+                ],
+                "ar53": [
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/identify/gtdbtk.ar53.markers_summary.tsv"
+                ],
+                "bac120": [
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/identify/gtdbtk.bac120.markers_summary.tsv"
+                ]
+            }
+        },
+        {
+            "name": "align",
+            "output_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out",
+            "starts_at": "2025-12-16T20:03:44.787527",
+            "ends_at": "2025-12-16T20:09:21.693755",
+            "duration": "0:05:36",
+            "status": "completed",
+            "identify_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out",
+            "skip_gtdb_refs": false,
+            "taxa_filter": null,
+            "min_perc_aa": 10,
+            "custom_msa_filters": false,
+            "skip_trimming": false,
+            "rnd_seed": null,
+            "cols_per_gene": null,
+            "min_consensus": null,
+            "max_consensus": null,
+            "min_perc_taxa": null,
+            "outgroup_taxon": null,
+            "output_files": {
+                "bac120": [
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/align/gtdbtk.bac120.filtered.tsv",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/align/gtdbtk.bac120.msa.fasta",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/align/gtdbtk.bac120.user_msa.fasta"
+                ]
+            }
+        },
+        {
+            "name": "classify",
+            "output_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out",
+            "starts_at": "2025-12-16T20:09:21.694721",
+            "ends_at": "2025-12-16T20:30:28.382802",
+            "duration": "0:21:06",
+            "status": "completed",
+            "align_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out",
+            "genome_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/binning/ofav/Das_Tool/ofav_DASTool_bins/",
+            "batchfile": null,
+            "scratch_dir": null,
+            "debug_option": false,
+            "full_tree": false,
+            "skip_ani_screen": true,
+            "output_files": {
+                "bac120": [
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/classify/gtdbtk.backbone.bac120.classify.tree",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/classify/gtdbtk.bac120.classify.tree.2.tree",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/classify/gtdbtk.bac120.classify.tree.3.tree",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/classify/gtdbtk.bac120.classify.tree.1.tree",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/classify/gtdbtk.bac120.tree.mapping.tsv",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/classify/gtdbtk.bac120.summary.tsv"
+                ]
+            }
+        }
+    ],
+    "output_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out",
+    "path": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/ofav/gtdb_out/gtdbtk.json"
+}

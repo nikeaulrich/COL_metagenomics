@@ -1,0 +1,102 @@
+{
+    "version": "2.5.2",
+    "command_line": "gtdbtk classify_wf -x fa --genome_dir /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/binning/mcav/Das_Tool/mcav_DASTool_bins/ --out_dir /work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out",
+    "database_version": "r226",
+    "database_path": "/datasets/bio/gtdb/release226/226.0/auxillary_files/gtdbtk_package/full_package/release226",
+    "steps": [
+        {
+            "name": "ANI screen",
+            "output_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out",
+            "starts_at": "2025-12-16T18:59:38.143806",
+            "ends_at": "2025-12-16T20:04:05.162000",
+            "duration": "1:04:27",
+            "status": "completed",
+            "genome_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/binning/mcav/Das_Tool/mcav_DASTool_bins/",
+            "batchfile": null,
+            "min_af": 0.5,
+            "output_files": {
+                "bac120": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/classify/ani_screen/gtdbtk.bac120.ani_summary.tsv"
+            }
+        },
+        {
+            "name": "identify",
+            "output_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out",
+            "starts_at": "2025-12-16T20:04:05.201041",
+            "ends_at": "2025-12-16T20:05:19.624116",
+            "duration": "0:01:14",
+            "status": "completed",
+            "genes": false,
+            "extension": "fa",
+            "write_single_copy_genes": false,
+            "genome_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/binning/mcav/Das_Tool/mcav_DASTool_bins/",
+            "batchfile": null,
+            "output_files": {
+                "all": [
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/identify/gtdbtk.failed_genomes.tsv",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/identify/gtdbtk.translation_table_summary.tsv"
+                ],
+                "ar53": [
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/identify/gtdbtk.ar53.markers_summary.tsv"
+                ],
+                "bac120": [
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/identify/gtdbtk.bac120.markers_summary.tsv"
+                ]
+            }
+        },
+        {
+            "name": "align",
+            "output_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out",
+            "starts_at": "2025-12-16T20:05:19.624289",
+            "ends_at": "2025-12-16T20:10:11.412982",
+            "duration": "0:04:51",
+            "status": "completed",
+            "identify_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out",
+            "skip_gtdb_refs": false,
+            "taxa_filter": null,
+            "min_perc_aa": 10,
+            "custom_msa_filters": false,
+            "skip_trimming": false,
+            "rnd_seed": null,
+            "cols_per_gene": null,
+            "min_consensus": null,
+            "max_consensus": null,
+            "min_perc_taxa": null,
+            "outgroup_taxon": null,
+            "output_files": {
+                "bac120": [
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/align/gtdbtk.bac120.filtered.tsv",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/align/gtdbtk.bac120.msa.fasta",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/align/gtdbtk.bac120.user_msa.fasta"
+                ]
+            }
+        },
+        {
+            "name": "classify",
+            "output_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out",
+            "starts_at": "2025-12-16T20:10:11.413862",
+            "ends_at": "2025-12-16T20:33:06.406257",
+            "duration": "0:22:54",
+            "status": "completed",
+            "align_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out",
+            "genome_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/binning/mcav/Das_Tool/mcav_DASTool_bins/",
+            "batchfile": null,
+            "scratch_dir": null,
+            "debug_option": false,
+            "full_tree": false,
+            "skip_ani_screen": true,
+            "output_files": {
+                "bac120": [
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/classify/gtdbtk.backbone.bac120.classify.tree",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/classify/gtdbtk.bac120.classify.tree.2.tree",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/classify/gtdbtk.bac120.classify.tree.8.tree",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/classify/gtdbtk.bac120.classify.tree.7.tree",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/classify/gtdbtk.bac120.classify.tree.3.tree",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/classify/gtdbtk.bac120.tree.mapping.tsv",
+                    "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/classify/gtdbtk.bac120.summary.tsv"
+                ]
+            }
+        }
+    ],
+    "output_dir": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out",
+    "path": "/work/pi_sarah_gignouxwolfsohn_uml_edu/nikea/COL/taxonomy/combined_data_MAGs/mcav/gtdb_out/gtdbtk.json"
+}

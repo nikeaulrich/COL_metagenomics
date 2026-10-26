@@ -1,0 +1,39 @@
+Removing conda version miniforge3-24.7.1
+No conda package cache directories found outside your home directory. To
+prevent conda from filling up your home directory, you can create a new
+directory at `/work/pi_<your_pi_name>/$USER/.conda/pkgs` and reload the module. 
+No conda environment directories found outside your home directory. To prevent
+conda from filling up your home directory, you can create a new directory at
+`/work/pi_<your_pi_name>/$USER/.conda/envs` and reload the module. 
+Loading conda version miniforge3-24.7.1
+Loading database information... done.
+15116776 sequences (3713.57 Mbp) processed in 82.178s (11037.1 Kseq/m, 2711.37 Mbp/m).
+  1183051 sequences classified (7.83%)
+  13933725 sequences unclassified (92.17%)
+kraken2 completed successfully for sample: SRR8573788
+Loading database information... done.
+17275697 sequences (4241.10 Mbp) processed in 83.593s (12399.9 Kseq/m, 3044.11 Mbp/m).
+  3165064 sequences classified (18.32%)
+  14110633 sequences unclassified (81.68%)
+kraken2 completed successfully for sample: SRR8573789
+Loading database information... done.
+15022626 sequences (3680.36 Mbp) processed in 74.634s (12077.0 Kseq/m, 2958.72 Mbp/m).
+  5759976 sequences classified (38.34%)
+  9262650 sequences unclassified (61.66%)
+kraken2 completed successfully for sample: SRR8573790
+Loading database information... done.
+14138124 sequences (3466.33 Mbp) processed in 69.357s (12230.8 Kseq/m, 2998.70 Mbp/m).
+  5523436 sequences classified (39.07%)
+  8614688 sequences unclassified (60.93%)
+kraken2 completed successfully for sample: SRR8573791
+Loading database information... done.
+12123846 sequences (2436.76 Mbp) processed in 51.247s (14194.6 Kseq/m, 2852.96 Mbp/m).
+  4747453 sequences classified (39.16%)
+  7376393 sequences unclassified (60.84%)
+kraken2 completed successfully for sample: SRR8573793
+Loading database information... done.
+15687315 sequences (3844.68 Mbp) processed in 81.409s (11561.8 Kseq/m, 2833.59 Mbp/m).
+  2652734 sequences classified (16.91%)
+  13034581 sequences unclassified (83.09%)
+kraken2 completed successfully for sample: SRR8573796
+Loading database information... done.

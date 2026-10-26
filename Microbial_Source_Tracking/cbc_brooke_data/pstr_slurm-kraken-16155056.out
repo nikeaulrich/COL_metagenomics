@@ -1,0 +1,149 @@
+Loading miniconda version 22.11.1-1
+loading berkeley-db version 18.1.40
+loading bzip2 version 1.0.8
+loading ncurses version 6.2
+loading readline version 8.1
+loading gdbm version 1.19
+loading zlib version 1.2.11
+loading perl version 5.36.0
+loading lz4 version 1.9.3
+loading openssl version 1.1.1l
+loading libiconv version 1.16
+loading popt version 1.16
+loading xxhash version 0.8.1
+loading zstd version 1.5.0
+loading rsync version 3.2.7
+loading wget version 1.21.3
+loading kraken2 version 2.1.2
+Loading database information... done.
+32901040 sequences (9772.96 Mbp) processed in 262.062s (7532.8 Kseq/m, 2237.55 Mbp/m).
+  2747511 sequences classified (8.35%)
+  30153529 sequences unclassified (91.65%)
+Loading database information... done.
+23159221 sequences (6877.40 Mbp) processed in 183.807s (7559.8 Kseq/m, 2244.98 Mbp/m).
+  1916815 sequences classified (8.28%)
+  21242406 sequences unclassified (91.72%)
+Loading database information... done.
+16020690 sequences (4748.39 Mbp) processed in 126.922s (7573.5 Kseq/m, 2244.72 Mbp/m).
+  8284017 sequences classified (51.71%)
+  7736673 sequences unclassified (48.29%)
+Loading database information... done.
+17351886 sequences (5152.96 Mbp) processed in 140.327s (7419.2 Kseq/m, 2203.27 Mbp/m).
+  8292876 sequences classified (47.79%)
+  9059010 sequences unclassified (52.21%)
+Loading database information... done.
+18763016 sequences (5563.86 Mbp) processed in 148.530s (7579.5 Kseq/m, 2247.56 Mbp/m).
+  7453713 sequences classified (39.73%)
+  11309303 sequences unclassified (60.27%)
+Loading database information... done.
+24196261 sequences (7182.10 Mbp) processed in 195.615s (7421.6 Kseq/m, 2202.92 Mbp/m).
+  1902583 sequences classified (7.86%)
+  22293678 sequences unclassified (92.14%)
+Loading database information... done.
+29615054 sequences (8796.15 Mbp) processed in 237.653s (7476.9 Kseq/m, 2220.75 Mbp/m).
+  2355316 sequences classified (7.95%)
+  27259738 sequences unclassified (92.05%)
+Loading database information... done.
+43828341 sequences (13001.70 Mbp) processed in 347.665s (7563.9 Kseq/m, 2243.83 Mbp/m).
+  24593801 sequences classified (56.11%)
+  19234540 sequences unclassified (43.89%)
+Loading database information... done.
+21196862 sequences (6288.99 Mbp) processed in 167.026s (7614.4 Kseq/m, 2259.16 Mbp/m).
+  1652943 sequences classified (7.80%)
+  19543919 sequences unclassified (92.20%)
+Loading database information... done.
+23416543 sequences (6962.35 Mbp) processed in 188.275s (7462.5 Kseq/m, 2218.78 Mbp/m).
+  11504219 sequences classified (49.13%)
+  11912324 sequences unclassified (50.87%)
+Loading database information... done.
+25723079 sequences (7649.91 Mbp) processed in 206.710s (7466.4 Kseq/m, 2220.48 Mbp/m).
+  14797065 sequences classified (57.52%)
+  10926014 sequences unclassified (42.48%)
+Loading database information... done.
+10887256 sequences (3232.42 Mbp) processed in 86.810s (7524.9 Kseq/m, 2234.14 Mbp/m).
+  658132 sequences classified (6.04%)
+  10229124 sequences unclassified (93.96%)
+Loading database information... done.
+18950755 sequences (5621.27 Mbp) processed in 151.126s (7523.8 Kseq/m, 2231.76 Mbp/m).
+  987923 sequences classified (5.21%)
+  17962832 sequences unclassified (94.79%)
+Loading database information... done.
+25386963 sequences (7530.17 Mbp) processed in 202.254s (7531.2 Kseq/m, 2233.88 Mbp/m).
+  14939833 sequences classified (58.85%)
+  10447130 sequences unclassified (41.15%)
+Loading database information... done.
+14265228 sequences (4229.90 Mbp) processed in 113.229s (7559.2 Kseq/m, 2241.43 Mbp/m).
+  5786507 sequences classified (40.56%)
+  8478721 sequences unclassified (59.44%)
+Loading database information... done.
+30869362 sequences (9157.78 Mbp) processed in 254.863s (7267.3 Kseq/m, 2155.93 Mbp/m).
+  15962857 sequences classified (51.71%)
+  14906505 sequences unclassified (48.29%)
+Loading database information... done.
+32953155 sequences (9777.43 Mbp) processed in 268.245s (7370.8 Kseq/m, 2186.98 Mbp/m).
+  13890362 sequences classified (42.15%)
+  19062793 sequences unclassified (57.85%)
+Loading database information... done.
+18273682 sequences (5423.60 Mbp) processed in 146.118s (7503.7 Kseq/m, 2227.07 Mbp/m).
+  1547500 sequences classified (8.47%)
+  16726182 sequences unclassified (91.53%)
+Loading database information... done.
+21259800 sequences (6324.03 Mbp) processed in 171.823s (7423.8 Kseq/m, 2208.33 Mbp/m).
+  10937867 sequences classified (51.45%)
+  10321933 sequences unclassified (48.55%)
+Loading database information... done.
+10660464 sequences (3175.32 Mbp) processed in 86.185s (7421.6 Kseq/m, 2210.59 Mbp/m).
+  855011 sequences classified (8.02%)
+  9805453 sequences unclassified (91.98%)
+Loading database information... done.
+24769854 sequences (7360.66 Mbp) processed in 201.891s (7361.4 Kseq/m, 2187.52 Mbp/m).
+  1928516 sequences classified (7.79%)
+  22841338 sequences unclassified (92.21%)
+Loading database information... done.
+31213609 sequences (9259.38 Mbp) processed in 251.286s (7452.9 Kseq/m, 2210.88 Mbp/m).
+  2615852 sequences classified (8.38%)
+  28597757 sequences unclassified (91.62%)
+Loading database information... done.
+10636072 sequences (3152.89 Mbp) processed in 85.055s (7503.0 Kseq/m, 2224.14 Mbp/m).
+  762278 sequences classified (7.17%)
+  9873794 sequences unclassified (92.83%)
+Loading database information... done.
+34021149 sequences (10093.25 Mbp) processed in 272.619s (7487.6 Kseq/m, 2221.40 Mbp/m).
+  18296021 sequences classified (53.78%)
+  15725128 sequences unclassified (46.22%)
+Loading database information... done.
+29595491 sequences (8787.61 Mbp) processed in 236.337s (7513.6 Kseq/m, 2230.95 Mbp/m).
+  2221937 sequences classified (7.51%)
+  27373554 sequences unclassified (92.49%)
+Loading database information... done.
+25666947 sequences (7629.07 Mbp) processed in 204.724s (7522.4 Kseq/m, 2235.90 Mbp/m).
+  12727167 sequences classified (49.59%)
+  12939780 sequences unclassified (50.41%)
+Loading database information... done.
+26606935 sequences (7891.03 Mbp) processed in 213.749s (7468.7 Kseq/m, 2215.04 Mbp/m).
+  15220952 sequences classified (57.21%)
+  11385983 sequences unclassified (42.79%)
+Loading database information... done.
+30646029 sequences (9097.08 Mbp) processed in 244.462s (7521.7 Kseq/m, 2232.76 Mbp/m).
+  17664557 sequences classified (57.64%)
+  12981472 sequences unclassified (42.36%)
+Loading database information... done.
+27629625 sequences (8206.73 Mbp) processed in 225.122s (7363.9 Kseq/m, 2187.28 Mbp/m).
+  13890630 sequences classified (50.27%)
+  13738995 sequences unclassified (49.73%)
+Loading database information... done.
+35938893 sequences (10678.31 Mbp) processed in 291.831s (7389.0 Kseq/m, 2195.44 Mbp/m).
+  3006017 sequences classified (8.36%)
+  32932876 sequences unclassified (91.64%)
+Loading database information... done.
+35413053 sequences (10498.78 Mbp) processed in 284.117s (7478.5 Kseq/m, 2217.14 Mbp/m).
+  18300243 sequences classified (51.68%)
+  17112810 sequences unclassified (48.32%)
+Loading database information... done.
+16950294 sequences (5032.85 Mbp) processed in 139.598s (7285.3 Kseq/m, 2163.14 Mbp/m).
+  8939352 sequences classified (52.74%)
+  8010942 sequences unclassified (47.26%)
+Loading database information... done.
+41309990 sequences (12258.99 Mbp) processed in 333.863s (7424.0 Kseq/m, 2203.12 Mbp/m).
+  22173667 sequences classified (53.68%)
+  19136323 sequences unclassified (46.32%)
